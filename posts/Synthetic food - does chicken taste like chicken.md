@@ -1,11 +1,3 @@
----
-Title: Synthetic, but still food. Does chicken taste like chicken?
-ID: urn:uuid:927e6a55-b852-4cbd-959b-6d27447761a7
-Category: personal interests,Healthy stuff
-Tags: wip
-Draft: false
----
-
 Interesting times, something I’m pondering and following currently. Putting my thoughts in this article for you.
 
 [The Guardian](https://www.theguardian.com/food/2020/dec/04/no-kill-lab-grown-chicken-burger-restaurant-israel) wrote about how this restaurant in Israël made history by selling a chicken burger, that wasn’t chicken.

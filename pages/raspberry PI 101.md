@@ -1,19 +1,3 @@
----
-Title: Raspberry PI 101 (how to feel less like an idiot)
-
-ID: urn:uuid:3bd431a5-9a73-4ad1-b7af-c39ee794f1e8
-Excerpt: I started as an idiot, now I'm less of one. Let me share that journey with you, so you don’t have to feel like that!
-
-Post-Meta: 
-  toc: true
-  wip: true
-
-Draft: false
-WP-Type: page
-Tags: wip
----
-
-
 * [Goals of Rpi](#goals-of-rpi)
 * [1. My hardware setup](#1-my-hardware-setup)
 * [2. Installation](#2-installation)
@@ -45,17 +29,19 @@ Tags: wip
 I had a lot of things going on on my iMac workstation that I wanted to move away to the Pi. The reasons behind this:
 
 1. Leaving it on costs more power (for sake of mathematics, lets say 100W on average for the iMac, and 10W for the Pi)
-2. I'm doing a lot of development and 'fun' on the iMac, which smakes it prone to crash and/or having to reinstall. Having more people in the house suddenly not being able to turn lights on or off, I found out that is a terrible experience.
+2. I'm doing a lot of development and 'fun' on the iMac, which makes it prone to crash and/or having to reinstall. Having more people in the house suddenly not being able to turn lights on or off, is a terrible experience.
 3. It needs to (keep) work(ing). Think about time machine backups, streaming content from an external drive, that shouldn't be bothering your other tasks. Even though a mac is unix underneath, a headless machine has proven to be more stable.
-4. (shameful but) I haven't used docker before!
+4. (shameful but) I didn’t use docker before! (and yes I know there’s K8s and stuff - that’s beyond the point)
 5. Running this thing headless (allows it to hide in a cabinet or a spot thats not visible) is a nice challenge that I regretted a few times, when dealing with partitioning for instance.
-6. Being independant from sonos, Apple or others to be able to stream audio throughout the house (and reducing cost) - I’m in love with Roon, but Roon core needs a heavier machine than a Pi. There _must_ be something that can replace that experience around!
+6. Being independant from sonos, Apple or others to be able to stream audio throughout the house (and reducing cost) - I’m in love with Roon, but Roon core needs a heavier machine than a Pi. There _must_ be something that can replace that experience around! (current status: Roon server on mac, several Roon endpoints on Pi)
 
 How could I forget how terrible I am at these things when I started...
 
 I started over at least 5 times (flashing the image, rebooting the system, forgetting the WLAN config etc.) because I'm the stubborn one that wants to run this thing headless **only**...
 
 I've learned, I'm sharing. There are a million websites and documents that share this process, but I'd like to do this with you, hoping it got you thinking in the right direction. If yes, you're welcome to leave a comment!
+
+And came 2021 - I’m running 4 Pi’s at home!
 
 ## 1. My hardware setup
 
@@ -64,9 +50,8 @@ I've learned, I'm sharing. There are a million websites and documents that share
 - Rasp pi 4, 2 GB (wasn't any other in stock, happy camper, with ~~8-9~~15 containers running it sits quiet at about 50% memory )
 - 64 GB SD card (pretty standard sandisk thingy, didn't bother to run it on the external drive - [performance is quite similar unless you run an SSD](https://www.tomshardware.com/news/raspberry-pi-4-ssd-test,39811.html)). I’ve ordered a USB to NVM2 converter to see the performance. That should be quite dramatic.
 - 10 TB seagate drive as external storage
-- Cabled to hook up to the AppleTV for homebridge, but they're switched to a Google wifi router for access to the rest of the house.
+- Cabled connections, the wifi is not great.
 - Mac OSX 11 for flashing using [Etcher](https://www.balena.io/etcher/) and SSH using [iTerm2](https://www.iterm2.com/)/ohmyZSH.
-- Audioquest dragonfly red for streaming audio (works fine in raspbian, no drivers needed)
 
 ## 2. Installation
 
@@ -162,7 +147,7 @@ Host *
     AddKeysToAgent	yes
 ```
 
-### 2.2. Mmanaging USB drives
+### 2.2. Managing USB drives
 
 I formatted my 10 TB drive into a few pieces;
 
@@ -184,7 +169,7 @@ I'm skipping a few details here, since my scenario is specific. But make sure to
 
 I've considered changing the size a few times afterwards (my partner had a bigger need than I expected for disk space) - I decided to connect my drive to my mac, boot a virtual linux setup with a gui and use [Gparted](https://gparted.org/) to do so.
 
-There is a commandline alternative where it’s based on called [parted](https://www.tecmint.com/parted-command-to-create-resize-rescue-linux-disk-partitions/), and in combination with fdisk can do destructive stuff. I didn’t touch that after one attempt.
+There is a commandline alternative where it’s based on called [parted](https://www.tecmint.com/parted-command-to-create-resize-rescue-linux-disk-partitions/), and in combination with fdisk can do destructive stuff. I didn’t touch that after one attempt that failed.
 
 ### 2.3. OMV5 (openmediavault) on debian -- (FAILED!)
 
@@ -420,9 +405,9 @@ Very useful:
 
 ### 2.12. Music streaming server with (Docker) DAAPD
 
-Things like [DAAPD](https://github.com/jasonmc/forked-daapd) are an amazing example of how powerful, streamlined and slick open source projects have become over the years.
+[DAAPD](https://github.com/jasonmc/forked-daapd) is an amazing example of how powerful, streamlined and slick open source projects have become over the years.
 
-I’ve considered multiple options to stream audio that I won’t go in to detail here, but DAAPD has been thus far the one that is free, easy to setup, stable and with great performance.
+I’ve considered multiple options to stream audio that I won’t go in to detail here, but DAAPD has been thus far the one that is free, easy to setup, stable and with great performance. (if you have the spare cash, I would suggest going Roon - but you’ll need a server)
 
 My docker-compose file for you:
 
@@ -458,7 +443,7 @@ A nice little video from Darko.audio on the spoti-pi:
 
 https://youtube.com/watch?v=-CfnXOlYiz
 
-//todo: pihole, deconz, nodered (2x), nrgok, portainer, nginx, mqtt, raspotify, mopidy
+//todo: pihole, deconz, nodered (2x), nrgok, portainer, nginx, mqtt, raspotify, mopidy - move away audio stuff to it’s own post?
 
 ## 3. useful tools and links
 

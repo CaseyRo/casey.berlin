@@ -1,13 +1,6 @@
----
-ID: urn:uuid:6347076e-d7af-46c9-a67b-e13a9e623b82
-Title: How
-WP-Type: page
-Draft: false
----
-
 The difference between *how* and *what* is blurry - I’d like to share my definitions here, consider them whilst you’re snooping around on this site. If you skipped the [why, go back to start](https://casey.berlin/pages/why/). You will not receive $ 20.000.
 
-My *how* is a ‘guide to the galaxy’, a set of processes, my ‘magic tricks’, the hard work. It’s the thing you would hire me for, to talk how we get from 0 to 1, building a relationship with your first customer, developing (with) your (SAFe) product team or improving your mobile app from 2 to 5 stars (I know your pain!)
+My *how* is a ‘guide to the galaxy’, a set of processes, my ‘magic tricks’, the hard work. It’s the thing you would hire me for, to talk how we get from 0 to 1, building a relationship with your first customer, developing (with) your (SAFe) product team or improving your mobile app from 2 to (about) 5 stars (I know your pain!)
 
 The *how* is the discussion we have considering your business idea, pitch, or formatted vision / mission statements (hint: I don’t do well in vision workshops, call me when you’re done with that!) - and *how* to bring that idea to reality. 
 

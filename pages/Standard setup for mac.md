@@ -1,19 +1,3 @@
----
-Title: Standard mac setup for me!
-
-ID: urn:uuid:8fcf23ab-276d-436b-a3ad-e7266f9cd131
-Excerpt: Every time I get a new mac I need to jump through all these hoops. I’ve decided to share this with myself for the future, and with you now too!
-
-Post-Meta: 
-  toc: true
-  wip: true
-
-Draft: false
-WP-Type: page
-Tags: wip
----
-
-
 * [Getting started with a new installation][1]
 * [Installing the standard software][2]
 * [Homebrew / cask][3]
@@ -24,13 +8,13 @@ Tags: wip
 * [For everyone keeping up to the end][8]
 * [Things that are manual][9]
 
-There’s one thing I love most of a new job, and one thing I don’t like at all - getting a new machine.
+There’s one thing I love at a new job, and one thing I don’t like at all - getting a new machine.
 
-Or, worse, setting up the machine again once in a while, just so it feels more neat, or if Apple decides to throw in a new update.
+Or, worse, setting up the machine again once in a while. Especially if Apple decides to throw in a new update.
 
 Or I screwed up - again, in the terminal or otherwise.
 
-To make that process simple, over the years I’ve developed a bit of a flow to get to where I want to be, setting up my machine and installing software.
+To make that process simple, over the years I’ve developed a flow to get to where I want to be, setting up my machine and installing software.
 
 _Please be aware that a lot of this contains the terminal. It can be a daunting environment at first, but once you get the hang of it, a lot faster than your regular clicky clicky mouse setup!_
 
@@ -47,18 +31,18 @@ Now you’ve booted into your fresh clean OS, please make sure that you **always
 ![aerial view photography of mountain near body of water|Thomas Ciszewski|https://unsplash.com/photos/erApmfRX7eo][image-1]{.unsplash}
 
 We’re here, ready for the terminal?
-Use spotlight (CMD+space) to find the terminal application and open it.
+Use spotlight (CMD+space) to find the ```terminal``` application and open it.
 
 //todo: needs a terminal screenshot
 
-You know the ‘software upgrade’ feature to update your OS, you can do that from the terminal too. Just type along;
+A nice party trick to start. You know the ‘software upgrade’ feature to update your OS? you can do that from the terminal. Type along;
 
 ```shell
 sudo softwareupdate -ia
 ```
 
 To explain this bit;
-1. The `sudo` part asks your computer to use the `softwareupdate` command with more rights, meaning it allows you to install Mac OS updates as an administrator.
+1. The `sudo` part asks your computer to use the `softwareupdate` command with `superuser do` rights, meaning it allows you to install Mac OS updates as an administrator.
 2. The `-ia` part is as it’s called a ‘parameter’ or ‘flag’, in this case asking for the installation (the `i` part) of all (the `a` part) the available updates.
 
 In case you’re interested, type `softwareupdate —help` to look at all the other available flags.
@@ -106,7 +90,7 @@ brew install gpg
 
 (You can copy the entire scripts above if you’d like, they will work, normally. Let me know if they don’t!)
 
-The difference between brew / homebrew is easy, ‘brew’ is only used for open source, free to use software, where homebrew also allows closed source applications to be installed, without the whole hassle of finding the software through other ways.
+The difference between brew / homebrew is easy, ‘brew’ is only used for open source, free to use software, where homebrew also allows closed source applications to be installed, without the whole hassle of finding the software through other ways. Just don’t try to install adobe stuff.
 
 ### Third step, installing useful homebrew packages
 This list has become extensive and fluid over the years, but in my installation consists of;
