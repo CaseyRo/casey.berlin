@@ -20,22 +20,32 @@ it’s a Linux system, so copying and pasting is also a way to go!
 	* bla
 	* bla
 	* bla
+* I assume potentially you can also copy all your `NPM` and `apt` packages (or make a backup?)
+
+//todo: check a NPM list backup solution
 
 # Scenario 3: Flat fresh install
 
 I recently had to do this, so I’m going to paste what I needed to do as a reminder for myself:
 
 * Setup Pi according to my own manual
+* Setup `/etc/fstab` to mount the right folders
+* Setup hifiberry Amp2 ([manual](https://www.hifiberry.com/docs/software/configuring-linux-3-18-x/))
 * Install:
 	* ZSH / .oh-my-zsh
 	* Byobu
 	* MC - Midnight commander
-	* Restic
+	* NPM
 	* Docker
 		* Add pi to swarm
-	* Crontab-ui
+	* [Crontab-ui](https://github.com/alseambusher/crontab-ui)
 		* Add starting of crontab-ui to itself
-	* Nodered 
+	* Restic
+		* Run restic-e.sh from NFS share
+		* Add to crontab
+	* Nodered ([install with NPM](https://nodered.org/docs/getting-started/local))
 		* Set `settings.json` to run on NFS share
-	* Roonbridge
-	* Shairplay sync 2 beta
+		* Run node-red with `--settings settings.json and --userDir DIR` 
+	* [Roonbridge](https://help.roonlabs.com/portal/en/kb/articles/linux-install#Roon_Bridge_armv7hf)
+	* [Shairplay sync 2 beta](https://github.com/mikebrady/shairport-sync/blob/development/BUILDFORAP2.md)
+* Copy according to step 2 above
