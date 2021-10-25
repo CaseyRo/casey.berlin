@@ -1,4 +1,4 @@
-Disaster recovery. 
+Disaster recovery.
 
 I’m using one of the four RPi at home to power two old speakers I’ve bought on eBay, they’re fantastic to listen to and I’m surprised again and again on their quality and clarity (Phonar M3’s in case you’re interested).
 
@@ -24,7 +24,14 @@ Since the first scenario didn’t work for changing the rights on my `/etc/` fol
 
 * Setup RPi according to [my own manual](https://casey.berlin/raspberry-pi-101/)
 * Setup `/etc/fstab` to mount the right folders
+
+```bash
+# <file system>     <dir>       <type>   <options>   <dump>	<pass>
+10.10.0.10:/backups /var/backups  nfs      defaults    0       0
+```
+
 * Setup hifiberry Amp2 ([manual](https://www.hifiberry.com/docs/software/configuring-linux-3-18-x/)) – this thing truly is a box of magic!
+* Run the following script:
 
 ```bash
 sudo apt install -y zsh byobu mc restic docker-ce docker-ce-cli containerd.io python3-pip neofetch figlet
@@ -33,12 +40,12 @@ sudo apt install -y zsh byobu mc restic docker-ce docker-ce-cli containerd.io py
 This script installs a bunch of software using apt (ubuntu's package manager) with:
 
 * ZSH (I prefer [.oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) on top)
-* Byobu
-* MC - Midnight commander
-* Restic
-* Python 3's package manager (pip3)
-* Docker
-* Neofetch / figlet (fun stuff for the terminal)
+	* Byobu
+	* MC - Midnight commander
+	* Restic
+	* Python 3's package manager (pip3)
+	* Docker
+	* Neofetch / figlet (fun stuff for the terminal)
 
 *Please note that Docker (is messy using apt, [read more here.](https://docs.docker.com/engine/install/debian/#install-using-the-repository))*
 
@@ -61,11 +68,10 @@ npm i -g crontab-ui node-red
 ```
 
 *Installs crontab-ui and node-red*
-
 Crontab-ui is a web based GUI for scheduling cron jobs, it’s easy to use, and lets you manage cron jobs without having to deal with `VI` or `nano`.
 
 * [Crontab-ui](https://github.com/alseambusher/crontab-ui)
-	* I’ve added a small bash script to crontab-ui itself to start itself (yes, very meta) 
+	* I’ve added a small bash script to crontab-ui itself to start itself (yes, very meta)
 
 I’ve mentioned Restic in scenario1 before this, it’s nice and quick.
 
@@ -100,4 +106,4 @@ Last but not least:
 
 The last step is personal preference, I have a specific byobu / zsh configuration I enjoy working with. YMMV.
 
-Comments? Questions? Feel free to leave your remarks below! 
+Comments? Questions? Feel free to leave your remarks below!
