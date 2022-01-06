@@ -31,6 +31,7 @@ Thanks for the inspiration [Frank Meeuwsen][1], and [Derek Sivers][2] on getting
 	1. Lights, outlets and switches using [zigbee2mqtt][5]
 	2. IP based devices from [Shelly][6]
 	3. “Some” logic in nodered enabling pretty much everything automatically
+	4. And _everything_ is of course running on one of my raspberry Pi’s!
 3. I picked up photography again
 4. I started running again after gaining 12 KG during the corona years. Together with mobility exercises I’m getting into a flow again
 
