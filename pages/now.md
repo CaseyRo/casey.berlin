@@ -54,6 +54,7 @@ I’m a casual gamer, so I enjoy a lot of games but on my ‘currently playing�
 
 1. Forza Horizon 5
 2. Devil may cry series (bloody palace in DMC5 currently)
+3. Minecraft dungeons (co-op is fun!)
 
 [1]:	https://diggingthedigital.com/now/
 [2]:	https://sive.rs/now3
