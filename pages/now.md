@@ -1,64 +1,74 @@
 I love the idea of keeping a bit of ‘now’ going on what I’m doing and what’s happening in my life.
 See it as a personal limited view about what is going on _right now_, not what has happened in the past (I need a resume page for that around here)
 
-Thanks for the inspiration [Frank Meeuwsen][1], and [Derek Sivers][2] on getting this all started!
+Thanks for the inspiration [Frank Meeuwsen][1], [Derek Sivers][2] and especially [Harry Kellert][3] on getting this all started!
 
 # Work
 
-1. I’m currently working as Product Owner at Diconium. I’m responsible for (a part of) the weconnect.ID app, this is taking most of my time these days.
-2. I’m also “Team Lead”, pretty much meaning I’m coaching a team of Product Owners and Scrum Masters on the job. I love this part and am trying to extend it.
-3. This always feels more hobby than work, I’m also consulting my better half at her company, [wattedoeninberlijn.nl][3] - and doing pretty much all the tech work there.
+1. I’m currently working as Product Owner at Diconium. Responsible for (a part of) the [weconnect.ID app][4], this is taking most of my time these days.
+2. Additionally, coaching as “Team Lead”, of Product Owners and Scrum Masters on the job. I love this part, and I am trying to extend it.
+3. This always feels more hobby than work, I’m consulting my better half at her company, [wattedoeninberlijn.nl][5] – and doing the tech work there.
 
 # Personal life
 
-1. We’ve moved to a nice small village (lived in Berlin for 8 years) little over an hour travelling from the bustling city center. It has done well for mental and physical reasons, let alone the financial ones.
-2. I’m engaged for 3 years now, COVID has kept us from getting married
-3. Trying to cope with COVID as we all do, even though thanks to the move I feel this is my life now, things no longer feel on hold as before.
+1. Recently moved to a nice small village (lived in Berlin for 8 years) little over an hour travelling from the bustling city center. The move has done us well, both for mental and physical reasons.
+2. I’m engaged for 3 years now, COVID-19 has kept us from getting married
+3. Trying to cope with COVID-19 as we all do, even though thanks to the move I feel this is my life now, things no longer feel on hold as before.
 
 # Hobby
 
 1. I do a few things for #WTDIB;
-	1. Keeping a PHP, based on [Slim PHP][4] backend going. Connecting:
-		1. Stripe
-		2. Moneybird
-		3. Sendgrid
-		4. and some other API’s
+	1. Keeping a PHP, based on [Slim PHP][6] REST API backend going. Connecting:
+		1. Google sheets (as database, no joke 😉) 
+		2. Stripe
+		3. Moneybird
+		4. Sendgrid
+		5. SQLite
+		6. Nodered
+		7. and some other APIs
 
-	1. Building and maintaining a PHP/javascript frontend for people to book the (digital) tours my fiancee is organising (in Dutch) based on
-		1. Plain JS (and Ok, Jquery #sorrynotsorry)
+	1. Building and maintaining a PHP/javascript frontend for people to book the (digital) tours my fiancée is organising (in Dutch) based on
+		1. Plain JS (with jQuery and Lodash splashed around for laziness)
 		2. TailwindCSS
 		3. Mustache
 		4. Stripe
 
-	1. Doing some background analysis and feeding curiosity with
+	1. Doing background analysis, feeding curiosity with
 		1. Sentry
 		2. Segment
 		3. Cypress.io
 
-2. I have a big interest in home automation, using NodeRed to have a system that is not depending on a single supplier too much (except Apple for the UI). It connects the following parts;
-	1. Lights, outlets and switches using [zigbee2mqtt][5]
-	2. IP based devices from [Shelly][6]
-	3. “Some” logic in nodered enabling pretty much everything automatically
-	4. And _everything_ is of course running on one of my raspberry Pi’s!
+2. I have a big interest in home automation, using NodeRed to have a system that is independent of any single supplier (except Apple for the UI). This system connects the following parts;
+	1. Lights, outlets, and switches using [zigbee2mqtt][7]
+	2. IP-based devices from [Shelly][8]
+	3. “Some” logic in nodered, enabling pretty much everything automatically
+	4. And _everything_ is, of course, running on one of my Raspberry Pi’s!
 
 3. I picked up photography again
-4. I started running again after gaining 12 KG during the corona period. Together with mobility exercises I’m getting into a flow again, 3 runs a week and 4-5 range of motion workouts.
+4. I started running again after gaining 12 KG during the corona period. Together with mobility exercises, I’m getting into a flow again, 3 runs a week and 4-5 range of motion workouts. (If I wasn’t injured thanks to a silly accident 😔)
 
 # Reading
 
 1. ‘The expanse’ series
+2. Waiting for the next Obama book
 
 # Gaming
 
-I’m a casual gamer, so I enjoy a lot of games but on my ‘currently playing’ list are:
+I’m a casual gamer, so I enjoy numerous games but on my ‘currently playing’ list are:
 
-1. Forza Horizon 5
-2. Devil may cry series (bloody palace in DMC5 currently)
-3. Minecraft dungeons (co-op is fun!)
+1. Cyberpunk 2077 (patch 1.5 is very solid)
+2. F1 2021 (catching up for the season)
+3. Minecraft Dungeons (co-op is fun!)
+
+Played recently (not bored with it yet)
+1. DMC5
+2. Forza Horizon 5
 
 [1]:	https://diggingthedigital.com/now/
 [2]:	https://sive.rs/now3
-[3]:	https://wattedoeninberlijn.nl
-[4]:	https://www.slimframework.com
-[5]:	https://www.zigbee2mqtt.io
-[6]:	https://shelly.cloud
+[3]:	https://www.harryfk.com/now/
+[4]:	https://apps.apple.com/de/app/volkswagen-we-connect-id/id1517566572?l=en
+[5]:	https://wattedoeninberlijn.nl
+[6]:	https://www.slimframework.com
+[7]:	https://www.zigbee2mqtt.io
+[8]:	https://shelly.cloud
