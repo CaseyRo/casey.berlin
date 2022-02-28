@@ -45,8 +45,8 @@ Thanks for the inspiration [Frank Meeuwsen][1], [Derek Sivers][2] and especially
 	4. And _everything_ is, of course, running on one of my Raspberry Pi’s!
 
 3. I picked up photography again
-4. I started running again after gaining 12 KG during the corona period. Together with mobility exercises, I’m getting into a flow again, 3 runs a week and 4-5 range of motion workouts. (If I wasn’t injured thanks to a silly accident 😔)
-
+4. Being currently injured is my biggest ‘pain’, so no running or crossfit for the moment
+5. Reading up / watching a lot of F1 content recently, since the new season is coming!
 # Reading
 
 1. ‘The expanse’ series
@@ -55,6 +55,8 @@ Thanks for the inspiration [Frank Meeuwsen][1], [Derek Sivers][2] and especially
 # Gaming
 
 I’m a casual gamer, so I enjoy numerous games but on my ‘currently playing’ list are:
+
+![Cyberpunk][image-1]
 
 1. Cyberpunk 2077 (patch 1.5 is very solid)
 2. F1 2021 (catching up for the season)
@@ -72,3 +74,5 @@ Played recently (not bored with it yet)
 [6]:	https://www.slimframework.com
 [7]:	https://www.zigbee2mqtt.io
 [8]:	https://shelly.cloud
+
+[image-1]:	https://casey.berlin/wp-content/uploads/2022/02/Cyberpunk.jpeg
