@@ -1,16 +1,16 @@
 # About those two years of solitary confimenent
-We’re almost out! Corona is behind us! New ideas, a blank canvas, a plot to draw! Did we really stand still all the time? Or did we missed an opportunity?
+We’re almost out! Corona is behind us! New ideas, a blank canvas, a plot to fill! Did we really stand still all that time? Or did we miss the opportunity to turn this into profit?
 
-A torn story unfolded, from my personal perspective.
+A personal story unfold, my personal (torn) perspective.
 
 ## Back to normal? Or has normal held us back?
-I know very well how I felt in March 2020, 2 years ago. I felt put on pause, uncertain, waiting for things to pass.
+I know well how I felt in March 2020, 2 years ago. Put on pause, uncertain, waiting for things to pass.
 
-Even though I only just started my new job, me being my unconfident self, getting to know new colleagues, trying to stand out a bit here and there, spending too much energy in things that only slightly touch the boundaries of my job.
+I only just started my new job, being my unconfident self, getting to know new colleagues, trying to stand out a bit, ready to spend too much energy in things that only slightly touched the boundaries of my job. As I always do.
 
-I felt I had to put myself, and my progress, on pause. At least for a few days.
+But I felt I had to put myself, and my progress, on pause. Reset.
 
-I considered my position — an apartment for a great price in Berlin, a fresh fiancee, a wedding planned and almost funded — and the opportunities in a new job. 
+After a few weeks I considered my position — an apartment for a great price in Berlin, a fiancee waiting to get married, a wedding planned and almost funded — and the opportunities in a new job. 
 Being a “manager” of sorts (even though a Product Owner isn’t really) it would take time to adjust to “working from home”, but even that felt like a win.
 
 But there’s also the other end, where my fiancee works in tourism in Berlin, with a niche carved out in Dutch stone, with closing borders and tight restrictions in place. We had to adjust our lives.
