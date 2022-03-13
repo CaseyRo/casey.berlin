@@ -1,6 +1,8 @@
 I love the idea of keeping a bit of ‘now’ going on what I’m doing and what’s happening in my life.
 See it as a personal limited view about what is going on _right now_, not what has happened in the past (I need a resume page for that around here)
 
+<b class=“bullshit”>something inspirational</b>
+
 Thanks for the inspiration [Frank Meeuwsen][1], [Derek Sivers][2] and especially [Harry Kellert][3] on getting this all started!
 
 # Work
