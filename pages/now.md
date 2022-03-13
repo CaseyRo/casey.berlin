@@ -1,7 +1,7 @@
 I love the idea of keeping a bit of ‘now’ going on what I’m doing and what’s happening in my life.
 See it as a personal limited view about what is going on _right now_, not what has happened in the past (I need a resume page for that around here)
 
-<b class=“bullshit”>something inspirational</b>
+![test][image-1] {#someid}
 
 Thanks for the inspiration [Frank Meeuwsen][1], [Derek Sivers][2] and especially [Harry Kellert][3] on getting this all started!
 
@@ -58,7 +58,7 @@ Thanks for the inspiration [Frank Meeuwsen][1], [Derek Sivers][2] and especially
 
 I’m a casual gamer, so I enjoy numerous games but on my ‘currently playing’ list are:
 
-![Cyberpunk][image-1]
+![Cyberpunk][image-2]
 
 1. Cyberpunk 2077 (patch 1.5 is very solid)
 2. F1 2021 (catching up for the season)
@@ -77,4 +77,5 @@ Played recently (not bored with it yet)
 [7]:	https://www.zigbee2mqtt.io
 [8]:	https://shelly.cloud
 
-[image-1]:	https://casey.berlin/wp-content/uploads/2022/02/Cyberpunk.jpeg
+[image-1]:	https://pixabay.com/photos/soldier-dog-companion-service-870399/
+[image-2]:	https://casey.berlin/wp-content/uploads/2022/02/Cyberpunk.jpeg
