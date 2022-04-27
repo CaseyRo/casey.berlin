@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "803466ede913c34d",
+    "type": "split",
+    "children": [
+      {
+        "id": "18a9b6618c165bc6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "posts/00 just a random new post.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a93e254fff1e8447",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7f16a107c380e4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a470c7b85ac08211",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6a0123fb9f8d1cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a21cb7a428850bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "94e953dc6f57ce01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8f4abc447219196",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/00 just a random new post.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee989a88764f0865",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "18a9b6618c165bc6",
+  "lastOpenFiles": [
+    "posts/00 just a random new post.md"
+  ]
+}
