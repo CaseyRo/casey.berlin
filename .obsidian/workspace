@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/00 just a random new post.md",
+            "file": "posts/A quick (raspberry) pi recovery.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/00 just a random new post.md",
+                "file": "posts/A quick (raspberry) pi recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "18a9b6618c165bc6",
   "lastOpenFiles": [
+    "posts/A quick (raspberry) pi recovery.md",
     "posts/00 just a random new post.md"
   ]
 }
