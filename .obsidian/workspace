@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18a9b6618c165bc6",
+  "active": "e6a0123fb9f8d1cd",
   "lastOpenFiles": [
     "posts/A quick (raspberry) pi recovery.md",
     "posts/00 just a random new post.md"
