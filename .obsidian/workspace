@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gitlab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
