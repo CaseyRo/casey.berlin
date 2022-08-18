@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/A quick (raspberry) pi recovery.md",
+            "file": "pages/Standard setup for mac.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gitlab",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/A quick (raspberry) pi recovery.md",
+                "file": "pages/Standard setup for mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e6a0123fb9f8d1cd",
+  "active": "18a9b6618c165bc6",
   "lastOpenFiles": [
     "posts/A quick (raspberry) pi recovery.md",
     "posts/00 just a random new post.md"
