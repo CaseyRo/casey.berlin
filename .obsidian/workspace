@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Standard setup for mac.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Standard setup for mac.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +95,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18a9b6618c165bc6",
+  "active": "a470c7b85ac08211",
   "lastOpenFiles": [
+    "pages/Standard setup for mac.md",
     "posts/A quick (raspberry) pi recovery.md",
     "posts/00 just a random new post.md"
   ]
