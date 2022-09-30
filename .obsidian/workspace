@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "posts/Synthetic food - does chicken taste like chicken.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 368.5
   },
   "right": {
     "id": "1a21cb7a428850bf",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "posts/Synthetic food - does chicken taste like chicken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +95,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a470c7b85ac08211",
+  "active": "18a9b6618c165bc6",
   "lastOpenFiles": [
+    "README.md",
     "pages/Standard setup for mac.md",
     "posts/A quick (raspberry) pi recovery.md",
     "posts/00 just a random new post.md"

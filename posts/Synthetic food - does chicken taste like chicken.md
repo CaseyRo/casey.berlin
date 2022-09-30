@@ -25,3 +25,4 @@ Articles I’ve read about this topic that might be of interest for you:
 2. [Singapore approving cultivated meat as first country in the world](https://www.pri.org/stories/2020-12-21/singapore-s-approval-lab-grown-meat-win-climate)
 3. [Pepsi getting into action with ‘beyond meat’ collaboration](https://www.vox.com/future-perfect/2021/1/27/22252414/beyond-meat-pepsi)
 4. [Israel is advancing quickly on synthetic food, but plant based is successful too, in a dominently meat driven market.](https://www.israel21c.org/israel-gets-first-taste-of-3d-printed-meat-and-likes-it/)
+5. [Syntethic milk is making a lot of progress](https://www.channelnewsasia.com/commentary/synthetic-milk-animal-cow-dairy-lab-grown-climate-change-2909276)
