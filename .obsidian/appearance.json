@@ -3,5 +3,6 @@
   "translucency": false,
   "interfaceFontFamily": "Helvetica",
   "monospaceFontFamily": "Andale Mono",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": ""
 }
