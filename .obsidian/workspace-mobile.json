@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "803466ede913c34d",
+    "type": "split",
+    "children": [
+      {
+        "id": "15c8ec8fcd3d97e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18a9b6618c165bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All things ChatGPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d449f345902c94d2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4d0782fdad2f043a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b1c0dc9362755bf9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "68dfe9e2847ead6f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6192737410efd893",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "All things ChatGPT.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2666121dd63831a6",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "18a9b6618c165bc6",
+  "lastOpenFiles": [
+    "posts/machine learning dallE stable fusion etc.md",
+    "posts/Synthetic food - does chicken taste like chicken.md",
+    "README.md",
+    "pages/Standard setup for mac.md",
+    "posts/A quick (raspberry) pi recovery.md",
+    "posts/00 just a random new post.md"
+  ]
+}
