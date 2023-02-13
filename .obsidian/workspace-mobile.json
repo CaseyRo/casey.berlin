@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All things ChatGPT.md",
-                "mode": "source",
+                "file": "posts/All things ChatGPT.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -66,7 +66,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "All things ChatGPT.md",
+            "file": "posts/All things ChatGPT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
     ],
     "currentTab": 0
   },
-  "active": "18a9b6618c165bc6",
+  "active": "4d0782fdad2f043a",
   "lastOpenFiles": [
     "posts/machine learning dallE stable fusion etc.md",
     "posts/Synthetic food - does chicken taste like chicken.md",
