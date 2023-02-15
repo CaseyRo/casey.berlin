@@ -1,4 +1,4 @@
-# Becoming a great multitasker
+
 
 _is this clickbait? Let’s say it is. Reality is that more of us need to ‘switch contexts’ more times a day then a lightbulb in it’s lifetime, might as well get better at it!_
 
