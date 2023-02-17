@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/All things ChatGPT.md",
-                "mode": "preview",
+                "file": "posts/Becoming a better multitasker.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -66,7 +66,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "posts/All things ChatGPT.md",
+            "file": "posts/Becoming a better multitasker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -90,6 +90,8 @@
   },
   "active": "4d0782fdad2f043a",
   "lastOpenFiles": [
+    "posts/The battle of keeping work 'hybrid' (or not).md",
+    "posts/All things ChatGPT.md",
     "posts/machine learning dallE stable fusion etc.md",
     "posts/Synthetic food - does chicken taste like chicken.md",
     "README.md",

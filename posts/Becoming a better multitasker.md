@@ -31,3 +31,6 @@ Be aware that you might feel powerful or have a holy sh•t moment trying these 
 If you’re looking for the conclusion, the TLDR, this is my mega tip: 
 
 **Say no. More often/clearly/repeatedly than you do now**. 
+
+Extra reading / inspiration:
+1. https://www.inc.com/marcel-schwantes/5-things-smartest-people-do-that-make-them-super-productive-without-destroying-their-health.html
