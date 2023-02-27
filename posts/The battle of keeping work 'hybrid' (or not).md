@@ -12,3 +12,7 @@ I'm currently gathering information and researching this topic. Feel free to add
 3. https://12ft.io/proxy?q=https%3A%2F%2Ffortune.com%2F2023%2F02%2F14%2Fremote-work-rebounding-workers-skipping-commute%2F
 
 ![testing123](https://casey.berlin/wp-content/uploads/2023/02/testing123.jpeg)
+
+![sien](https://casey.berlin/wp-content/uploads/2023/02/sien.jpeg) 
+
+ID: 389
