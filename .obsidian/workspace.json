@@ -27,7 +27,7 @@
               "state": {
                 "file": "posts/The battle of keeping work 'hybrid' (or not).md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 443.5
   },
   "right": {
     "id": "1a21cb7a428850bf",
