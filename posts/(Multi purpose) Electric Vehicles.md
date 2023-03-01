@@ -1,6 +1,5 @@
 
 This article is in progress, a topic I've been researching and refining. Follow along if you like it.
-
 Next to the known 'new EV manufacturers' and the old school companies playing catch-up, there are some rarities around as well, that I can be very excited about (and also sceptical)
 
 What I love most about these new manufacturers is the way they look at building their vehicles. Technology like ‘microfactories’ (building vehicles with a lot fewer robots than a full assembly line) makes their options a lot more flexible/agile.
