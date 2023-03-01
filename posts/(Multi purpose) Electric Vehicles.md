@@ -13,9 +13,14 @@ Examples of manufacturers I’m tracking:
 
 ## NIO
 * not that new anymore, also have their HQ in Berlin!
+* their business model and ideas are creative, refreshing, new, and dealing with 'range anxiety' in a way that makes a ton of sense - as long as you drive nio. 
+* repeating myself. _as long as you drive nio_.
+
 ![Nio in Berlin](https://casey.berlin/wp-content/uploads/2023/03/Nio-.jpeg) 
 
-ID: 390
+Articles of interest:
+1. https://teslamag.de/news/nio-10000-elektroauto-akku-tausch-europa-1000-neue-stationen-china-56834
+
 
 ## CANOO MP vehicle
 https://youtu.be/IRY9p9qHKgA
