@@ -6,6 +6,8 @@ Managers lost control of their employees, have no idea what they're doing and ar
 
 Leadership is needed in this case, not management.
 
+Test.
+
 I'm currently gathering information and researching this topic. Feel free to add!
 
 2. https://fortune.com/2023/02/16/return-office-real-reason-slump-productivity-data-careers-gleb-tsipursky/
