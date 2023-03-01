@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/The battle of keeping work 'hybrid' (or not).md",
+                "file": "posts/(Multi purpose) Electric Vehicles.md",
                 "mode": "source",
                 "source": true
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/The battle of keeping work 'hybrid' (or not).md",
+                "file": "posts/(Multi purpose) Electric Vehicles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
   },
   "active": "595b7bae140a93e7",
   "lastOpenFiles": [
+    "posts/The battle of keeping work 'hybrid' (or not).md",
     "posts/Becoming a better multitasker.md",
     "posts/caps lock is overrated.md",
     "posts/All things ChatGPT.md",
