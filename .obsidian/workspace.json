@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/(Multi purpose) Electric Vehicles.md",
+                "file": "pages/now.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "b582e03dd50aa6d7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/(Multi purpose) Electric Vehicles.md",
+                "file": "pages/now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +128,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b582e03dd50aa6d7",
+  "active": "595b7bae140a93e7",
   "lastOpenFiles": [
+    "posts/(Multi purpose) Electric Vehicles.md",
     "posts/The battle of keeping work 'hybrid' (or not).md",
     "posts/Becoming a better multitasker.md",
     "posts/caps lock is overrated.md",
