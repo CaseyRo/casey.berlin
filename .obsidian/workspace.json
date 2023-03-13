@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Becoming a better multitasker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "595b7bae140a93e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/(Multi purpose) Electric Vehicles.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2295ef05737a1400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/Becoming a better multitasker.md",
+                "file": "posts/A quick (raspberry) pi recovery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Becoming a better multitasker.md",
+                "file": "posts/A quick (raspberry) pi recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,23 +111,25 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2295ef05737a1400",
+  "active": "d8d73ffe0c572c26",
   "lastOpenFiles": [
+    "posts/Becoming a better multitasker.md",
+    "posts/(Multi purpose) Electric Vehicles.md",
+    "[.md",
+    "posts/A quick (raspberry) pi recovery.md",
+    "posts/00 just a random new post.md",
     "posts/All things ChatGPT.md",
     "posts/About those two years of solitary confimenent.md",
     "posts/Micromobility is the future..md",
-    "posts/(Multi purpose) Electric Vehicles.md",
     "pages/now.md",
     "posts/The battle of keeping work 'hybrid' (or not).md",
-    "posts/Becoming a better multitasker.md",
     "posts/caps lock is overrated.md",
     "posts/crossrope experience.md",
     "posts/Synthetic food - does chicken taste like chicken.md",
-    "posts/00 just a random new post.md",
     "posts/virtualboxSDcard.md",
     "posts/youtube-dl-and-the-rpi.md"
   ]
