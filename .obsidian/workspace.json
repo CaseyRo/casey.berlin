@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/now.md",
+                "file": "posts/(Multi purpose) Electric Vehicles.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "2295ef05737a1400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/Micromobility is the future..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/now.md",
+                "file": "posts/Micromobility is the future..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,9 +140,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "595b7bae140a93e7",
+  "active": "2295ef05737a1400",
   "lastOpenFiles": [
     "posts/(Multi purpose) Electric Vehicles.md",
+    "posts/Micromobility is the future..md",
+    "pages/now.md",
     "posts/The battle of keeping work 'hybrid' (or not).md",
     "posts/Becoming a better multitasker.md",
     "posts/caps lock is overrated.md",
