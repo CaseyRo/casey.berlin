@@ -34,3 +34,6 @@ I only go there once, maybe twice a week. I visit colleagues in Portugal more of
 My evenings take place on our terrace outside, reading a magazine or doing some garden work. Cooking with fresh veggies from the garden, BBQ’ing with friends or neighbors. 
 
 We travel often, to family or friends — a luxury I could only dream of (or sneak in hoping no one noticed) 
+
+### Research / linked articles:
+* https://therealnews.com/what-the-bosses-and-boss-loving-pundits-get-wrong-about-quiet-quitting
