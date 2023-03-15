@@ -1,7 +1,6 @@
-# About those two years of solitary confinement
-We’re almost out! Corona is behind us! New ideas, a blank canvas, a plot to fill! Did we really stand still all that time? Or did we miss the opportunity to turn this into profit?
+We’re almost out! Corona is behind us! New ideas, a blank canvas, a plot to fill! Did we stand still all that time? Or did we miss the opportunity to turn this into a profit?
 
-A personal story unfold, my personal (torn) perspective.
+A personal story unfolds my personal (torn) perspective.
 
 ## Back to normal? Or has normal held us back?
 I know well how I felt in March 2020, 2 years ago. Put on pause, uncertain, waiting for things to pass.
