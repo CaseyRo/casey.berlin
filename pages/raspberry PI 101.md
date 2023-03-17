@@ -44,7 +44,7 @@ I've learned, I'm sharing. There are a million websites and documents that share
 
 And came 2021 — I’m running 4 RPi’s at home!
 
-## 1. My hardware setup
+## 1. My Hardware Setup
 
 ![my Apple Pi 🥧 accessed from the iPad][image-1]{.right}
 
@@ -56,7 +56,7 @@ And came 2021 — I’m running 4 RPi’s at home!
 
 ## 2. Installation
 
-### 2.1. Flashing your SD card with raspbian buster lite
+### 2.1. Flashing Your SD Card with Raspbian Buster Lite
 
 Picked lite because I have 2 GB of memory to work with, but makes this thing harder to do — we like the challenge, don't we!
 
@@ -115,7 +115,7 @@ sudo apt-get upgrade
 
 This will take time. Be happy! (and I got used to the wait, since I screwed up a lot and had to begin from start again)
 
-#### 2.1.2. Allowing login through SSH (without using a password)
+#### 2.1.2. Allowing Login through SSH (without Using a password)
 
 I hate entering passwords, especially if my device already asks for one. I enjoy the ease of 1password, and in case of 'security' of my Pies, SSH works well. It takes time to get your head around public/private keys and what they do, but you’ll manage.
 
@@ -148,7 +148,7 @@ Host *
     AddKeysToAgent	yes
 ```
 
-### 2.2. Managing USB drives
+### 2.2. Managing USB Drives
 
 I formatted my 10 TB drive into a few pieces;
 
@@ -172,7 +172,7 @@ I've considered changing the size a few times afterwards (my partner had a bigge
 
 There is a command line alternative where it’s based on called [parted][9], and with fdisk can do destructive stuff. I didn’t touch that after one attempt that failed.
 
-### 2.3. OMV5 (openmediavault) on debian -- (FAILED!)
+### 2.3. OMV5 (openmediavault) on Debian -- (FAILED!)
 
 We all fail. And this thing failed on my end. I thought I found a 'one way ticket' into a good solution ([OMV][10] offers its own docker management, for instance), but this worked me into more problems than I thought. I felt this whole thing was much more 'bloatware' than what my purpose was here (lean and mean Pi machine!)
 
@@ -187,7 +187,7 @@ It seems things are better now, but as said — YMMV…
 
 - [Beta OMV5 installation instructions here][11]
 
-### 2.4. AFP (netatalk / apple file protocol) on Pi (without docker) -- (WORKS!)
+### 2.4. AFP (netatalk / Apple File protocol) on Pi (without docker) -- (WORKS!)
 
 This was my first attempt on getting AFP (apple's file protocol) going on the Pi. I had to do a full clean install to get rid of OMV5 here ^^ but hell, it worked!
 
@@ -243,7 +243,7 @@ But now I'm a happy docker camper; it runs smoothly -- even though some containe
 	sudo pip install docker-compose
 	```
 
-### 2.7. Optional, moving the storage of your docker containers to external storage
+### 2.7. Optional, Moving the Storage of Your Docker Containers to External Storage
 
 1. Moving the storage for docker files around wasn't that hard — I followed the following by changing the daemon settings for Docker:
 
@@ -275,7 +275,7 @@ But now I'm a happy docker camper; it runs smoothly -- even though some containe
 	rm -rf /var/lib/docker
 	```
 
-### 2.8. Samba, using docker (WORKS!)
+### 2.8. Samba, Using Docker (WORKS!)
 
 Super simple and quick to set up — It's far from secure, but that isn’t the purpose here. (doing SMB on a Pi in a corporate environment is a bad idea, the performance isn't that great, but I’m at home)
 
@@ -295,7 +295,7 @@ docker run -d --restart=always \
 
 Rename your stuff accordingly, this is just an example. 
 
-### 2.9. AFP (time machine share), using docker (WORKS!)
+### 2.9. AFP (time Machine share), Using Docker (WORKS!)
 
 This one worked to get a TM volume going, but didn't do _that much_ else. YMMV!
 
@@ -318,7 +318,7 @@ services:
       - /mnt/timemachine:/timemachine
 ```
 
-### 2.10. Homebridge on docker with docker-compose (WORKS!)
+### 2.10. Homebridge on Docker with Docker-compose (WORKS!)
 
 By the time I was ready to move over my homebridge to the RPi I hit the 10 new installs mark for the Pi. I could dream the contents of the files, and started writing this Markdown doc to document my progress.
 
@@ -360,7 +360,7 @@ If you've installed docker, this should work now! Once the machine is running, i
 
 1. [github article by oznu][18]
 
-### 2.11. Sonoshttpapi on docker with docker-compose (WORKS!)
+### 2.11. Sonoshttpapi on Docker with Docker-compose (WORKS!)
  
 I'm using docker-compose to get this thing going, feel free to grab the script ([or fork me on Github][19])
 
@@ -404,7 +404,7 @@ Very useful:
 1. [github repo by @maddox][20] (thanks man, you got this thing going for me)
 2. [THE sonos http api][21]
 
-### 2.12. Music streaming server with (Docker) DAAPD
+### 2.12. Music Streaming Server with (Docker) DAAPD
 
 [DAAPD][22] is a fantastic example of how powerful, streamlined and slick open source projects have become over the years.
 
@@ -446,7 +446,7 @@ https://youtube.com/watch?v=-CfnXOlYiz
 
 //todo: pihole, deconz, nodered (2x), nrgok, portainer, nginx, mqtt, raspotify, mopidy - move away audio stuff to it’s own post?
 
-## 3. useful tools and links
+## 3. Useful Tools and Links
 
 1. Rcconf --\> to check what services are running on your pi;
 
@@ -462,9 +462,9 @@ https://youtube.com/watch?v=-CfnXOlYiz
 
 4. [Great read through on making your PI a bit tougher][25]
 
-### 3.1. On using docker
+### 3.1. On Using Docker
 
-#### 3.1.1. Running a docker container 'detached'
+#### 3.1.1. Running a Docker Container 'detached'
 
 1. A luxurious name to be able to run your container without 'seeing it'; normally, docker-compose would show you the output of the container until you `ctrl+c` out of it, and then stop it. Detaching means it will run without you seeing it.
 
@@ -488,7 +488,7 @@ docker logs homebridge
 
 **Note**: `ctrl+c` out of the logs will **not** stop the container!
 
-#### 3.1.2. Shutting down your container
+#### 3.1.2. Shutting down Your Container
 
 ```shell
 docker-compose down
@@ -496,13 +496,13 @@ docker-compose down
 
 (easy huh…)
 
-#### 3.1.3. Log in to the docker container
+#### 3.1.3. Log in to the Docker Container
 
 1. Use `docker ps` or `docker stats` to get the name of the existing container.
 2. Use the command `docker exec -it <container name> /bin/bash` to get a bash shell in the container. (assuming the container has bash in its image). `exit` will get you out.
 3. Or directly use `docker exec -it <container name> <command>` to execute the command you specify inside the container. This can be useful for updating NPM packages, for instance on a node.js based app container.
 
-#### 3.1.4. Update all your docker images
+#### 3.1.4. Update All Your Docker Images
 
 ```shell
 docker images |grep -v REPOSITORY|awk '{print $1}'|xargs -L1 docker pull
@@ -510,7 +510,7 @@ docker images |grep -v REPOSITORY|awk '{print $1}'|xargs -L1 docker pull
 
 I’m not using this one often since it takes time, and it will update the images for all containers, not always knowing what changed.
 
-#### 3.1.5. Connect a finder folder to SSH / SFTP (connect from your Mac to the Pi)
+#### 3.1.5. Connect a Finder Folder to SSH / SFTP (connect from Your Mac to the Pi)
 
 Your pi will show up as ‘bonjour enabled SFTP’ drive already in apps like transmit, but if you want to enable access through SSH regularly, here’s how to do it.
 

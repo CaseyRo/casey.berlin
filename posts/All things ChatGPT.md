@@ -1,6 +1,6 @@
-## On stuff going wrong
+## On Stuff Going Wrong
 - [https://www.businessinsider.co.za/chatgpt-ai-chaos-openia-google-creatives-academics-2023-1](https://www.businessinsider.co.za/chatgpt-ai-chaos-openia-google-creatives-academics-2023-1)
 
-## On my own experiencies
+## On My Own Experiencies
 
-## Making chrome a chatGPT monster
+## Making Chrome a chatGPT Monster

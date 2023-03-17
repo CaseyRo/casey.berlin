@@ -21,7 +21,7 @@ Articles of interest:
 1. https://teslamag.de/news/nio-10000-elektroauto-akku-tausch-europa-1000-neue-stationen-china-56834
 
 
-## CANOO MP vehicle
+## CANOO MP Vehicle
 https://youtu.be/IRY9p9qHKgA
 * starting from scratch in the EV environment
 * purpose-built
@@ -37,5 +37,5 @@ https://youtu.be/nOtfX99Her0
 * purpose-built
 * lots and lots of storage room
 
-## ZOOX van (and amazon)
+## ZOOX Van (and amazon)
 1. [Great video from them on dealing with Amazon](https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video)

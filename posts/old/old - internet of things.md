@@ -6,7 +6,7 @@ Draft: true
 
 [blockquote]Weet je, stiekem vind ik het maar spannend wat er allemaal gebeurd op het internet. Je niet meer druk maken om alle data die er om je heen verzameld wordt bijvoorbeeld. Alles wat je doet, schrijft, eet, verwarmt of koopt wordt gedeeld tegenwoordig. Maar wat is de volgende stap? Wat moeten we toch met al die data en als computers en het internet daar slimmer mee omgaat, wat moeten wij dan nog als mens? The internet of things.[/blockquote]
 
-Alles om me heen verbonden, data gedeeld, weten wat mij bezig houdt, wat ik wil doen, wat ik zie. Ooit zag ik dat als 'web 3.0', maar inmiddels gaat dat verder. Als alle systemen en processen om me heen verbonden zijn met elkaar, als die van elkaar weten wat er gebeurd, gaan die processen mij wellicht wel besturen. En dat moet ik maar aan hen over laten...
+Alles om me heen verbonden, data gedeeld, weten wat mij bezig houdt, wat ik wil doen, wat ik zie. Ooit zag ik dat als 'web 3.0', maar inmiddels gaat dat verder. Als alle systemen en processen om me heen verbonden zijn met elkaar, als die van elkaar weten wat er gebeurd, gaan die processen mij wellicht wel besturen. En dat moet ik maar aan hen over laten…
 
 Het is ergens heel eng, maar computers gaan nooit, ik herhaal nooit, voor jou beslissen. Dat is het enige wat ons onderscheid van de machines om ons heen. Aan, of uit. Ik start het dominospel (processen en systemen interpreteren, verwerken, geven resultaat) maar ik kan het ook stop zetten. En ik bepaal wat ik doe met het resultaat. Ik maak de keuzes.
 

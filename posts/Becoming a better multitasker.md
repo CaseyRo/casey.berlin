@@ -1,5 +1,3 @@
-# Becoming a better multitasker
-
 _is this clickbait? Let’s say it is for the sake of me feeling important in a way. But the reality is that more of us need to ‘switch contexts’ more times a day than a lightbulb in its lifetime, we might as well get better at it!_
 
 ## Tip 1: Don’t Switch Contexts (often)

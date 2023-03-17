@@ -28,7 +28,7 @@ Dankjewel Lindy voor het uitwerken van je interview. Mocht je nu zelf student zi
 
 ----
 
-[blockquote]Ik laat me voor dit blog inspireren door <a href="http://mashable.com/2012/01/24/social-media-personal-tools/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Mashable+%28Mashable%29" target="_blank">wat ik al in januari</a> op Mashable las, en heb dat artikel een aantal keren langs me heen laten gaan. Ook @briansolis inspireerde me <a href="http://www.briansolis.com/2012/07/it-takes-empathy/" target="_blank">door zijn werk</a>. Tenslotte gaat het om contact hebben met mensen, en wij zijn geen machines...[/blockquote]</span>
+[blockquote]Ik laat me voor dit blog inspireren door <a href="http://mashable.com/2012/01/24/social-media-personal-tools/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Mashable+%28Mashable%29" target="_blank">wat ik al in januari</a> op Mashable las, en heb dat artikel een aantal keren langs me heen laten gaan. Ook @briansolis inspireerde me <a href="http://www.briansolis.com/2012/07/it-takes-empathy/" target="_blank">door zijn werk</a>. Tenslotte gaat het om contact hebben met mensen, en wij zijn geen machines…[/blockquote]</span>
 
 Waar <a title="CRM voor drukke mensen; Contactually" href="http://keesromkes.old/blogs/crm-voor-drukke-mensen-contactually/">contactually</a> al een beetje helpt om makkelijker contact te houden met mensen, is dat nog steeds niet zo vanzelfsprekend als wat wij in de 'echte' wereld doen. Daar ontstaat contact spontaan, is er uitwisseling van verbale en non verbale communicatie en koppelen we netwerken en mensen aan context. Daar is het internet nog altijd veel te traag voor en niet wetend.
 
@@ -46,7 +46,7 @@ Hoe persoonlijker je het contact kan maken, hoe beter voor het resultaat. Daarvo
 
 <strong>1. Organiseer regelmatig een offline evenement</strong>
 
-Samen met @psheartbeat heb ik social friday ooit bedacht om hun stakeholders en de mijne bij elkaar te brengen. Dat heeft al veel vruchten afgeworpen, allereerst voor het contact wat we met elkaar onderhouden. Een fysiek contactmoment zorgt altijd voor een beter contact met de persoon tegenover je. Daar kan geen sociaal netwerk tegenop. Een kop koffie drinken is net zo goed een evenement overigens...
+Samen met @psheartbeat heb ik social friday ooit bedacht om hun stakeholders en de mijne bij elkaar te brengen. Dat heeft al veel vruchten afgeworpen, allereerst voor het contact wat we met elkaar onderhouden. Een fysiek contactmoment zorgt altijd voor een beter contact met de persoon tegenover je. Daar kan geen sociaal netwerk tegenop. Een kop koffie drinken is net zo goed een evenement overigens…
 
 <strong>2. Ontmoet nieuwe mensen</strong>
 

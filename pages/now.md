@@ -9,7 +9,7 @@ Thanks for the inspiration [Frank Meeuwsen][1], [Derek Sivers][2] and especially
 2. Additionally, coaching as “Team Lead”, of Product Owners and Scrum Masters on the job. I love this part, and I am trying to extend it.
 3. Considering my future at this website.
 
-# Personal life
+# Personal Life
 
 1. Recently moved to a nice small village (lived in Berlin for 8 years) little over an hour travelling from the bustling city centre. The move has done us well, both for mental and physical reasons.
 2. I’ve been engaged for 4 years now, COVID-19 has kept us from getting married, but this year it will happen!

@@ -24,6 +24,6 @@ http://www.youtube.com/watch?v=eUy2ZWoStr0
 
 <strong>De volledige versie is inmiddels te vinden op uitzendinggemist. (<a href="http://www.uitzendinggemist.nl/afleveringen/1323878">link</a>)</strong>
 
-Bizar dat dit niet gewoon volledig online zichtbaar is. Ik heb m'n best gedaan met zoeken, maar dat gaat niet. Dat gaat zelfs 'zo niet', dat het zelfs gefeatured werd in Southpark... (<a href="http://en.wikipedia.org/wiki/Bully_(2011_film)">link</a>)
+Bizar dat dit niet gewoon volledig online zichtbaar is. Ik heb m'n best gedaan met zoeken, maar dat gaat niet. Dat gaat zelfs 'zo niet', dat het zelfs gefeatured werd in Southpark… (<a href="http://en.wikipedia.org/wiki/Bully_(2011_film)">link</a>)
 
 <strong>Kijk deze week eens om je heen. En ga eens in gesprek met de mensen om je heen, over pesten. Iedereen heeft ooit eens gepest of kent iemand die gepest is, voer eens een open gesprek. Alleen zo maken we het zinloos en op te lossen.</strong>

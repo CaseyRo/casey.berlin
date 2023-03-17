@@ -81,7 +81,7 @@ Update: met dank aan jullie feedback, het woord "personeel" verandert naar "mede
 
 [blockquote]Ik woon inmiddels alweer ruim 3 jaar buiten Friesland. Het lijkt wel een eeuwigheid geleden. Voor veel bedrijven lijkt het internet er ook al eeuwen te zijn, maar zijn er ook hooguit 20 jaar mee bezig. Ze zitten er letterlijk. Tijd voor de volgende stap![/blockquote]
 
-Ruim 3 jaar geleden koos ik voor de grote stad. Een best wel invloedrijke keuze is dat geweest; op mijn leven, maar ook op mijn werkzaamheden. Zonder internet is er voor mij geen leven meer, en zo is dat ook voor veel andere bedrijven tegenwoordig. Ga maar na, wat zou een bedrijf nou zijn zonder e-mail en zonder internet. Hoe communiceren we dan nog met elkaar? Hoe verkopen we dan uberhaupt nog? Stel je eens voor dat we daadwerkelijk weer eens op elkaar af zouden lopen, even kijken hoe het met de collega's gaat. Feedback vragen, wellicht een prettig meningsverschil hebben, daadwerkelijk aan mensen laten zien wie of wat je nou echt bent...
+Ruim 3 jaar geleden koos ik voor de grote stad. Een best wel invloedrijke keuze is dat geweest; op mijn leven, maar ook op mijn werkzaamheden. Zonder internet is er voor mij geen leven meer, en zo is dat ook voor veel andere bedrijven tegenwoordig. Ga maar na, wat zou een bedrijf nou zijn zonder e-mail en zonder internet. Hoe communiceren we dan nog met elkaar? Hoe verkopen we dan uberhaupt nog? Stel je eens voor dat we daadwerkelijk weer eens op elkaar af zouden lopen, even kijken hoe het met de collega's gaat. Feedback vragen, wellicht een prettig meningsverschil hebben, daadwerkelijk aan mensen laten zien wie of wat je nou echt bent…
 
 Des te ironischer is de volgende stap voor bedrijven op internet. Social business is het compleet transparant maken van jouw organisatie online. Alle data (waar dat gewenst is) inzichtelijk, open staan voor feedback, [quote_left]In samenspraak en cohesie met je collega's, met wie je peilsnel kan schakelen. On- én offline.[/quote_left]reacties en commentaar, jezelf durven zijn online en staan voor jouw product of dienst. Met alle medewerkers, niet alleen de sales of marketing afdeling. In samenspraak en cohesie met je collega's, met wie je peilsnel kan schakelen. On- én offline. In transparante relaties met je leveranciers, die je direct kunnen vertellen waar zij hun duurzame producten vandaan halen; sterker nog, je kijkt gewoon even mee bij je leverancier wat ze in de schappen hebben voordat jij je volgende bestelling doet. Bij de boer, om de hoek. Geen groothandels.
 
@@ -105,7 +105,7 @@ Ik weet het zelf ook, verandering is een lastig proces. Dit hoort daar bij, alle
 
 Ik zie Twitter dan simpelweg als tip of the iceberg. Waar 5% "vocal" is, zich laat horen, zal er nog een veel groter deel onder water gebeuren wat we niet zien of horen; op de hoek van de straat, in de supermarkt, of bij de koffie.
 
-Via @cabreracharro kreeg ik overigens dit filmpje nog even mee ter inspiratie, heel toepasselijk voor deze case...
+Via @cabreracharro kreeg ik overigens dit filmpje nog even mee ter inspiratie, heel toepasselijk voor deze case…
 
 http://www.youtube.com/watch?v=IqlRyJwKctk
 
@@ -198,7 +198,7 @@ En natuurlijk het prachtige bedrag van € 10.388,65 voor Serious Request ! Zo z
 
 ----
 
-Lijstjes, ze kunnen nog net.... Ik hou mijn klanten bij in social CRM systemen waar ik veelal informatie en relevante contacten van hun tag en bijhoud. GIST.com helpt me daar bij, maar ook wat ouderwetsere systemen zoals Zoho CRM of YUKI zijn systemen waar veel van die informatie opgeslagen en gebruikt wordt. Daarnaast zet ik ook (potentiele) omzet af tegen waar die omzet mogelijk vandaan komt, wat de "lead" daar in is geweest en daarmee probeer ik focus aan te brengen aan de dingen die ik doe. Als werknomaad is Seats2Meet.com 1 van die gebieden waar ik mijn omzet vandaan haal.Te gezellig ? De cijfers laten anders zien...
+Lijstjes, ze kunnen nog net…. Ik hou mijn klanten bij in social CRM systemen waar ik veelal informatie en relevante contacten van hun tag en bijhoud. GIST.com helpt me daar bij, maar ook wat ouderwetsere systemen zoals Zoho CRM of YUKI zijn systemen waar veel van die informatie opgeslagen en gebruikt wordt. Daarnaast zet ik ook (potentiele) omzet af tegen waar die omzet mogelijk vandaan komt, wat de "lead" daar in is geweest en daarmee probeer ik focus aan te brengen aan de dingen die ik doe. Als werknomaad is Seats2Meet.com 1 van die gebieden waar ik mijn omzet vandaan haal.Te gezellig ? De cijfers laten anders zien…
 
 Het belangrijkste wat ik nog vergeet is de "fun factor", natuurlijk moet het ook leuk zijn om dat te doen en wat zijn de risico's, enfin, een enorme rits aan business intelligence waar jij misschien ook wat aan hebt. Een paar van die dingen zet ik hier uit een, doe er mee wat je wil, maar lees wel even de conclusies (en geef feedback op wat jij voor gegevens of analyses wil zien !)
 
@@ -251,13 +251,13 @@ Zo ook de medewerkers waar ik Yammer voor inzet. Stel je eens voor dat je een ni
 
 Vroeger
 
-Je komt bij een nieuw bedrijf terecht, nieuwe mensen, nieuwe processen, andere koffie, andere namen, allemaal onzekerheden die er voor zorgen dat je niet vanaf dag 1 op je plek laat voelen of sterker nog, je enthousiasme over een organisatie behoorlijk laten verstommen waarmee je bijvoorbeeld je proeftijd niet eens uit zou mogen zitten...
+Je komt bij een nieuw bedrijf terecht, nieuwe mensen, nieuwe processen, andere koffie, andere namen, allemaal onzekerheden die er voor zorgen dat je niet vanaf dag 1 op je plek laat voelen of sterker nog, je enthousiasme over een organisatie behoorlijk laten verstommen waarmee je bijvoorbeeld je proeftijd niet eens uit zou mogen zitten…
 
 Nu
 
 Je nieuwe werkgever nodigt je een week voor de start van je nieuwe baan alvast uit even een kijkje te nemen op de interne kennisdelingsgroepen. Daarin zie je al direct wat aardige collega's, ook een bijzondere aantrekkelijke, waarmee je dan ook makkelijk een babbeltje start. Komend weekend is er ook al een personeelsreisje gepland, waar je jezelf enthousiast ook voor uitnodigt *slik* maar goed, je "kent" ze inmiddels al een beetje toch ?
 
-En verder...
+En verder…
 
 Bovenstaand scenario is zo'n positieve uitwerking van interne kennisdeling, een leuke manier om elkaar beter te leren kennen en niet alleen elkaars' persoonlijkheid, maar ook kennis. Een vraag over een project wat niet helemaal lukt is ineens veel makkelijker te verspreiden en niet alleen je directe collega's, maar ook de rest van het bedrijf kan daar voor jou over mee praten.
 

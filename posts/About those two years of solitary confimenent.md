@@ -1,4 +1,3 @@
-# About those two years of solitary confimenent
 We’re almost out! Corona is behind us! New ideas, a blank canvas, a plot to fill! Did we stand still all that time? Or did we miss the opportunity to turn this into a profit?
 
 A personal story unfolds my personal (torn) perspective.

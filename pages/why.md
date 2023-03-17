@@ -1,4 +1,4 @@
-*If only some of my colleagues at Diconium would read this next line...*
+*If only some of my colleagues at Diconium would read this next line…*
 
 I **love** Simon Sinek’s golden circle / start with why. And that’s the main reason I’m creating these why/how/what pages. Let me share why that is.
 

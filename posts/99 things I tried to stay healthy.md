@@ -1,12 +1,12 @@
 I hope you clicked this page because of clickbait, because the story of me starting sports after 27 years of hating it, ended up with mediocre results (comparing it to the elite). But I am happy doing it! (And never expected that!)
 
-## Green zone training
+## Green Zone Training
 I’d love to believe that scientists know what they’re doing, especially when they’re on a TEDx video. I tried ‘green zone’ training using an apple watch to check my HR
 https://youtube.com/watch?v=MALsI0mJ09I&feature=share
 
 //todo add apple watch links and apps
 
-## HIIT / TABATA / YGIG / AMRAP – enjoy the grind.
+## HIIT / TABATA / YGIG / AMRAP – Enjoy the Grind.
 
 I don’t mind hard work. I don’t mind going way beyond my mental and physical boundaries. I don’t mind muscle pain. I enjoy the grind.
 
@@ -27,6 +27,6 @@ A good trainer, a community to support and healthy habits helped me persist.
 
 I’m still only averagely fit, have a belly that will hang around more the older I get, lack muscles and proper posture. But I enjoy the grind. Persistance is key, routine will get you through.
 
-## Range of motion / flexibility
+## Range of Motion / Flexibility
 
 ROMWOD rocks.

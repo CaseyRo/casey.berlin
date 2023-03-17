@@ -1,7 +1,6 @@
-
 It took me a while to figure out how to work with the Raspberry Pi. Especially when doing (and trying to remember) harder terminal commands. Let’s take a look at getting YouTube video’s downloaded for later use, using _only_ a Raspberry Pi. (and watching on a device of your choosing, iOS/mac in my case)
 
-## what you need to get started
+## What You Need to Get Started
 
 1. Raspberry Pi. I’ve used the 4 for this since it’s a decent machine. 2 GB of memory cuts it for me. ([full setup doc here][1])
 2. External storage. For testing an SD card will do — for more than that, don’t.
@@ -10,7 +9,7 @@ It took me a while to figure out how to work with the Raspberry Pi. Especially w
 5. A device to play your downloaded videos on
 6. A pinch of patience
 
-## Getting your installation going
+## Getting Your Installation Going
 
 For now, [yt-dlp](https://github.com/yt-dlp/yt-dlp) (thanks for the update commenter!) can be downloaded freely, the easiest way using `wget` or `curl` to get you going:
 
@@ -30,7 +29,7 @@ And you’re ready to go! Try it out to get started:
  # this gets the best audio and video format
 ```
 
-## My setup additions
+## My Setup Additions
 
 I have a few use cases for downloading YouTube playlists:
 
@@ -66,10 +65,10 @@ It looks like a lot for a single command, but in short:
 * `download-archive` will keep an archive of downloaded files in a text file, which prevents downloading over and over again.
 * Output is stored in the download folder, with the filename including an `epoch` timestamp to be able to sort files more manageable, and keep track of recent downloads.
 
-## script issues
+## Script Issues
 - What I've seen happen is that it takes longer for a video to download then the 5 minute gap between the download sessions. I haven't found a solution there yet, I resorted to increasing the 'how often download' timer to 15 minutes instead. When I urgently need something I just watch it directly, or run the script manually.
 
-## playback software
+## Playback Software
 
 I’ve had the most success with [Infuse][3] on AppleTV and iOS, supporting playlists — instant playback without video format problems (VC9 or MP4) and syncing video status.
 

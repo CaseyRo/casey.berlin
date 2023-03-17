@@ -1,4 +1,3 @@
-# The battle of keeping work 'hybrid' (or not)
 Gaslighting happens when managers and employees consider their future in remote, hybrid or in-office work, wether they like it or not.
 
 Employees will want to stay home, they like the perceived freedom to plan the day and consider themselves more productive.

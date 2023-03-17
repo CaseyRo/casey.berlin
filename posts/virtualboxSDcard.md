@@ -6,9 +6,9 @@ And if you’re like me, don’t simply `chmod` your `/etc` directory. A reminde
 
 The solution at hand:
 
-## Step 1: Run a virtualbox with ubuntu (live cd) on your mac
+## Step 1: Run a Virtualbox with Ubuntu (live cd) on Your Mac
 
-## Step 2: Mount your SD card into your virtualbox
+## Step 2: Mount Your SD Card into Your Virtualbox
 
 To keep things simple for now, read this post:
 

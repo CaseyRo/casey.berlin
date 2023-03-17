@@ -18,14 +18,14 @@ To make that process simple, over the years I’ve developed a flow to get to wh
 
 _Please be aware that a lot of this contains the terminal. It can be a daunting environment at first, but once you get the hang of it, a lot faster than your regular clicky clicky mouse setup!_
 
-## Getting started with a new installation
-I assume we start from square one, meaning an empty device, nothing installed. For that I create a boot drive (A USB Drive works fine) using Apple’s `createinstallmedia`  command you can find here; [How to create a bootable installer for macOS - Apple Support][10]
+## Getting Started with a New Installation
+I assume we start from square one, meaning an empty device, nothing installed. For that I create a boot drive (A USB Drive works fine) using Apple’s `createinstallmedia` command you can find here; [How to create a bootable installer for macOS - Apple Support][10]
 
 That allows me to:
 1. Delete the contents of the original harddrive (make a Time Machine backup up front!)
 2. Install the OS new without relying on an internet connection through recovery.
 
-## Installing the standard software
+## Installing the Standard Software
 Now you’ve booted into your fresh clean OS, please make sure that you **always update the OS first** before continuing with the rest.
 
 ![aerial view photography of mountain near body of water|Thomas Ciszewski|https://unsplash.com/photos/erApmfRX7eo][image-1]{.unsplash}
@@ -47,14 +47,14 @@ To explain this bit;
 
 In case you’re interested, type `softwareupdate —help` to look at all the other available flags.
 
-## Homebrew / cask / mas
-Now things get _really_ interesting. We’re going to dive into [The Missing Package Manager for macOS (or Linux) — Homebrew][11].  a.k.a. BREW.
+## Homebrew / Cask / Mas
+Now things get _really_ interesting. We’re going to dive into [The Missing Package Manager for macOS (or Linux) — Homebrew][11]. a.k.a. BREW.
 
 In short, use (home)brew to install applications directly onto your mac without any process of Google, click to download, getting the wrong link, finding an outdated version or forgetting what the program was again.
 
 I’m keeping a list of all my application and utilities that brew supports close to me, so I can always get going.
 
-### First step, install brew
+### First Step, Install Brew
 
 On [brew.sh][12] you can find a quick installer on the top;
 ```shell
@@ -63,7 +63,7 @@ On [brew.sh][12] you can find a quick installer on the top;
 
 I’m being honest in not completely knowing what this command does, but it installs a lot of stuff including the brew package manager. From that moment on, the command `brew` will work in your terminal.
 
-### Second step, installing useful brew packages.
+### Second Step, Installing Useful Brew Packages.
 
 Of all packages available, I currently use five:
 
@@ -92,7 +92,7 @@ brew install gpg
 
 The difference between brew / homebrew is easy, ‘brew’ is only used for open source, free to use software, where homebrew also allows closed source applications to be installed, without the whole hassle of finding the software through other ways. Just don’t try to install adobe stuff.
 
-### Third step, installing useful homebrew packages
+### Third Step, Installing Useful Homebrew Packages
 This list has become extensive and fluid over the years, but in my installation consists of;
 
 ```
@@ -139,7 +139,7 @@ Will install firefox _and_ chrome _and_ iina (best mac media player!)
 **Exceptions**
 The only thing that _doesn’t_ work are the adobe tools, or ‘software services’ like setapp. It will not install local dmg files either. (tips are welcome!)
 
-### Fourth step, installing Mac App Store packages through the terminal
+### Fourth Step, Installing Mac App Store Packages through the Terminal
 
 I’m not convinced if this is any quicker the first time you do it, because you need to find each unique ID belonging to each app, but boy is it quicker the _second_ time you do it!
 
@@ -197,16 +197,16 @@ mas install 1333542190 412347921 975937182 1295203466 1055511498 1284863847 9042
 
 And I’m good to go!
 
-## For everyone keeping up to the end
+## For Everyone Keeping up to the End
 A few additional tricks that I like;
 
 1. Using dockutil to clean out your dock with inactive applications:
-`dockutil —remove all`  (you can also use it to add your standard dock items)
+`dockutil —remove all` (you can also use it to add your standard dock items)
 2. Regularly update your brew packages using `homebrew update`
 3. Using Onyx to get rid of a lot of standard annoyances of my mac, like animations of the dock, transparency, and others.
-4. I use [Setapp][13] to install a bunch of other tools,  that I pay a monthly fee for. The installation of setapp can’t be automated as far as I know - comments are open!
+4. I use [Setapp][13] to install a bunch of other tools, that I pay a monthly fee for. The installation of setapp can’t be automated as far as I know - comments are open!
 
-## Things that are manual
+## Things that Are Manual
 Do you have an idea on how to make these things automated? It would be great to do so with ‘freeware’ / open source solutions like Brew! Let me know with a quick response!
 
 1. Copy + pasting all preferences (language settings, color settings, dock show/hide, app settings like the finder, bartender or fantastical that cost lots of time - for example)\\
