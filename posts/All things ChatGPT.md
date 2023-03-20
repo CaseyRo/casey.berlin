@@ -4,3 +4,7 @@
 ## On My Own Experiencies
 
 ## Making Chrome a chatGPT Monster
+
+## How chatGPT is making some jobs no longer relevant
+https://www.timesnownews.com/jobs/ai-will-replace-you-chatgpts-new-gpt-4-chatbot-says-it-will-replace-these-jobs-article-98700532
+

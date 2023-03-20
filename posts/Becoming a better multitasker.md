@@ -33,3 +33,4 @@ If you’re looking for the conclusion, the TLDR, this is my mega tip:
 
 Extra reading/inspiration:
 1. https://www.inc.com/marcel-schwantes/5-things-smartest-people-do-that-make-them-super-productive-without-destroying-their-health.html
+2. https://www.primermagazine.com/2023/live/5-common-habits-that-kill-your-drive-motivation-and-energy

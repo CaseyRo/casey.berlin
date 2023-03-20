@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Scrobbling apple music to last.fm automatically (using airplay).md",
+                "file": "posts/All things ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Scrobbling apple music to last.fm automatically (using airplay).md",
+                "file": "posts/All things ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,14 +102,6 @@
             }
           },
           {
-            "id": "ee989a88764f0865",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "b078d7ce55eb1dd9",
             "type": "leaf",
             "state": {
@@ -117,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,20 +118,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "77d421f03bd0c558",
   "lastOpenFiles": [
-    "posts/99 things I tried to stay healthy.md",
     "posts/Scrobbling apple music to last.fm automatically (using airplay).md",
+    "posts/99 things I tried to stay healthy.md",
     "posts/youtube-dl-and-the-rpi.md",
     "posts/virtualboxSDcard.md",
     "posts/the people born after 1990.md",

@@ -1,10 +1,7 @@
 [
-  "table-editor-obsidian",
-  "obsidian-advanced-uri",
-  "calendar",
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "templater-obsidian",
   "obsidian-linter",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "obsidian42-brat",
+  "copy-ai"
 ]
