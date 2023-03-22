@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "posts/youtube-dl-and-the-rpi.md",
+      "timestamp": 1679389858163
+    },
+    {
+      "filepath": "README.md",
+      "timestamp": 1679389857113
+    },
+    {
       "filepath": "posts/(Multi purpose) Electric Vehicles.md",
       "timestamp": 1679389850870
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "posts/Becoming a better multitasker.md",
       "timestamp": 1679389839570
-    },
-    {
-      "filepath": "posts/All things ChatGPT.md",
-      "timestamp": 1679389838397
-    },
-    {
-      "filepath": "posts/99 things I tried to stay healthy.md",
-      "timestamp": 1679389835880
     }
   ],
   "starredFileStore": [],
