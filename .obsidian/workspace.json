@@ -18,19 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "471668890f2d4a4a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +113,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "471668890f2d4a4a",
+  "active": "d8d73ffe0c572c26",
   "lastOpenFiles": [
     "README.md",
     "posts/(Multi purpose) Electric Vehicles.md",
