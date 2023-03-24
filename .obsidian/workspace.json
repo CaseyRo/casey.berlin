@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "6a6191071bfebcbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14ada7242ff717f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/AI use cases for GPT and more.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +131,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d8d73ffe0c572c26",
+  "active": "14ada7242ff717f9",
   "lastOpenFiles": [
     "posts/All things ChatGPT.md",
     "posts/youtube-dl-and-the-rpi.md",

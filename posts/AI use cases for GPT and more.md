@@ -1,8 +1,37 @@
 **I've used GPT for:**
-1. Thinking through a project idea. I wasn't that excited about the project I had for work, but GPT took away the boring stuff. Considering:
+1. Thinking through a project idea. I wasn't that excited about my work project, but GPT took away the boring stuff. Considering:
 	1. Competition research / SWOT analysis
-	2. Consider risks and challenges for scaling
+	2. Consider the risks and challenges of scaling this specific project
 	3. Defining a mission statement on the learnings thus far
 	4. Making job descriptions for hiring the right people
 
-418 BG ID
+It's the easy stuff this does, but the amount looks big - it might even be 90% of the work. I'm fascinated anyway!
+
+2. Designing a garden based on research done by GPT4
+	1. Using that input for a mid-journey prompt
+	2. Finetuning and being amazed by the amount of creative _input_ these models generate
+3. Thinking through a data structure for a table I wanted to create and actually giving relevant and usable input to improve. I can only imagine what it can do for database normalisation or API designs.
+4. Lots and lots of code samples for javascript, python, CSS, HTML, you name it. Even putting it together!
+5. Figuring out how to extract text from a PDF using a python script
+6. Learning new terminal commands for my ubuntu VMs
+	1. Finding the biggest file in a folder 
+	   ```bash 
+	   find / -type f -exec du -Sh {} + | sort -rh | head -n 1
+	   ```
+	1. Echoing text into a file (GPT provided me with the options to append or overwrite!)
+	   ```bash
+	   echo "This text will be added to the end of the file." >> filename.txt
+	   ```
+	3. a CURL request with a POST body
+	   ```bash
+	  curl -X POST -H "Content-Type: application/json" -d '{"text":"Hello, world!"}' http://basic:auth@domain/gpt3/
+	  ```
+7. Taking a press release and making it my own -> I wanted to experiment a bit more with GPT and took a random press release:
+	1. translated it to English (from Dutch)
+	2. made an executive summary
+	3. turned it into a haiku
+	4. rewrote it from the perspective of a consultant
+8. Comparing a job offer to the demands I have of a job -- I'm not _looking_ for a new job, but being on top of market demands, and managing your network and connections is all part of the deal these days (in my opinion)
+9. Generating a test in CypressJS (my first task)
+
+It's not rocket science. It's not insane. It _is_ understandable. And that's what is accelerating this. There is acceptance. There finally is a _better_ Google.
