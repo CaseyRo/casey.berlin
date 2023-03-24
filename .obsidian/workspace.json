@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/youtube-dl-and-the-rpi.md",
+                "file": "posts/AI use cases for GPT and more.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/youtube-dl-and-the-rpi.md",
+                "file": "posts/AI use cases for GPT and more.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,13 +115,16 @@
   },
   "active": "d8d73ffe0c572c26",
   "lastOpenFiles": [
+    "posts/All things ChatGPT.md",
+    "posts/youtube-dl-and-the-rpi.md",
+    "posts/AI use cases for GPT and more.md",
+    "AI use cases for GPT and more.md",
+    "Untitled.md",
     "README.md",
     "posts/(Multi purpose) Electric Vehicles.md",
     "posts/Scrobbling apple music to last.fm automatically (using airplay).md",
     "posts/Becoming a better multitasker.md",
-    "posts/All things ChatGPT.md",
     "posts/99 things I tried to stay healthy.md",
-    "posts/youtube-dl-and-the-rpi.md",
     "posts/virtualboxSDcard.md",
     "posts/the people born after 1990.md",
     "posts/The battle of keeping work 'hybrid' (or not).md",

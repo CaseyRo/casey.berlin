@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "posts/AI use cases for GPT and more.md",
+      "timestamp": 1679690659496
+    },
+    {
+      "filepath": "posts/All things ChatGPT.md",
+      "timestamp": 1679690658682
+    },
+    {
       "filepath": "posts/youtube-dl-and-the-rpi.md",
       "timestamp": 1679605255220
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "posts/(Multi purpose) Electric Vehicles.md",
       "timestamp": 1679389850870
-    },
-    {
-      "filepath": "posts/Scrobbling apple music to last.fm automatically (using airplay).md",
-      "timestamp": 1679389842951
-    },
-    {
-      "filepath": "posts/Becoming a better multitasker.md",
-      "timestamp": 1679389839570
     }
   ],
   "starredFileStore": [],
