@@ -28,13 +28,13 @@ It's the easy stuff this does, but the amount looks big - it might even be 90% o
 	   ```bash
 	  curl -X POST -H "Content-Type: application/json" -d '{"text":"Hello, world!"}' http://basic:auth@domain/gpt3/
 	  ```
-7. Taking a press release and making it my own -> I wanted to experiment a bit more with GPT and took a random press release:
+1. Taking a press release and making it my own -> I wanted to experiment a bit more with GPT and took a random press release:
 	1. translated it to English (from Dutch)
 	2. made an executive summary
 	3. turned it into a haiku
 	4. rewrote it from the perspective of a consultant
-8. Comparing a job offer to the demands I have of a job -- I'm not _looking_ for a new job, but being on top of market demands, and managing your network and connections is all part of the deal these days (in my opinion)
-9. Generating a test in CypressJS (my first task)
+2. Comparing a job offer to the demands I have of a job -- I'm not _looking_ for a new job, but being on top of market demands, and managing your network and connections is all part of the deal these days (in my opinion)
+3. Generating a test in CypressJS (my first task)
 
 ### What did I stop doing?
 1. Google.
