@@ -14,6 +14,7 @@ It's the easy stuff this does, but the amount looks big - it might even be 90% o
 	2. Finetuning and being amazed by the amount of creative _input_ these models generate
 3. Thinking through a data structure for a table I wanted to create and actually giving relevant and usable input to improve. I can only imagine what it can do for database normalisation or API designs.
 4. Lots and lots of code samples for javascript, python, CSS, HTML, you name it. Even putting it together!
+	1. Most recently using GPT as a 'code assistant' to validate and simplify some complex functions in node-red.
 5. Figuring out how to extract text from a PDF using a python script
 6. Learning new terminal commands for my ubuntu VMs
 	1. Finding the biggest file in a folder 
@@ -26,7 +27,8 @@ It's the easy stuff this does, but the amount looks big - it might even be 90% o
 	   ```
 	3. a CURL request with a POST body
 	   ```bash
-	  curl -X POST -H "Content-Type: application/json" -d '{"text":"Hello, world!"}' http://basic:auth@domain/gpt3/
+	  curl -X POST -H "Content-Type: application/json" -d
+	   '{"text":"Hello, world!"}' http://basic:auth@domain/gpt3/
 	  ```
 1. Taking a press release and making it my own -> I wanted to experiment a bit more with GPT and took a random press release:
 	1. translated it to English (from Dutch)
