@@ -8,7 +8,7 @@ Of course, I started with our dog because what else is essential in life? (see i
 
 ![Sien as a jetson](https://casey.berlin/wp-content/uploads/2023/04/Sien-as-a-jetson.jpeg) 
 
-```rtf
+```language-rtf
 jetsons cartoon
 ```
 
