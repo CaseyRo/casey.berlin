@@ -73,7 +73,7 @@ group of people enjoying their bikeride in Berlin Germany, anime
 Many things happen in a short time, which means there is v5 of midjourney.
 
 > [!NOTE] midjourney v5
-> This model has very high Coherency, excels at interpreting natural language prompts, is higher resolution, and supports advanced features like repeating patterns with [`--tile`](https://docs.midjourney.com/docs/tile)
+> This model has very high Coherency, excels at interpreting natural language prompts, is higher resolution, and supports advanced features like repeating patterns
 
 And well let's start with the prompt result I ended with in v4:
 

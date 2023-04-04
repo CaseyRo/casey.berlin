@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "posts/All things ChatGPT.md",
-      "timestamp": 1680599312199
+      "filepath": "posts/The battle of keeping work 'hybrid' (or not).md",
+      "timestamp": 1680600471301
+    },
+    {
+      "filepath": "posts/Micromobility is the future..md",
+      "timestamp": 1680600463263
+    },
+    {
+      "filepath": "posts/machine learning dallE stable fusion etc.md",
+      "timestamp": 1680600460568
+    },
+    {
+      "filepath": "posts/Becoming a better multitasker.md",
+      "timestamp": 1680600455059
     },
     {
       "filepath": "posts/AI use cases for GPT and more.md",
-      "timestamp": 1680599255811
-    },
-    {
-      "filepath": "posts/A journey into midjourney (image generation).md",
-      "timestamp": 1680593176512
-    },
-    {
-      "filepath": "posts/youtube-dl-and-the-rpi.md",
-      "timestamp": 1679605255220
-    },
-    {
-      "filepath": "README.md",
-      "timestamp": 1679389857113
+      "timestamp": 1680600451401
     }
   ],
   "starredFileStore": [],
