@@ -35,8 +35,9 @@ It's the easy stuff this does, but the amount looks big - it might even be 90% o
 	2. made an executive summary
 	3. turned it into a haiku
 	4. rewrote it from the perspective of a consultant
-2. Comparing a job offer to the demands I have of a job -- I'm not _looking_ for a new job, but being on top of market demands, and managing your network and connections is all part of the deal these days (in my opinion)
-3. Generating a test in CypressJS (my first task)
+2. Of course doing social media posts for my blog based on the contents in it. This probably will be the _death_ of social media (again).
+3. Comparing a job offer to the demands I have of a job -- I'm not _looking_ for a new job, but being on top of market demands, and managing your network and connections is all part of the deal these days (in my opinion)
+4. Generating a test in CypressJS (my first task)
 
 ### What did I stop doing?
 1. Google.

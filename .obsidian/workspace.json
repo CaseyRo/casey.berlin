@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "80406a8b2a253ef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/A journey into midjourney (image generation).md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6a6191071bfebcbe",
@@ -44,26 +31,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/AI use cases for GPT and more.md",
+                "file": "posts/All things ChatGPT.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "138778b2d2f32a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/A journey into midjourney (image generation).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/A journey into midjourney (image generation).md",
+                "file": "posts/All things ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,10 +131,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "80406a8b2a253ef8",
+  "active": "14ada7242ff717f9",
   "lastOpenFiles": [
-    "posts/A journey into midjourney (image generation).md",
     "posts/AI use cases for GPT and more.md",
+    "posts/A journey into midjourney (image generation).md",
     "posts/All things ChatGPT.md",
     "posts/youtube-dl-and-the-rpi.md",
     "AI use cases for GPT and more.md",
