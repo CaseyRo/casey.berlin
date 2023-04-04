@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "A journey into midjourney (.md",
+      "timestamp": 1680593176512
+    },
+    {
       "filepath": "posts/AI use cases for GPT and more.md",
       "timestamp": 1680592941435
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "README.md",
       "timestamp": 1679389857113
-    },
-    {
-      "filepath": "posts/(Multi purpose) Electric Vehicles.md",
-      "timestamp": 1679389850870
     }
   ],
   "starredFileStore": [],
