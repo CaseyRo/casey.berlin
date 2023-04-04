@@ -1,14 +1,14 @@
-I couldn't imagine a creative process to be so much fun – I usually have difficulty visualising my thoughts, but midjourney is an excellent example of how text can become visual in seconds.
+I couldn't imagine a creative process to be so much fun – I usually have difficulty visualising my thoughts. Still, midjourney is an excellent example of how text can become visual in seconds.
 
-So let's prompting shall we?
+So let's start prompting, shall we?
 
 ## Midjourney v4, February 2023
 
-Of course, I started with our dog because what else is important in life? (see input picture further below)
+Of course, I started with our dog because what else is essential in life? (see input picture further below)
 
 ![Sien as a jetson](https://casey.berlin/wp-content/uploads/2023/04/Sien-as-a-jetson.jpeg) 
 
-```
+```text
 jetsons cartoon
 ```
 
@@ -16,7 +16,7 @@ And since my girlfriend works at a tour guide company that goes through Berlin b
 
 ![Bike_company_example](https://casey.berlin/wp-content/uploads/2023/04/Bike_company_example.jpeg) 
 
-```
+```text
 a modern logo for a tourguide company in berlin called "Berlin on bike",comic style,fresh
 ```
 
@@ -38,7 +38,7 @@ Finally, I had to put myself to the test, mainly using the images/avatar you mig
 
 ![CaseyR_as_an_iconabstractmoderntech](https://casey.berlin/wp-content/uploads/2023/04/CaseyR_as_an_iconabstractmoderntech.jpeg) 
 
-```
+```text
 as an icon,abstract,modern,tech
 ```
 
@@ -62,7 +62,7 @@ So one of the nicest results might be something like this:
 
 ![bikeride_in_berlin_midjourneyv4](https://casey.berlin/wp-content/uploads/2023/04/bikeride_in_berlin_midjourneyv4.jpeg) 
 
-```
+```text
 group of people enjoying their bikeride in Berlin Germany, anime
 ```
 
@@ -83,7 +83,7 @@ as you can already see, the difference is quite huge. It seems the model has a d
 
 ![group of people enjoying their bikeride in Berlin Germany again midjourney v5](https://casey.berlin/wp-content/uploads/2023/04/group-of-people-enjoying-their-bikeride-in-Berlin-Germany-again-midjourney-v5.jpeg) 
 
-```
+```text
 group of people enjoying their bikeride in Berlin Germany, anime cartoon style
 ```
 
@@ -93,7 +93,7 @@ v5 creates some interesting (although fitting in a way) results when you lack de
 
 ![dog midjourney v5](https://casey.berlin/wp-content/uploads/2023/04/dog-midjourney-v5.jpeg) 
 
-```
+```text
 cartoon style -s 1000
 ``` 
 *(using a picture of our dog as input)*
@@ -102,7 +102,7 @@ With a single adjustment in the prompt, the result is a lot cooler:
 
 ![cartoon style dog v5 midjourney](https://casey.berlin/wp-content/uploads/2023/04/cartoon-style-dog-v5-midjourney.jpeg) 
 
-```
+```text
 cartoon style dog --s 250
 ```
 
@@ -110,7 +110,7 @@ And adding some imagination is the strong suit of these models:
 
 ![cartoon style dog in the snow](https://casey.berlin/wp-content/uploads/2023/04/cartoon-style-dog-in-the-snow.jpeg) 
 
-```
+```text
 cartoon style dog in the snow --s 500
 ```
 
@@ -126,19 +126,19 @@ So a great inspiration for some prompting!
 
 ![Cyberpunk Berlin 1](https://casey.berlin/wp-content/uploads/2023/04/Cyberpunk-Berlin-1.jpeg) 
 
-```
+```text
 Berlin's brandenburger tor in cyberpunk style in 2222, late in the evening. It's raining, there's little people there. --s 1000 --ar 3:2 --v 5
 ```
 
 ![Cyberpunk Berlin midjourney v5 2](https://casey.berlin/wp-content/uploads/2023/04/Cyberpunk-Berlin-midjourney-v5-2.jpeg) 
 
-```
+```text
 Berlin in cyberpunk style in 2222, early in the morning. The brandenburger tor in the background. It's raining, there's little people there. --s 1000
 ```
 
 ![Cyberpunk Berlin midjourney v5 3](https://casey.berlin/wp-content/uploads/2023/04/Cyberpunk-Berlin-midjourney-v5-3.jpeg) 
 
-```
+```text
 Berlin in cyberpunk style in 2222, early in the morning, in the distance a hovertrain is leaving the train station. It's raining, there's little people there. --s 1000
 ```
 
@@ -148,7 +148,7 @@ So one more without Berlin (that I really liked):
 
 ![cyberpunky midjourney v5](https://casey.berlin/wp-content/uploads/2023/04/cyberpunky-midjourney-v5.jpeg) 
 
-```
+```text
 a first person perspective from a cyberpunk city in 2222, late in the evening in neon lights, lots of people on the street photorealistic --s 1000
 ```
 
@@ -162,7 +162,7 @@ I still had to try this, since well – this is something a lot of people would 
 
 ![Casey Logo midjourney v5 4](https://casey.berlin/wp-content/uploads/2023/04/Casey-Logo-midjourney-v5-4.jpeg) 
 
-```
+```text
 as a cartoon logo, futuristic but subtle, imaginative but down to earth. Inquisitive --s 1000
 ```
 
@@ -176,7 +176,7 @@ So I'm looking for a good look for me in a suit. I found an image on instagram I
 
 ![red hair guy grey suit horribly wrong midjourney v5 2](https://casey.berlin/wp-content/uploads/2023/04/red-hair-guy-grey-suit-horribly-wrong-midjourney-v5-2.jpeg) 
 
-```
+```text
 combine these images so the red guy is in the grey suit, photorealistic --s 1000
 ```
 
@@ -186,7 +186,7 @@ the result is actually hilarious and could well be used for some kind of ad camp
 
 So stepping away from reality / realism, I found a prompt like this to be fascinating:
 
-```
+```text
 a group of people being in venice in the 17th century, taking a picture on top of a bridge, selfie style, enjoying themselves, men and women combined watercolor painting van gogh style --no phone --s 1000
 ```
 
