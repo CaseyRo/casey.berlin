@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "pages/resume.md",
+      "timestamp": 1680690729754
+    },
+    {
+      "filepath": "posts/AI use cases for GPT and more.md",
+      "timestamp": 1680690657357
+    },
+    {
+      "filepath": "posts/A journey into midjourney (image generation).md",
+      "timestamp": 1680690624411
+    },
+    {
       "filepath": "posts/The battle of keeping work 'hybrid' (or not).md",
       "timestamp": 1680600471301
     },
     {
       "filepath": "posts/Micromobility is the future..md",
       "timestamp": 1680600463263
-    },
-    {
-      "filepath": "posts/machine learning dallE stable fusion etc.md",
-      "timestamp": 1680600460568
-    },
-    {
-      "filepath": "posts/Becoming a better multitasker.md",
-      "timestamp": 1680600455059
-    },
-    {
-      "filepath": "posts/AI use cases for GPT and more.md",
-      "timestamp": 1680600451401
     }
   ],
   "starredFileStore": [],

@@ -225,3 +225,9 @@ Using it to improve your wedding pictures or turning things into a logo isn't th
 It is there to create new things from already existing ones in their model. Of course, you could train the model, and I've seen successful blends of famous persons known to the model in new environments (which is a deep fake territory, and against the ToS).
 
 I'll keep this post in progress while creating more stuff. I've done a few really cool logo's (from scratch) and hope to find more reasons to use it!
+
+### More to read / watch:
+
+Why hands suck in AI (for now)
+
+https://www.youtube.com/watch?v=24yjRbBah3w

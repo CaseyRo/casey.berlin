@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/The battle of keeping work 'hybrid' (or not).md",
+                "file": "pages/resume.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/The battle of keeping work 'hybrid' (or not).md",
+                "file": "pages/resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,13 +115,14 @@
   },
   "active": "d8d73ffe0c572c26",
   "lastOpenFiles": [
+    "posts/AI use cases for GPT and more.md",
+    "posts/A journey into midjourney (image generation).md",
+    "posts/The battle of keeping work 'hybrid' (or not).md",
     "posts/Micromobility is the future..md",
     "posts/machine learning dallE stable fusion etc.md",
     "posts/Becoming a better multitasker.md",
-    "posts/AI use cases for GPT and more.md",
     "posts/About those two years of solitary confimenent.md",
     "posts/A quick (raspberry) pi recovery.md",
-    "posts/A journey into midjourney (image generation).md",
     "posts/99 things I tried to stay healthy.md",
     "posts/(Multi purpose) Electric Vehicles.md",
     "posts/All things ChatGPT.md",
@@ -131,7 +132,6 @@
     "posts/Scrobbling apple music to last.fm automatically (using airplay).md",
     "posts/virtualboxSDcard.md",
     "posts/the people born after 1990.md",
-    "posts/The battle of keeping work 'hybrid' (or not).md",
     "posts/Synthetic food - does chicken taste like chicken.md",
     "posts/crossrope experience.md",
     "posts/caps lock is overrated.md",
