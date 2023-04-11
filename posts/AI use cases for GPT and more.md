@@ -21,7 +21,7 @@ It's the easy stuff this does, but the amount looks big - it might even be 90% o
 	   ```bash 
 	   find / -type f -exec du -Sh {} + | sort -rh | head -n 1
 	   ```
-	1. Echoing text into a file (GPT provided me with the options to append or overwrite!)
+	2. Echoing text into a file (GPT provided me with the options to append or overwrite!)
 	   ```bash
 	   echo "This text will be added to the end of the file." >> filename.txt
 	   ```
@@ -30,14 +30,15 @@ It's the easy stuff this does, but the amount looks big - it might even be 90% o
 	  curl -X POST -H "Content-Type: application/json" -d
 	   '{"text":"Hello, world!"}' http://basic:auth@domain/gpt3/
 	  ```
-1. Taking a press release and making it my own -> I wanted to experiment a bit more with GPT and took a random press release:
+7. Taking a press release and making it my own -> I wanted to experiment a bit more with GPT and took a random press release:
 	1. translated it to English (from Dutch)
 	2. made an executive summary
 	3. turned it into a haiku
 	4. rewrote it from the perspective of a consultant
-2. Of course doing social media posts for my blog based on the contents in it. This probably will be the _death_ of social media (again).
-3. Comparing a job offer to the demands I have of a job -- I'm not _looking_ for a new job, but being on top of market demands, and managing your network and connections is all part of the deal these days (in my opinion)
-4. Generating a test in CypressJS (my first task)
+8. Of course doing social media posts for my blog based on the contents in it. This probably will be the _death_ of social media (again).
+9. Comparing a job offer to the demands I have of a job -- I'm not _looking_ for a new job, but being on top of market demands, and managing your network and connections is all part of the deal these days (in my opinion)
+10. Generating a test in CypressJS (my first task)
+11. Using chatGPT to read, summarize and enhance my texts based on the knowledge it contains. Being a true 'assistant'
 
 ### What did I stop doing?
 1. Google.
@@ -50,7 +51,7 @@ It's the easy stuff this does, but the amount looks big - it might even be 90% o
 
 That it's not rocket science, it's not insane. It _is_ understandable, manageable, and simple. And that's what is accelerating this. There is acceptance for the 'bot' part (thank Siri/alexa for that). There finally _is_ a _better_ Google.
 
-But ignore that it might be Google, accept that it is an assistant. An entity that helps you to learn to become a better (coder/writer/researcher/creative). 
+No scratch that. Ignore that it might be Google, accept that it is an assistant. An entity that helps you to learn to become a better (coder/writer/researcher/creative). It is biased, and be aware of that, but it will make your work _better_.
 
 ### The small letters
 There is a fear of the data we enter into any kind of learning model, that it will be used to improve the model itself. I don't have anything against that in particular, but if you don't want that to happen – make sure you fill out the following form(s):
