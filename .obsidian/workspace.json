@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "526e1c18e2f41a55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/Solar energy on the roof of our shed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/resume.md",
+                "file": "posts/Solar energy on the roof of our shed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +126,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d8d73ffe0c572c26",
+  "active": "526e1c18e2f41a55",
   "lastOpenFiles": [
+    "pages/resume.md",
+    "posts/Solar energy on the roof of our shed.md",
     "posts/AI use cases for GPT and more.md",
     "posts/A journey into midjourney (image generation).md",
     "posts/The battle of keeping work 'hybrid' (or not).md",

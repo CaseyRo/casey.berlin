@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "posts/Untitled.md",
+      "timestamp": 1681202829201
+    },
+    {
       "filepath": "pages/resume.md",
       "timestamp": 1680728890136
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "posts/The battle of keeping work 'hybrid' (or not).md",
       "timestamp": 1680600471301
-    },
-    {
-      "filepath": "posts/Micromobility is the future..md",
-      "timestamp": 1680600463263
     }
   ],
   "starredFileStore": [],
