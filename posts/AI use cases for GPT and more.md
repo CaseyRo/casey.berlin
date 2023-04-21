@@ -49,11 +49,11 @@ It's the easy stuff this does, but the amount looks big - it might even be 90% o
 
 ### What did I learn?
 
-That it's not rocket science, it's not insane. It _is_ understandable, manageable, and simple. And that's what is accelerating this. There is acceptance for the 'bot' part (thank Siri/alexa for that). There finally _is_ a _better_ Google.
+That it's not rocket science, it's not insane. It _is_ understandable, manageable, and simple. And that's what is accelerating this. There is acceptance for the 'bot' part (thank Siri/alexa for that). ~~There finally _is_ a _better_ Google.~~
 
-No scratch that. Ignore that it might be Google, accept that it is an assistant. An entity that helps you to learn to become a better (coder/writer/researcher/creative). It is biased, and be aware of that, but it will make your work _better_.
+No, scratch that. Ignore that it might be Google. Accept that it is an assistant. An entity that helps you to learn to become a better (coder/writer/researcher/creative). It is biased, and be aware of that, but it will make your work _better_.
 
 ### The small letters
-There is a fear of the data we enter into any kind of learning model, that it will be used to improve the model itself. I don't have anything against that in particular, but if you don't want that to happen – make sure you fill out the following form(s):
+There is a fear that the data we enter into any kind of learning model will be used to improve the model itself. I don't have anything against that in particular, but if you don't want that to happen – make sure you fill out the following form(s):
 
 - [OpenAI Data Opt Out Request (ChatGPT, DALL-E)](https://docs.google.com/forms/d/e/1FAIpQLScrnC-_A7JFs4LbIuzevQ_78hVERlNqqCPCt3d8XqnKOfdRdQ/viewform)

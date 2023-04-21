@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "posts/Solar energy on the roof of our shed.md",
+      "timestamp": 1682102338510
+    },
+    {
       "filepath": "posts/AI use cases for GPT and more.md",
-      "timestamp": 1681225819454
-    },
-    {
-      "filepath": "posts/About those two years of solitary confimenent.md",
-      "timestamp": 1681225777895
-    },
-    {
-      "filepath": "pages/now.md",
-      "timestamp": 1681225767623
+      "timestamp": 1681246179492
     },
     {
       "filepath": "pages/resume.md",
-      "timestamp": 1681225765406
+      "timestamp": 1680728890136
     },
     {
-      "filepath": "posts/Solar energy on the roof of our shed.md",
-      "timestamp": 1681225732993
+      "filepath": "posts/A journey into midjourney (image generation).md",
+      "timestamp": 1680690624411
+    },
+    {
+      "filepath": "posts/The battle of keeping work 'hybrid' (or not).md",
+      "timestamp": 1680600471301
     }
   ],
   "starredFileStore": [],

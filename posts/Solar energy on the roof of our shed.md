@@ -5,4 +5,8 @@ My research sources:
 - https://zendure.de/products/solarflow
 - https://www.anker.com/eu-de/ankerpower/balkonkraftwerk_produkteinfuehrung
 	- https://www.macerkopf.de/2023/03/06/anker-balkonkraftwerk-solix-rs40p-test/
+
+Information in general about how much it could potentially deliver:
+
+- https://echtsolar.de/wie-viel-strom-erzeugt-eine-pv-anlage/
 - 
