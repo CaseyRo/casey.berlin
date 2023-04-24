@@ -56,7 +56,9 @@ No, scratch that. Ignore that it might be Google. Accept that it is an assistant
 ### Who owns my content?
 The dicision is not (yet) out, but there is some ideas about where the rights lie.
 
-In short, _you_ own the input, 
+In short, _you_ own the input, _they_ own the output.
+
+* https://www.jdsupra.com/legalnews/chatgpt-who-owns-the-content-generated-2891692/
 
 ### The small letters
 There is a fear that the data we enter into any kind of learning model will be used to improve the model itself. I don't have anything against that in particular, but if you don't want that to happen – make sure you fill out the following form(s):

@@ -494,6 +494,30 @@ Output in [Identified language of the document]:
             [Recruiting email subject] [Recruiting email body]`;
       return await this.sendToAPI(file, prompt);
     };
+    this.improveWriting = async (file) => {
+      let prompt = `You are an assistant helping to improve a piece of writing. Don't change the ideas, just improve the writing.`;
+      return await this.sendToAPI(file, prompt);
+    };
+    this.fixSpellingAndGrammar = async (file) => {
+      let prompt = `You are an assistant helping to fix spelling and grammar in a piece of writing. Don't change the ideas, just fix the spelling and grammar.`;
+      return await this.sendToAPI(file, prompt);
+    };
+    this.explainThis = async (file) => {
+      let prompt = `You will be given a text. Explain the text in a clear and easy to understand way. Don't make it too basic or too advanced.`;
+      return await this.sendToAPI(file, prompt);
+    };
+    this.makeLonger = async (file) => {
+      let prompt = `You will be given a text. Make it longer. Don't change the ideas, just make it longer.`;
+      return await this.sendToAPI(file, prompt);
+    };
+    this.makeShorter = async (file) => {
+      let prompt = `You will be given a text. Make it shorter. Don't change the ideas, just make it shorter.`;
+      return await this.sendToAPI(file, prompt);
+    };
+    this.useSimplerLanguage = async (file) => {
+      let prompt = `You will be given a text. Rewrite the text to use simpler language. Don't change the ideas, just use simpler language.`;
+      return await this.sendToAPI(file, prompt);
+    };
     this.apiKey = apiKeyParam;
   }
   async createCompletion(params = {}) {
@@ -687,7 +711,7 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          new PromptModal(this.app, "Creative story", "TODO", this.obsidianAI.creativeStory, (result) => {
+          new PromptModal(this.app, "Creative story", "What kind of story would you like to create? \n For example, 'A sci-fi adventure about a team of astronauts exploring a new planet'", this.obsidianAI.creativeStory, (result) => {
             editor.replaceSelection(result || "");
           }).open();
         }
@@ -699,7 +723,7 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          new PromptModal(this.app, "Poem", "TODO", this.obsidianAI.poem, (result) => {
+          new PromptModal(this.app, "Poem", "What type of poem would you like to write? \n For example, a sonnet, haiku, free verse, or limerick. Consider what subject or theme you want to explore in your poem and what emotions or images you want to convey to your reader.", this.obsidianAI.poem, (result) => {
             editor.replaceSelection(result || "");
           }).open();
         }
@@ -711,7 +735,7 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          new PromptModal(this.app, "Essay", "TODO", this.obsidianAI.essay, (result) => {
+          new PromptModal(this.app, "Essay", "What would you like to write your essay about? \n For example, 'The impact of social media on mental health'", this.obsidianAI.essay, (result) => {
             editor.replaceSelection(result || "");
           }).open();
         }
@@ -723,7 +747,7 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          new PromptModal(this.app, "Meeting agenda", "TODO", this.obsidianAI.meetingAgenda, (result) => {
+          new PromptModal(this.app, "Meeting agenda", "What would you like to include in the meeting agenda? \n For example, 'Project update, review of goals, and team building exercise'.", this.obsidianAI.meetingAgenda, (result) => {
             editor.replaceSelection(result || "");
           }).open();
         }
@@ -735,7 +759,7 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          new PromptModal(this.app, "Press release", "TODO", this.obsidianAI.pressRelease, (result) => {
+          new PromptModal(this.app, "Press release", "What would you like to create a press release about? \n For example, 'new product launch'", this.obsidianAI.pressRelease, (result) => {
             editor.replaceSelection(result || "");
           }).open();
         }
@@ -747,7 +771,7 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          new PromptModal(this.app, "Job description", "TODO", this.obsidianAI.jobDescription, (result) => {
+          new PromptModal(this.app, "Job description", "What type of job description do you want to create? \n For example, 'Marketing Manager for a tech startup'", this.obsidianAI.jobDescription, (result) => {
             editor.replaceSelection(result || "");
           }).open();
         }
@@ -759,7 +783,7 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          new PromptModal(this.app, "Sales email", "TODO", this.obsidianAI.salesEmail, (result) => {
+          new PromptModal(this.app, "Sales email", "What would you like to write in your sales email? \n For example, 'An introduction to your product or service and how it can solve the recipient's problem'", this.obsidianAI.salesEmail, (result) => {
             editor.replaceSelection(result || "");
           }).open();
         }
@@ -771,7 +795,84 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          new PromptModal(this.app, "Recruiting email", "TODO", this.obsidianAI.recruitingEmail, (result) => {
+          new PromptModal(this.app, "Recruiting email", "What position are you recruiting for? \n For example, 'Marketing Manager position at ABC Inc.'", this.obsidianAI.recruitingEmail, (result) => {
+            editor.replaceSelection(result || "");
+          }).open();
+        }
+      }
+    });
+    this.addCommand({
+      id: "improve-writing",
+      name: "Improve writing (Improve a given piece of writing - promptless)",
+      editorCallback: async (editor, view) => {
+        let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
+        if (activeView) {
+          let fileContents = this.app.vault.cachedRead(activeView.file);
+          let response = this.obsidianAI.improveWriting(await fileContents);
+          console.log(editor.getSelection());
+          editor.replaceSelection(await response || "");
+        }
+      }
+    });
+    this.addCommand({
+      id: "fix-speaking-grammar",
+      name: "Fix speaking and grammar (Fix spelling and grammar for a given piece of writing - promptless)",
+      editorCallback: async (editor, view) => {
+        let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
+        if (activeView) {
+          let fileContents = this.app.vault.cachedRead(activeView.file);
+          let response = this.obsidianAI.fixSpellingAndGrammar(await fileContents);
+          console.log(editor.getSelection());
+          editor.replaceSelection(await response || "");
+        }
+      }
+    });
+    this.addCommand({
+      id: "explain-this",
+      name: "Explain this text (Explain the given piece of text - promptless)",
+      editorCallback: async (editor, view) => {
+        let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
+        if (activeView) {
+          let fileContents = this.app.vault.cachedRead(activeView.file);
+          let response = this.obsidianAI.explainThis(await fileContents);
+          console.log(editor.getSelection());
+          editor.replaceSelection(await response || "");
+        }
+      }
+    });
+    this.addCommand({
+      id: "make-longer",
+      name: "Make longer (Make the given text longer - promptless)",
+      editorCallback: async (editor, view) => {
+        let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
+        if (activeView) {
+          let fileContents = this.app.vault.cachedRead(activeView.file);
+          let response = this.obsidianAI.makeLonger(await fileContents);
+          console.log(editor.getSelection());
+          editor.replaceSelection(await response || "");
+        }
+      }
+    });
+    this.addCommand({
+      id: "make-shorter",
+      name: "Make shorter (Make the given text shorter - promptless)",
+      editorCallback: async (editor, view) => {
+        let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
+        if (activeView) {
+          let fileContents = this.app.vault.cachedRead(activeView.file);
+          let response = this.obsidianAI.makeShorter(await fileContents);
+          console.log(editor.getSelection());
+          editor.replaceSelection(await response || "");
+        }
+      }
+    });
+    this.addCommand({
+      id: "use-simpler-language",
+      name: "Use simpler language (Rewrite the given text using simpler language - promptless)",
+      editorCallback: async (editor, view) => {
+        let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
+        if (activeView) {
+          new PromptModal(this.app, "Make longer", "TODO", this.obsidianAI.useSimplerLanguage, (result) => {
             editor.replaceSelection(result || "");
           }).open();
         }
