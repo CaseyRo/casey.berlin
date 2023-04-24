@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Solar energy on the roof of our shed.md",
+                "file": "posts/AI use cases for GPT and more.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "solar",
+                "query": "gpt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Solar energy on the roof of our shed.md",
+                "file": "posts/AI use cases for GPT and more.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +129,10 @@
   },
   "active": "526e1c18e2f41a55",
   "lastOpenFiles": [
-    "posts/AI use cases for GPT and more.md",
-    "posts/Solar energy on the roof of our shed.md",
-    "pages/resume.md",
     "posts/A journey into midjourney (image generation).md",
+    "posts/Solar energy on the roof of our shed.md",
+    "posts/AI use cases for GPT and more.md",
+    "pages/resume.md",
     "posts/The battle of keeping work 'hybrid' (or not).md",
     "posts/Micromobility is the future..md",
     "posts/machine learning dallE stable fusion etc.md",

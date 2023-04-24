@@ -53,6 +53,11 @@ That it's not rocket science, it's not insane. It _is_ understandable, manageabl
 
 No, scratch that. Ignore that it might be Google. Accept that it is an assistant. An entity that helps you to learn to become a better (coder/writer/researcher/creative). It is biased, and be aware of that, but it will make your work _better_.
 
+### Who owns my content?
+The dicision is not (yet) out, but there is some ideas about where the rights lie.
+
+In short, _you_ own the input, 
+
 ### The small letters
 There is a fear that the data we enter into any kind of learning model will be used to improve the model itself. I don't have anything against that in particular, but if you don't want that to happen – make sure you fill out the following form(s):
 
