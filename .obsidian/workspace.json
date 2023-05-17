@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8d73ffe0c572c26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/resume.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "526e1c18e2f41a55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/AI use cases for GPT and more.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b023abf1a5c437ba",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,11 +115,11 @@
   },
   "active": "b023abf1a5c437ba",
   "lastOpenFiles": [
+    "pages/resume.md",
     "posts/AI use cases for GPT and more.md",
     "posts/My journey at diconium, 1172 days in.md",
     "posts/A journey into midjourney (image generation).md",
     "posts/Solar energy on the roof of our shed.md",
-    "pages/resume.md",
     "posts/The battle of keeping work 'hybrid' (or not).md",
     "posts/Micromobility is the future..md",
     "posts/machine learning dallE stable fusion etc.md",

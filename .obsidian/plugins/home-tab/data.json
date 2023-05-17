@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "posts/Untitled.md",
-      "timestamp": 1684316991665
+      "filepath": "posts/My journey at diconium, 1172 days in.md",
+      "timestamp": 1684317420622
+    },
+    {
+      "filepath": "pages/resume.md",
+      "timestamp": 1684317419309
     },
     {
       "filepath": "posts/AI use cases for GPT and more.md",
-      "timestamp": 1684316973104
+      "timestamp": 1684317418402
     },
     {
       "filepath": "posts/A journey into midjourney (image generation).md",
@@ -38,10 +42,6 @@
     {
       "filepath": "posts/Solar energy on the roof of our shed.md",
       "timestamp": 1682324908475
-    },
-    {
-      "filepath": "pages/resume.md",
-      "timestamp": 1680728890136
     }
   ],
   "starredFileStore": [],
