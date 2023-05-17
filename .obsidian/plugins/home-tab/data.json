@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "posts/Untitled.md",
+      "timestamp": 1684316991665
+    },
+    {
       "filepath": "posts/AI use cases for GPT and more.md",
       "timestamp": 1684316973104
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "pages/resume.md",
       "timestamp": 1680728890136
-    },
-    {
-      "filepath": "posts/The battle of keeping work 'hybrid' (or not).md",
-      "timestamp": 1680600471301
     }
   ],
   "starredFileStore": [],

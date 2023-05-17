@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b023abf1a5c437ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/My journey at diconium, 1172 days in.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gpt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +82,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/AI use cases for GPT and more.md",
+                "file": "posts/My journey at diconium, 1172 days in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,11 +138,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "526e1c18e2f41a55",
+  "active": "b023abf1a5c437ba",
   "lastOpenFiles": [
+    "posts/AI use cases for GPT and more.md",
+    "posts/My journey at diconium, 1172 days in.md",
     "posts/A journey into midjourney (image generation).md",
     "posts/Solar energy on the roof of our shed.md",
-    "posts/AI use cases for GPT and more.md",
     "pages/resume.md",
     "posts/The battle of keeping work 'hybrid' (or not).md",
     "posts/Micromobility is the future..md",
