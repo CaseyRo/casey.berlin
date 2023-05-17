@@ -530,8 +530,7 @@ Output in [Identified language of the document]:
       },
       body: JSON.stringify(params_)
     });
-    const stream = result.body;
-    const output = await this.fetchStream(stream);
+    const output = await result.json();
     console.log("normal: " + output.choices[0].message.content);
     return output.choices[0].message.content;
   }
@@ -807,7 +806,7 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          let fileContents = this.app.vault.cachedRead(activeView.file);
+          let fileContents = view.editor.getSelection();
           let response = this.obsidianAI.improveWriting(await fileContents);
           console.log(editor.getSelection());
           editor.replaceSelection(await response || "");
@@ -820,7 +819,7 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          let fileContents = this.app.vault.cachedRead(activeView.file);
+          let fileContents = view.editor.getSelection();
           let response = this.obsidianAI.fixSpellingAndGrammar(await fileContents);
           console.log(editor.getSelection());
           editor.replaceSelection(await response || "");
@@ -833,7 +832,7 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          let fileContents = this.app.vault.cachedRead(activeView.file);
+          let fileContents = view.editor.getSelection();
           let response = this.obsidianAI.explainThis(await fileContents);
           console.log(editor.getSelection());
           editor.replaceSelection(await response || "");
@@ -846,7 +845,7 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          let fileContents = this.app.vault.cachedRead(activeView.file);
+          let fileContents = view.editor.getSelection();
           let response = this.obsidianAI.makeLonger(await fileContents);
           console.log(editor.getSelection());
           editor.replaceSelection(await response || "");
@@ -859,7 +858,7 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          let fileContents = this.app.vault.cachedRead(activeView.file);
+          let fileContents = view.editor.getSelection();
           let response = this.obsidianAI.makeShorter(await fileContents);
           console.log(editor.getSelection());
           editor.replaceSelection(await response || "");
@@ -872,9 +871,10 @@ var ObsidianAI = class extends import_obsidian2.Plugin {
       editorCallback: async (editor, view) => {
         let activeView = this.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
         if (activeView) {
-          new PromptModal(this.app, "Make longer", "TODO", this.obsidianAI.useSimplerLanguage, (result) => {
-            editor.replaceSelection(result || "");
-          }).open();
+          let fileContents = view.editor.getSelection();
+          let response = this.obsidianAI.useSimplerLanguage(await fileContents);
+          console.log(editor.getSelection());
+          editor.replaceSelection(await response || "");
         }
       }
     });
