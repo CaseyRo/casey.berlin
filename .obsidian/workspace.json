@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0504d678ad0b4035",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,6 +66,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "d6e7c05057441cdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -113,7 +132,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b023abf1a5c437ba",
+  "active": "0504d678ad0b4035",
   "lastOpenFiles": [
     "pages/resume.md",
     "posts/AI use cases for GPT and more.md",
