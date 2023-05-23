@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/contact.md",
+                "file": "posts/My journey at diconium, 1172 days in.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/contact.md",
+                "file": "posts/My journey at diconium, 1172 days in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
   },
   "active": "b023abf1a5c437ba",
   "lastOpenFiles": [
+    "pages/contact.md",
     "posts/My journey at diconium, 1172 days in.md",
     "pages/resume.md",
     "posts/AI use cases for GPT and more.md",
@@ -147,7 +148,6 @@
     "posts/crossrope experience.md",
     "posts/caps lock is overrated.md",
     "posts/00 just a random new post.md",
-    "[.md",
-    "pages/now.md"
+    "[.md"
   ]
 }
