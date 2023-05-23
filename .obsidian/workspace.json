@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0504d678ad0b4035",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +121,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0504d678ad0b4035",
+  "active": "a470c7b85ac08211",
   "lastOpenFiles": [
     "pages/resume.md",
     "posts/AI use cases for GPT and more.md",
