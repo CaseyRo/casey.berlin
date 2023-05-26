@@ -4,22 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "d93e09e0bf38a667",
+        "id": "c75229de1d0c0164",
         "type": "tabs",
         "children": [
           {
-            "id": "b023abf1a5c437ba",
+            "id": "b209f22a8c38032d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "home-tab-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "329a81f19c94e417",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "posts/My journey at diconium, 1172 days in.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.3.3"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/My journey at diconium, 1172 days in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,10 +127,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b023abf1a5c437ba",
+  "active": "329a81f19c94e417",
   "lastOpenFiles": [
-    "pages/contact.md",
     "posts/My journey at diconium, 1172 days in.md",
+    "pages/contact.md",
     "pages/resume.md",
     "posts/AI use cases for GPT and more.md",
     "posts/A journey into midjourney (image generation).md",
