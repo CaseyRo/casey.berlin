@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c75229de1d0c0164",
+        "id": "a554bc45a8607907",
         "type": "tabs",
         "children": [
           {
-            "id": "b209f22a8c38032d",
+            "id": "7fd26187fa20d499",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
               "state": {}
             }
-          },
-          {
-            "id": "329a81f19c94e417",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,12 +116,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "329a81f19c94e417",
+  "active": "7fd26187fa20d499",
   "lastOpenFiles": [
+    "pages/now.md",
+    "[.md",
+    "posts/AI use cases for GPT and more.md",
     "posts/My journey at diconium, 1172 days in.md",
     "pages/contact.md",
     "pages/resume.md",
-    "posts/AI use cases for GPT and more.md",
     "posts/A journey into midjourney (image generation).md",
     "posts/Solar energy on the roof of our shed.md",
     "posts/The battle of keeping work 'hybrid' (or not).md",
@@ -152,8 +143,6 @@
     "posts/the people born after 1990.md",
     "posts/Synthetic food - does chicken taste like chicken.md",
     "posts/crossrope experience.md",
-    "posts/caps lock is overrated.md",
-    "posts/00 just a random new post.md",
-    "[.md"
+    "posts/caps lock is overrated.md"
   ]
 }

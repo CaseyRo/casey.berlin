@@ -39,6 +39,7 @@ It's the easy stuff this does, but the amount looks big - it might even be 90% o
 9. Comparing a job offer to the demands I have of a job -- I'm not _looking_ for a new job, but being on top of market demands, and managing your network and connections is all part of the deal these days (in my opinion)
 10. Generating a test in CypressJS (my first task)
 11. Using chatGPT to read, summarize and enhance my texts based on the knowledge it contains. Being a true 'assistant'
+12. Preparing myself for meetings by letting chatGPT challenge my assumptions and agenda
 
 ### What did I stop doing?
 1. Google.
