@@ -11,8 +11,12 @@
             "id": "7fd26187fa20d499",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/My Apple Vision (Pro).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/My Apple Vision (Pro).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
   },
   "active": "7fd26187fa20d499",
   "lastOpenFiles": [
+    "posts/My Apple Vision (Pro).md",
     "pages/now.md",
     "[.md",
     "posts/AI use cases for GPT and more.md",
@@ -142,7 +148,6 @@
     "posts/virtualboxSDcard.md",
     "posts/the people born after 1990.md",
     "posts/Synthetic food - does chicken taste like chicken.md",
-    "posts/crossrope experience.md",
-    "posts/caps lock is overrated.md"
+    "posts/crossrope experience.md"
   ]
 }
