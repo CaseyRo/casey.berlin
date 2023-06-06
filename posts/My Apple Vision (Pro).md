@@ -2,11 +2,12 @@ I've been asked by a few people what I think about the upcoming Apple Vision or 
 
 Before we dive in, if you haven't seen Apple's keynote yet about it, check out what The Verge posted to get you up to speed:
 
-https://youtu.be/ENtxJcI5Ll4
+[![Watch the video](https://img.youtube.com/vi/ENtxJcI5Ll4/hqdefault.jpg)](https://youtu.be/ENtxJcI5Ll4)
+
 
 In case you are interested in how Apple presented it in marketing 'speak', check out their video:
 
-https://youtu.be/TX9qSaGXFyg
+[![Watch the video](https://img.youtube.com/vi/TX9qSaGXFyg/hqdefault.jpg)](https://youtu.be/TX9qSaGXFyg)
 
 ## General thoughts
 1. The battery life is a problem, but this limitation is quickly solved with enough power bricks and spare batteries until the next generation(s) of glasses demand less and less.
