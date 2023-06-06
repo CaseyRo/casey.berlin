@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a554bc45a8607907",
+        "id": "52fb867c617346b8",
         "type": "tabs",
         "children": [
           {
-            "id": "7fd26187fa20d499",
+            "id": "49778166cf977c42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/My Apple Vision (Pro).md",
+                "file": "posts/AI use cases for GPT and more.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/My Apple Vision (Pro).md",
+                "file": "posts/AI use cases for GPT and more.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7fd26187fa20d499",
+  "active": "49778166cf977c42",
   "lastOpenFiles": [
     "posts/My Apple Vision (Pro).md",
-    "pages/now.md",
-    "[.md",
-    "posts/AI use cases for GPT and more.md",
     "posts/My journey at diconium, 1172 days in.md",
     "pages/contact.md",
     "pages/resume.md",
+    "posts/AI use cases for GPT and more.md",
     "posts/A journey into midjourney (image generation).md",
     "posts/Solar energy on the roof of our shed.md",
     "posts/The battle of keeping work 'hybrid' (or not).md",
@@ -148,6 +146,8 @@
     "posts/virtualboxSDcard.md",
     "posts/the people born after 1990.md",
     "posts/Synthetic food - does chicken taste like chicken.md",
-    "posts/crossrope experience.md"
+    "posts/crossrope experience.md",
+    "posts/caps lock is overrated.md",
+    "posts/00 just a random new post.md"
   ]
 }

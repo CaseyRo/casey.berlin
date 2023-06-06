@@ -10,31 +10,57 @@ https://youtu.be/TX9qSaGXFyg
 
 ## General thoughts
 1. The battery life is a problem, but this limitation is quickly solved with enough power bricks and spare batteries until the next generation(s) of glasses demand less and less.
-2. Motion sickness will be an issue, 
-## Professional context
+2. Motion sickness will be an issue, even though Apple said it won't.
+3. First impressions are it's not as marketing tells us it is. There is some 'blackness' in the corners.
+4. There is no killer app yet, but we'll get there with the attention it got at WWDC.
 
-The vision pro enables more opportunities and possibilities to work 'on the go', regardless of where you are, and that is a killer feature.
+## My professional context
 
-Right now, I'm typing this on a way too heavy 16" intel macbook pro, and having to converse chatGPT goes in a different window, trying to find some images too, and let's forget about how awful Outlook is on an intel based mac.
+The vision pro enables more opportunities and possibilities to work 'on the go', regardless of where you are.
 
-The vision headset would give me a lot more space, serenity and privacy to work in case I need it. I could easily lay out ideas in front of me, gather information using different apps and browse not in tabs but in a virtual world more fluidly than the awkward interactions a trackpad and keyboard give me.
+Right now, I'm typing this on a way too heavy 16" intel macbook pro, and having to converse with chatGPT, trying to find some fitting images, is all window management. That is gone. Also using an overpowered intel machine that is significantly slower due to Outlook needs to be gone.
 
-Even a cramped environment like a train or aeroplane would give you more space, and turning a car's backseat (or passenger seat) into a work-friendly environment is an excellent idea, although a bit boring for the driver.
+The vision headset would give me much more space, serenity and privacy to work in case I need it. I could easily lay out ideas in front of me, gather information using different apps and browse not in tabs but in a virtual world more fluidly than the awkward interactions a trackpad and keyboard give me.
 
-## Private context
-I found the "put on your goggles at a children's party" a bit of a weird idea to present a gimmick. Being able to 3d capture a moment with your kids, spouse or dog might be fun, but the headset will absolutely create a new boundary to cross with people that are less digitally native.
+Even a cramped environment like a train or aeroplane would give you more space, and turning a car's backseat (or passenger seat) into a work-friendly environment is an excellent idea, although a bit boring for the driver. A cheaper version will definitely take over the iPad for the kids in the car!
 
-If I would be traveling by S-bahn or tram in Berlin for instance, I would be hesitant to put it on. Yes we also got used to headphones and cameras there, but privacy is a big thing in Germany. Who knows what people are secretly doing within their spatial computing world.
+## My private context
+I found the "put on your goggles at a children's party" a weird idea to present a gimmick. Being able to 3d capture a moment with your kids, spouse, or dog might be fun, but the headset will create a new boundary to cross with people that are less digitally native.
 
-Being back home I'd be happy to return the big screen in the living room to watch a show I only like, or have a little gaming session after work. Again I could turn a small desk or kitchen table into a productive environment when needed, but I'm more interested how it can enable garden planning, a DIY project or assist me in repairing things or present electric wiring from a room to my screen.
+I would hesitate to put it on if I were travelling by S-bahn or tram in Berlin. Yes, we also got used to headphones and cameras there, but privacy is significant in Germany. Who knows what people are secretly doing within their spatial computing world?
 
-Since I still love F1 and football, I would love to be able to see statistics, live timing and more than one screen when watching sports. Not annoying my spouse with this would be amazing too! 
+Being back home, I'd be happy to ignore the big screen in the living room to watch a show I only like, or have a little gaming session after work. I could turn a small desk or kitchen table into a productive environment. Still, I'm more interested in how it can enable garden planning, a DIY project or assist me in repairing things or present electric wiring from a room to my screen.
 
-Where other headsets have found a nice in fitness, Apple is not at that point yet. I personally wouldn't want to wear any more gadgets I already do during training, and they need to be rock solid when throwing around weights or going all out in a rowing session.
+Since I still love F1 and football, I would love to see statistics, live timing and more than one screen when watching sports. Not annoying my spouse with this would be amazing too! 
+
+Where other headsets have found a niche in fitness, Apple is not at that point yet. I wouldn't want to wear any more gadgets I already do during training, and they need to be rock solid when throwing around weights or going all out in a rowing session. Vision still looks fragile.
 
 ## A day with vision Pro
-How would a regular 'day to day' look like for me when I would include vision?
+What would a regular 'day-to-day' look like for me when I would include vision?
 
 🕖  - 🕗 ➡️  Getting up, making breakfast. This is quiet time. 👓 No need for vision.
-🕗  - 🕘 ➡️  The dog needs her walk, drinking coffee, catching up with the news and preparing the day. 👓 I would catch up on news and prepare the day _if I would be alone that day_ 
-🕘  - 🕛 ➡️ Mostly meetings. 👓 I can imagine doing this walking around and using the digital avatar features, having some extra real estate to jot down things or sketch stuff. Or play a game.
+🕗  - 🕘 ➡️  The dog needs her walk, drinking coffee, catching up with the news and preparing the day. 👓 I would catch up on news and prepare for the day _if I were alone that day_ 
+🕘  - 🕛 ➡️ Mostly meetings. 👓 I can imagine doing this by walking around and using the digital avatar features, having some extra real estate to jot down things or sketching stuff, or playing a game.
+🕛 - 🕔 ➡️ Some meetings, some blocked time to work. 👓 being able to focus and forget the world around me would be great. I love to focus (especially in the office) and get some stuff done. Mostly this is thinking these days, and it could do wonders for that. It could also reduce the friction we have for meeting people online, issues with screen sharing etc.
+🕔 - 🕖 ➡️  "free time", sometimes spent with some more work or sports. 👓 won't impact my sports life right now, but it could help with cooking, maybe?
+🕖 - 🕚 ➡️  "home time", Enjoying a movie or a game, either solo or with the misses. 👓 could replace some of that, but it would only be relevant for me. Perhaps when doing some chores like washing or ironing?
+
+## Jobs/tasks vision could enhance
+1. Training/education ➡️ it's perfect for learning new things, engaging young people more and professional training too – especially more complicated things (e.g. mechanics, electrical engineer, doctors/surgeons etc.)
+2. Collaboration ➡️ things become more hands-on, more 'touchable' instead of working with text, emails or Slack. Visual designers, developers, or project management benefit.
+3. Architecture, real estate, interior design ➡️ I want to design the interior of my next house with vision. (IKEA was already mentioned in the marketing material)
+4. Retail/e-commerce ➡️ Putting your car in the house is one thing, but being able to _drive_ the vehicle you configured in VR would be amazing!
+5. Sports coach ➡️ Picking the easy thing here, but combining the data generated on an Apple Watch or the pitch (e.g. a football match) and presenting it in Vision is fantastic!
+6. Gardening ➡️ Imagine walking through the garden and instantly seeing the soil conditions in your garden, knowing precisely what to do next.
+7. DIY / home repair ➡️ I'm horrible at this. Vision, I need your help!
+
+## Current conclusion (6.6.23)
+Do I want one? ✅ Yes. I'm a gadget freak, an early adapter. 
+Do I need one (professionally)? ✅ Yes. These inventions generate entirely new worlds. It is still boundaryless; no one uses it, and the opportunities are plenty. This is what I live for.
+
+Do I see risks? ✅ Of course - developing interesting applications will take a lot of iterations to find out what sticks and what does not. Every company interested needs to start developing _now_.
+
+Digitally interacting with the physical world needs to feel empowering and effortless. If this doesn't work as expected, people will stop using it. There no longer is a screen in your hand creating technical limitations. We need to reinvent that.
+
+*The one more thing* that gave me the feeling we've finally arrived in the future is the thought Apple put into informing the world around you. You are in the 'virtual world' or the real world. Displaying your eyes (or hiding them) is simple and powerful, I loved that detail.
+
