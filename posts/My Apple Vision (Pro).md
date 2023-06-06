@@ -1,4 +1,4 @@
-I've been asked by a few people what I think about the upcoming Apple Vision or talking about it in Apple's marketing words: "The first steps into spatial computing".
+I've been asked by a few people what I think about the upcoming Apple Vision or talking about it in Apple's marketing words: "The first steps into spatial computing". Imagine a world where your apps live in your space, transforming your environment into an infinite canvas. With spatial videos and photos, relive cherished moments in 3D, and turn any room into a personal theatre. Curious about the potential of this game-changing technology? Let's take a comprehensive look at the future of spatial computing.
 
 Before we dive in, if you haven't seen Apple's keynote yet about it, check out what The Verge posted to get you up to speed:
 
