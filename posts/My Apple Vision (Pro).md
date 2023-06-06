@@ -9,7 +9,7 @@ In case you are interested in how Apple presented it in marketing 'speak', check
 https://youtu.be/TX9qSaGXFyg
 
 ## General thoughts
-1. The battery life is a problem, but this is a limitation quickly solved with enough power bricks and spare batteries until the next generation(s) of glasses demand less and less.
+1. The battery life is a problem, but this limitation is quickly solved with enough power bricks and spare batteries until the next generation(s) of glasses demand less and less.
 2. Motion sickness will be an issue, 
 ## Professional context
 
