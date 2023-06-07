@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a554bc45a8607907",
+        "id": "59e13704585abd19",
         "type": "tabs",
         "children": [
           {
-            "id": "7fd26187fa20d499",
+            "id": "fcc2ce30dfe41713",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/AI use cases for GPT and more.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "1a21cb7a428850bf",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/AI use cases for GPT and more.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,13 +126,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fd26187fa20d499",
+  "active": "fcc2ce30dfe41713",
   "lastOpenFiles": [
+    "posts/AI use cases for GPT and more.md",
     "posts/All things ChatGPT.md",
     "posts/My Apple Vision (Pro).md",
     "pages/now.md",
     "[.md",
-    "posts/AI use cases for GPT and more.md",
     "posts/My journey at diconium, 1172 days in.md",
     "pages/contact.md",
     "pages/resume.md",
