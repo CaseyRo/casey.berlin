@@ -63,6 +63,6 @@ In short, _you_ own the input, and *they* own the output.
 * https://www.jdsupra.com/legalnews/chatgpt-who-owns-the-content-generated-2891692/
 
 ### The small letters
-There is a fear that the data we enter into any kind of learning model will be used to improve the model itself. I don't have anything against that in particular, but if you don't want that to happen – make sure you fill out the following form(s):
+There is a fear that the data we enter into any learning model will be used to improve the model itself. I don't have anything against that in particular, but if you don't want that to happen – make sure you fill out the following form(s):
 
 - [OpenAI Data Opt Out Request (ChatGPT, DALL-E)](https://docs.google.com/forms/d/e/1FAIpQLScrnC-_A7JFs4LbIuzevQ_78hVERlNqqCPCt3d8XqnKOfdRdQ/viewform)
