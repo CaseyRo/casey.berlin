@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/My Apple Vision (Pro).md",
+                "file": "posts/AI use cases for GPT and more.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "1a21cb7a428850bf",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/My Apple Vision (Pro).md",
+                "file": "posts/AI use cases for GPT and more.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,6 +134,7 @@
   },
   "active": "7fd26187fa20d499",
   "lastOpenFiles": [
+    "posts/All things ChatGPT.md",
     "posts/My Apple Vision (Pro).md",
     "pages/now.md",
     "[.md",
@@ -149,7 +152,6 @@
     "posts/A quick (raspberry) pi recovery.md",
     "posts/99 things I tried to stay healthy.md",
     "posts/(Multi purpose) Electric Vehicles.md",
-    "posts/All things ChatGPT.md",
     "posts/youtube-dl-and-the-rpi.md",
     "AI use cases for GPT and more.md",
     "README.md",

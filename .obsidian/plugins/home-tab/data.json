@@ -24,7 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "posts/Untitled.md",
+      "filepath": "posts/AI use cases for GPT and more.md",
+      "timestamp": 1686126488217
+    },
+    {
+      "filepath": "posts/All things ChatGPT.md",
+      "timestamp": 1686126485763
+    },
+    {
+      "filepath": "posts/My Apple Vision (Pro).md",
       "timestamp": 1686038129921
     },
     {
@@ -32,16 +40,8 @@
       "timestamp": 1685534361841
     },
     {
-      "filepath": "posts/AI use cases for GPT and more.md",
-      "timestamp": 1685532610261
-    },
-    {
       "filepath": "posts/My journey at diconium, 1172 days in.md",
       "timestamp": 1684845820975
-    },
-    {
-      "filepath": "pages/resume.md",
-      "timestamp": 1684317419309
     }
   ],
   "starredFileStore": [],
