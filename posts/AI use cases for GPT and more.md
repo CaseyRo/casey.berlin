@@ -21,7 +21,7 @@ ChatGPT does some amazing 'boring work', perhaps even 80% of it. I'm fascinated!
 	   ```bash 
 	   find / -type f -exec du -Sh {} + | sort -rh | head -n 1
 	   ```
-	2. Echoing text into a file (GPT also gave me the options to append or overwrite!)
+	2. Echoing text into a file (GPT also gave me the option to append or overwrite!)
 	   ```bash
 	   echo "This text will be added to the end of the file." >> filename.txt
 	   ```
@@ -30,34 +30,35 @@ ChatGPT does some amazing 'boring work', perhaps even 80% of it. I'm fascinated!
 	  curl -X POST -H "Content-Type: application/json" -d
 	   '{"text":"Hello, world!"}' http://basic:auth@domain/gpt3/
 	  ```
-7. Taking a press release and making it my own -> I wanted to experiment a bit more with GPT and took a random press release:
+7. Taking a press release and making it my own
 	1. translated it to English (from Dutch)
 	2. made an executive summary
 	3. turned it into a haiku
 	4. rewrote it from the perspective of a consultant
-8. Of course doing social media posts for my blog based on the contents in it. This probably will be the _death_ of social media (again).
-9. Comparing a job offer to the demands I have of a job -- I'm not _looking_ for a new job, but being on top of market demands, and managing your network and connections is all part of the deal these days (in my opinion)
+	5. Generating social media posts out of it (in different languages)
+8. Doing social media posts for my blog based on the content. This probably will be the _death_ of social media (again).
+9. Comparing a job offer to the demands I have of a job. Being on top of market demands and managing your network and connections are all part of the deal.
 10. Generating a test in CypressJS (my first task)
-11. Using chatGPT to read, summarize and enhance my texts based on the knowledge it contains. Being a true 'assistant'
+11. Using chatGPT to read, summarise and enhance my texts based on the knowledge it contains. Being a trustworthy 'assistant'.
 12. Preparing myself for meetings by letting chatGPT challenge my assumptions and agenda
 
 ### What did I stop doing?
 1. Google.
 2. Being annoyed by stack overflow
 3. Spending energy on seeing (or blocking) ads
-4. not _hoping_ code works that I copied from stack overflow, but _knowing why_ it works.
+4. not _hoping_ the code works that I copied from stack overflow, but _knowing why_ it works.
 5. data entry, analysis and research
 
 ### What did I learn?
 
-That it's not rocket science, it's not insane. It _is_ understandable, manageable, and simple. And that's what is accelerating this. There is acceptance for the 'bot' part (thank Siri/alexa for that). ~~There finally _is_ a _better_ Google.~~
+That it's not rocket science, it's not insane. It _is_ understandable, manageable, and straightforward. And that's what is accelerating this. There is acceptance for the 'bot' part (thank Siri/Alexa for that). ~~There finally _is_ a _better_ Google.~~
 
-No, scratch that. Ignore that it might be Google. Accept that it is an assistant. An entity that helps you to learn to become a better (coder/writer/researcher/creative). It is biased, and be aware of that, but it will make your work _better_.
+No, scratch that. Ignore that. It might be Google. It might be a junior bookkeeper or senior developer. Accept that it is an assistant. An entity that helps you to learn to become a better (coder/writer/researcher/creative/fill-in-the-blank). It is biased; be aware of that, but it will improve your work.
 
 ### Who owns my content?
-The dicision is not (yet) out, but there is some ideas about where the rights lie.
+The decision is not (yet) out, but there are some ideas about where the rights lie.
 
-In short, _you_ own the input, _they_ own the output.
+In short, _you_ own the input, and *they* own the output.
 
 * https://www.jdsupra.com/legalnews/chatgpt-who-owns-the-content-generated-2891692/
 
