@@ -13,7 +13,11 @@ In case you are interested in how Apple presented it in marketing 'speak', check
 1. The battery life is a problem, but this limitation is quickly solved with enough power bricks and spare batteries until the next generation(s) of glasses demand less and less.
 2. Motion sickness will be an issue, even though Apple said it won't.
 3. First impressions are it's not as marketing tells us it is. There is some 'blackness' in the corners.
-4. There is no killer app yet, but we'll get there with the attention it got at WWDC.
+4. ~~There is no killer app yet, but we'll get there with the attention it got at WWDC~~. The killer app is the UX itself. Everything combined makes it frictionless, easy to use and understandable. Just as the iPhone did for Smartphones, Vision is doing for 'spatial computing' (read: AR/VR)
+5. Gestures are kept simple and easy. See below, and you can add custom ones yourself
+
+![basic vision pro gestures](https://casey.berlin/wp-content/uploads/2023/06/basic-vision-pro-gestures.jpeg) 
+
 
 ## My professional context
 

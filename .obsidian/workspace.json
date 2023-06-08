@@ -11,8 +11,12 @@
             "id": "fcc2ce30dfe41713",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/My Apple Vision (Pro).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/My Apple Vision (Pro).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
