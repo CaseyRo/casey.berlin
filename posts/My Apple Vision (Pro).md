@@ -63,6 +63,22 @@ What would a regular 'day-to-day' look like for me when I would include vision?
 6. Gardening ➡️ Imagine walking through the garden and instantly seeing the soil conditions in your garden, knowing precisely what to do next.
 7. DIY / home repair ➡️ I'm horrible at this. Vision, I need your help!
 
+## Great reads on vision pro
+* John Gruber's Daringfireball.net --> https://daringfireball.net/2023/06/first_impressions_of_vision_pro_and_visionos
+
+> Vision Pro and VisionOS feel like they’ve been pulled forward in time from the future. I haven’t had that feeling about a new product since the original iPhone in 2007.
+
+> What you see at first is just ... your world. You just see the room you’re in. There’s no status information, no metadata, no indicators.
+
+> It is simply uncanny how Vision Pro makes virtual elements as spatially stable as the walls and furniture and people in the room around you.
+
+> It’s spatial computing, and some _aspects_ of spatial computing are AR or VR.
+
+> Using a Mac, you are in a physical place, there is a display in front of you in that place, and on that display are application windows. Using VisionOS, there are just application windows in the physical place in which you are
+
+
+
+
 ## Current conclusion (6.6.23)
 Do I want one? ✅ Yes. I'm a gadget freak, an early adapter. 
 Do I need one (professionally)? ✅ Yes. These inventions generate entirely new worlds. It is still boundaryless; no one uses it, and the opportunities are plenty. This is what I live for.
