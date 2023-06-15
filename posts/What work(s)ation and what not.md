@@ -6,6 +6,8 @@ As I settled into my new surroundings, I discovered the joys of a well-planned w
 
 Many people have asked me for advice on making the most out of a workation, and it can be a truly magical experience when done correctly. By keeping everyone informed and cultivating good habits, workations have the potential to transform our perspective on work and leisure, creating a seamless and enjoyable experience. Let's explore the world of workations and discover how to make them a success.
 
+![breakfast in the alps](https://casey.berlin/wp-content/uploads/2023/06/IMG_2071-scaled.jpg)
+
 
 ## 1. Be clear and strict about your schedule
 More often than not, workation is enjoyed with other people. You need to align your schedule with them and communicate that.
@@ -48,6 +50,8 @@ Since you'll have a different routine and see many new things, it might take a l
 There's always this stack of books lying around (Thanks Jamie for bringing tsundoko to my vocabulary), those town hall videos you still need to watch, or that new tool to try out. Workations are excellent for that!
 
 I also tend to sleep a bit less, eat less healthily and do fewer sports – which also affects my health and motivation/energy for work.
+
+![Lovely view](https://casey.berlin/wp-content/uploads/2023/06/dji_fly_20230603_212354_95_1685820872769_pano-scaled.jpg)
 
 ## 7. If workation turns into a routine, better take time off!
 I'm a person that needs routine to work efficiently. Workation doesn't work for me in that regard, so if I considered a longer workation (longer than a week), I would go for a reduction of hours or even a sabbatical instead. 
