@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/My Apple Vision (Pro).md",
+                "file": "posts/What work(s)ation and what not.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/My Apple Vision (Pro).md",
+                "file": "posts/What work(s)ation and what not.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +133,9 @@
   },
   "active": "fcc2ce30dfe41713",
   "lastOpenFiles": [
+    "posts/My Apple Vision (Pro).md",
     "posts/AI use cases for GPT and more.md",
     "posts/All things ChatGPT.md",
-    "posts/My Apple Vision (Pro).md",
     "pages/now.md",
     "[.md",
     "posts/My journey at diconium, 1172 days in.md",
