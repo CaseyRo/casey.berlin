@@ -11,15 +11,24 @@
             "id": "18a9b6618c165bc6",
             "type": "leaf",
             "state": {
+              "type": "home-tab-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "56c290e88c453bc4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/AI use cases for GPT and more.md",
+                "file": "What work(s)ation and what not.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,6 +61,14 @@
             "sortOrder": "alphabetical"
           }
         }
+      },
+      {
+        "id": "5cd9b0368dd666aa",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -66,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "posts/AI use cases for GPT and more.md",
+            "file": "What work(s)ation and what not.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -90,6 +107,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -98,10 +116,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4d0782fdad2f043a",
+  "active": "56c290e88c453bc4",
   "lastOpenFiles": [
-    "posts/Becoming a better multitasker.md",
+    "What work(s)ation and what not.md",
+    "posts/old/old - my personal story.md",
+    "posts/old/old - a social gym.md",
+    "posts/A journey into midjourney (image generation).md",
+    "pages/raspberry PI 101.md",
+    "pages/Standard setup for mac.md",
     "posts/AI use cases for GPT and more.md",
+    "posts/old/old - about the junkfoodweb.md",
+    "posts/old/old - about social capital.md",
+    "posts/old/old - my business story.md",
+    "posts/old/old - on social network path.md",
+    "posts/youtube-dl-and-the-rpi.md",
+    "posts/A quick (raspberry) pi recovery.md",
+    "posts/Becoming a better multitasker.md",
     "posts/Micromobility is the future..md",
     "posts/Scrobbling apple music to last.fm automatically (using airplay).md",
     "posts/The battle of keeping work 'hybrid' (or not).md",
@@ -109,8 +139,6 @@
     "posts/machine learning dallE stable fusion etc.md",
     "posts/Synthetic food - does chicken taste like chicken.md",
     "README.md",
-    "pages/Standard setup for mac.md",
-    "posts/A quick (raspberry) pi recovery.md",
     "posts/00 just a random new post.md"
   ]
 }
