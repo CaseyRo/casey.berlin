@@ -36,6 +36,9 @@ I found the "put on your goggles at a children's party" a weird idea to present 
 
 If I were travelling by S-bahn or tram in Berlin, I would hesitate to put it on. Yes, we also got used to headphones and cameras there, but privacy is significant in Germany. Who knows what people secretly do within their spatial computing world with what they see around them?
 
+On the plus side, the vision Pro could be an extension of my personal being – a way to express myself by showing what I'm watching or listening to on the external screen, not that different from the clothes I wear or the gadgets I use (airpod or [similar like these headphones below](https://www.designboom.com/technology/headset-integrated-digital-screens-playlist-lyrics-music-taste-olga-orel-futureahead-06-22-2023/))
+
+
 Being back home, I'd be happy to ignore the big screen in the living room to watch a show I only like or have a little gaming session after work. I could turn a small desk or kitchen table into a productive environment. Still, I'm more interested in how it can enable garden planning, a DIY project or assist me in repairing things that don't take place in an office setting.
 
 Since I still love F1 and football, I would see statistics, live timing and more than one screen when watching sports. Not annoying my spouse is a big benefit!
@@ -57,8 +60,8 @@ What would a regular 'day-to-day' look like for me when I would include vision? 
 
 
 ## Jobs/tasks vision could enhance
-1. Training/education ➡️ It's perfect for learning new things, engaging young people more and professional training too – especially more complicated things (e.g. mechanics, electrical engineering, doctors/surgeons etc.)
-2. Collaboration ➡️ Things become more hands-on, more 'touchable' instead of working with text, emails or Slack. Visual designers, developers, or project management benefit.
+Training/education ➡️ It's perfect for learning new things, engaging young people more and professional training too – especially more complicated things (e.g. mechanics, electrical engineering, doctors/surgeons etc.)
+2. Collaboration ➡️ Things become more hands-on, more 'touchable' instead of working with text, emails or Slack: visual designers, developers, or project management benefit.
 3. Architecture, real estate, interior design ➡️ I want to design the interior of my next house with vision. (IKEA was already mentioned in the marketing material)
 4. Retail/e-commerce ➡️ Putting your car in the house is one thing, but being able to _drive_ the vehicle you configured in VR would be amazing!
 5. Sports coach ➡️ Picking the easy thing here, but combining the data generated on an Apple Watch or the pitch (e.g. a football match) and presenting it in Vision is fantastic!
@@ -68,7 +71,7 @@ What would a regular 'day-to-day' look like for me when I would include vision? 
 ## Great reads on Vision pro
 * John Gruber's Daringfireball.net --> https://daringfireball.net/2023/06/first_impressions_of_vision_pro_and_visionos
 
-> Vision Pro and VisionOS feel like they’ve been pulled forward in time from the future. I haven’t had that feeling about a new product since the original iPhone in 2007.
+> Vision Pro and VisionOS feel like they’ve been pulled forward in the future. I haven’t had that feeling about a new product since the original iPhone in 2007.
 
 > What you see at first is just ... your world. You just see the room you’re in. There’s no status information, no metadata, no indicators.
 
