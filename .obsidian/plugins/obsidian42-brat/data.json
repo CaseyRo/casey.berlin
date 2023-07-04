@@ -1,7 +1,5 @@
 {
-  "pluginList": [
-    "otelo2/Obsidian-AI"
-  ],
+  "pluginList": [],
   "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": true,
