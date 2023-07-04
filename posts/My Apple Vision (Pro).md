@@ -38,6 +38,7 @@ If I were travelling by S-bahn or tram in Berlin, I would hesitate to put it on.
 
 On the plus side, the vision Pro could be an extension of my personal being – a way to express myself by showing what I'm watching or listening to on the external screen, not that different from the clothes I wear or the gadgets I use (airpod or [similar like these headphones below](https://www.designboom.com/technology/headset-integrated-digital-screens-playlist-lyrics-music-taste-olga-orel-futureahead-06-22-2023/))
 
+![headphones with built in display to show cover art](https://casey.berlin/wp-content/uploads/2023/07/headphones-with-built-in-display-to-show-cover-art.jpeg) 
 
 Being back home, I'd be happy to ignore the big screen in the living room to watch a show I only like or have a little gaming session after work. I could turn a small desk or kitchen table into a productive environment. Still, I'm more interested in how it can enable garden planning, a DIY project or assist me in repairing things that don't take place in an office setting.
 
