@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/My Apple Vision (Pro).md",
+                "file": "posts/(Multi purpose) Electric Vehicles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/My Apple Vision (Pro).md",
+                "file": "posts/(Multi purpose) Electric Vehicles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,10 +132,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcc2ce30dfe41713",
+  "active": "a470c7b85ac08211",
   "lastOpenFiles": [
-    "posts/What work(s)ation and what not.md",
     "posts/My Apple Vision (Pro).md",
+    "posts/What work(s)ation and what not.md",
     "posts/AI use cases for GPT and more.md",
     "posts/All things ChatGPT.md",
     "pages/now.md",
