@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "59e13704585abd19",
+        "id": "f2633dd6683379b5",
         "type": "tabs",
         "children": [
           {
-            "id": "fcc2ce30dfe41713",
+            "id": "a33f01d7c6e5ae41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/My Apple Vision (Pro).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16c6b74fd7deda68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal development and.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "home-tab-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal development and.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,9 +127,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16c6b74fd7deda68",
+  "active": "a33f01d7c6e5ae41",
   "lastOpenFiles": [
     "posts/My Apple Vision (Pro).md",
+    "posts/Improving (yourself) 1% every day.md",
+    "posts/My journey at diconium, 1172 days in.md",
     "Personal development and.md",
     "posts/(Multi purpose) Electric Vehicles.md",
     "posts/What work(s)ation and what not.md",
@@ -155,7 +139,6 @@
     "posts/All things ChatGPT.md",
     "pages/now.md",
     "[.md",
-    "posts/My journey at diconium, 1172 days in.md",
     "pages/contact.md",
     "pages/resume.md",
     "posts/A journey into midjourney (image generation).md",
@@ -171,7 +154,6 @@
     "AI use cases for GPT and more.md",
     "README.md",
     "posts/Scrobbling apple music to last.fm automatically (using airplay).md",
-    "posts/virtualboxSDcard.md",
-    "posts/the people born after 1990.md"
+    "posts/virtualboxSDcard.md"
   ]
 }
