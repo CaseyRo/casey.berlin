@@ -11,3 +11,5 @@ I'm currently gathering information and researching this topic. Feel free to add
 1. https://fortune.com/2023/02/16/return-office-real-reason-slump-productivity-data-careers-gleb-tsipursky/
 2. https://12ft.io/proxy?q=https%3A%2F%2Ffortune.com%2F2023%2F02%2F14%2Fremote-work-rebounding-workers-skipping-commute%2F
 3. https://therealnews.com/what-the-bosses-and-boss-loving-pundits-get-wrong-about-quiet-quitting
+4. https://fortune.com/2023/07/20/hybrid-work-problems-annie-dean-meta-atlassian/
+5. 

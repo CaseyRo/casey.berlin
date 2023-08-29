@@ -11,8 +11,12 @@
             "id": "a33f01d7c6e5ae41",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/The battle of keeping work 'hybrid' (or not).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/The battle of keeping work 'hybrid' (or not).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
