@@ -1,4 +1,6 @@
-Clearly this is a topic that is moving forwards. I'm trying to focus my thoughts in this post and tie them in with some examples/storytelling. Of course I'd like to know the outcome myself as well, but doing thinking/knowledge sharing about this topic, I also found a nice Frysian proverb to support me on this road:
+Clearly this is a topic that is moving forwards. I'm trying to focus my thoughts in this post and tie them in with some examples/storytelling. 
+
+Of course I'd like to know the outcome myself as well, but doing thinking/knowledge sharing about this topic, I also found a nice Frysian proverb to support me on this road:
 
 > Elts mei graach hearre wêr't de klokke hinget, mar net wêr't de stielen leit.
 
