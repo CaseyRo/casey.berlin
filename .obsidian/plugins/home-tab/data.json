@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Untitled.md",
+      "timestamp": 1693593711275
+    },
+    {
       "filepath": "posts/The battle of keeping work 'hybrid' (or not).md",
       "timestamp": 1693310589415
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "posts/My journey at diconium, 1172 days in.md",
       "timestamp": 1688561180574
-    },
-    {
-      "filepath": "Personal development and.md",
-      "timestamp": 1688561174286
     }
   ],
   "starredFileStore": [],
