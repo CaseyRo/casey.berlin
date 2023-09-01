@@ -34,6 +34,10 @@ The real magic happened when the hardware and software worked in harmony.
 
 I only had a few devices to test with at home, 
 
+![five devices](https://casey.berlin/wp-content/uploads/2023/09/five-devices.jpeg) 
+
+ID: 507
+
 ## The Big Day: A Symphony of Light and Love
 
 As the music played and the lights danced, I looked around at our guests—lit up, both literally and figuratively. It was a moment of pure joy, a personal concert experience for our closest friends and family.
