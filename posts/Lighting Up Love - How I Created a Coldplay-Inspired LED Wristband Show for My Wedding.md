@@ -15,12 +15,12 @@ Creating this experience wasn't just about the idea; it was about the execution.
 
 There are several technologies that can be used to control armbands, see below for a few examples:
 
-https://www.youtube.com/watch?v=GCsmZA08oD8
+[![](https://img.youtube.com/vi/GCsmZA08oD8/0.jpg)](https://www.youtube.com/watch?v=GCsmZA08oD8)
 
 In my case I've chosen RF to control the armbands, and using DMX to control them.
 If you'd like to order the wristbands, let me know, I'm happy to share my contacts.
 
-**Bonus**: Ive also ordered several other RF devices, including balloons and keychains. They're fun little gadgets that allow some extra flashy-ness in the show!
+**Bonus**: I've also ordered several other RF devices, including balloons and keychains. They're fun little gadgets that allow some extra flashy-ness in the show!
 ## The Software: Fusing Light and Sound
 
 The hardware is only as good as the software driving it. Here's what I used:
@@ -51,12 +51,15 @@ I only had a few devices to test with at home, I decided to work with five chann
 
 As the music played and the lights danced, I looked around at our guests—lit up, both literally and figuratively. Actually seeing the test setup of 5 devices working on 200 – really something magical! It was a moment of pure joy, a personal concert experience for our closest friends and family.
 
+![End result](https://casey.berlin/wp-content/uploads/2023/09/image00011-scaled.jpeg)
 ## Conclusion: Lighting Up the Future
 
 This project was a labor of love, a fusion of tech and emotion. And it's just the beginning. With the right tools and a bit of imagination, the possibilities are endless.
 
+Watch my entire video below in case you want to learn a bit more about the process of getting towards the end result:
+
+[![](https://www.youtube.com/watch?v=cUWzLA4-Vkk)](https://img.youtube.com/vi/cUWzLA4-Vkk/0.jpg)
+
 Do know that it took me at least 40 hours to create the musical mix, and at least double the amount to sync up the music with the lights (and all the steps in between).
 
 And I really was super happy with the end result!
-
-![End result](https://casey.berlin/wp-content/uploads/2023/09/image00011-scaled.jpeg)
