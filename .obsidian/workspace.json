@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a33f01d7c6e5ae41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/The battle of keeping work 'hybrid' (or not).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "05bbf52ce9aea50a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
+                "file": "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
+                "file": "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,10 +132,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05bbf52ce9aea50a",
+  "active": "a470c7b85ac08211",
   "lastOpenFiles": [
     "posts/The battle of keeping work 'hybrid' (or not).md",
-    "Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
+    "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
     "posts/My Apple Vision (Pro).md",
     "posts/Improving (yourself) 1% every day.md",
     "posts/My journey at diconium, 1172 days in.md",
