@@ -1,3 +1,4 @@
+Oh boy. Marriage. I tried to figure out what I wanted to do, a funny speech? A big gift? Organising our honeymoon? Getting a big metal band to play for us? But no. It needed to be something close to myself, something that expressed _everything_ that is me. And this blog is the (well quite practical) story of getting that to reality!
 ## The Spark of Inspiration
 
 I've always been a tech enthusiast, a music lover, and a fan of immersive experiences. But it was a Coldplay concert that truly ignited the spark. The crowd was not just an audience; we were part of the show, our wristbands lighting up in sync with the music. I looked around and thought, "Why not bring this magic to my own life event?" And what better occasion than my wedding?
