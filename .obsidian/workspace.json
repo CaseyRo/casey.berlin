@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6995d68fd6ab49a6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +132,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6995d68fd6ab49a6",
+  "active": "05bbf52ce9aea50a",
   "lastOpenFiles": [
     "posts/The battle of keeping work 'hybrid' (or not).md",
     "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",

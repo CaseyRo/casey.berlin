@@ -58,7 +58,7 @@ This project was a labor of love, a fusion of tech and emotion. And it's just th
 
 Watch my entire video below in case you want to learn a bit more about the process of getting towards the end result:
 
-[![](https://www.youtube.com/watch?v=cUWzLA4-Vkk)](https://img.youtube.com/vi/cUWzLA4-Vkk/0.jpg)
+[![](https://img.youtube.com/vi/cUWzLA4-Vkk/0.jpg)](https://www.youtube.com/watch?v=cUWzLA4-Vkk)
 
 Do know that it took me at least 40 hours to create the musical mix, and at least double the amount to sync up the music with the lights (and all the steps in between).
 
