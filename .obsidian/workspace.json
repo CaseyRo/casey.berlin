@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4bd1f8fa531fb385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dealing with mental health (and depression).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
+                "file": "Dealing with mental health (and depression).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,14 +145,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05bbf52ce9aea50a",
+  "active": "4bd1f8fa531fb385",
   "lastOpenFiles": [
-    "posts/The battle of keeping work 'hybrid' (or not).md",
     "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
+    "Dealing with mental health (and depression).md",
+    "Personal development and.md",
+    "posts/The battle of keeping work 'hybrid' (or not).md",
     "posts/My Apple Vision (Pro).md",
     "posts/Improving (yourself) 1% every day.md",
     "posts/My journey at diconium, 1172 days in.md",
-    "Personal development and.md",
     "posts/(Multi purpose) Electric Vehicles.md",
     "posts/What work(s)ation and what not.md",
     "posts/AI use cases for GPT and more.md",
@@ -158,7 +172,6 @@
     "posts/99 things I tried to stay healthy.md",
     "posts/youtube-dl-and-the-rpi.md",
     "AI use cases for GPT and more.md",
-    "README.md",
-    "posts/Scrobbling apple music to last.fm automatically (using airplay).md"
+    "README.md"
   ]
 }
