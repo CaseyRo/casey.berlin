@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "posts/All things ChatGPT.md",
+      "timestamp": 1695204583079
+    },
+    {
+      "filepath": "posts/AI use cases for GPT and more.md",
+      "timestamp": 1695204575143
+    },
+    {
       "filepath": "Dealing with mental health (and depression).md",
       "timestamp": 1695204549789
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "posts/The battle of keeping work 'hybrid' (or not).md",
       "timestamp": 1693310589415
-    },
-    {
-      "filepath": "posts/My Apple Vision (Pro).md",
-      "timestamp": 1688561872758
-    },
-    {
-      "filepath": "posts/Improving (yourself) 1% every day.md",
-      "timestamp": 1688561193144
     }
   ],
   "starredFileStore": [],

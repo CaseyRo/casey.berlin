@@ -8,3 +8,5 @@
 ## How chatGPT is making some jobs no longer relevant
 https://www.timesnownews.com/jobs/ai-will-replace-you-chatgpts-new-gpt-4-chatbot-says-it-will-replace-these-jobs-article-98700532
 
+## how complexity can't be solved by AI
+https://www.oreilly.com/radar/the-real-problem-with-software-development/
