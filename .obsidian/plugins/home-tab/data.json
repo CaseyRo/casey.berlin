@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "pages/Standard setup for mac.md",
+      "timestamp": 1695634827172
+    },
+    {
       "filepath": "posts/All things ChatGPT.md",
       "timestamp": 1695204583079
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
       "timestamp": 1693943109282
-    },
-    {
-      "filepath": "posts/The battle of keeping work 'hybrid' (or not).md",
-      "timestamp": 1693310589415
     }
   ],
   "starredFileStore": [],

@@ -201,7 +201,7 @@ And I’m good to go!
 A few additional tricks that I like;
 
 1. Using dockutil to clean out your dock with inactive applications:
-`dockutil —remove all` (you can also use it to add your standard dock items)
+`dockutil — all` (you can also use it to add your standard dock items)
 2. Regularly update your brew packages using `homebrew update`
 3. Using Onyx to get rid of a lot of standard annoyances of my mac, like animations of the dock, transparency, and others.
 4. I use [Setapp][13] to install a bunch of other tools, that I pay a monthly fee for. The installation of setapp can’t be automated as far as I know - comments are open!
