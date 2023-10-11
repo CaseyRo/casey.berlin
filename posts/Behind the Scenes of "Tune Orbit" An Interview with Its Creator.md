@@ -1,4 +1,4 @@
-This all just started with my fascination for music, the interest I have for technology and is just another iteration of what I've also built with [Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding](https://casey.berlin/lighting-up-love-how-i-created-a-coldplay-inspired-led-wristband-show-for-my-wedding/). I've used a ton of chatGPT to create a bit of a 'product' out of this idea, and I really enjoyed that process as well. So what else than to write a blogpost that is also fed by that? In an interviewee style?
+This all began with my passion for music and my interest in technology. It's just another iteration of what I had previously built with [Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding](https://casey.berlin/lighting-up-love-how-i-created-a-coldplay-inspired-led-wristband-show-for-my-wedding/). I've utilized chatGPT extensively to shape this idea into a 'product', and I thoroughly enjoyed the process. So, what better way to share this experience than through a blog post, especially one that's also influenced by chatGPT? Why not in an interview style?
 
 **Interviewer:** Today, we're joined by the Casey of the innovative home automation system, "Tune Orbit." First off, can you give our readers a brief introduction to what "Tune Orbit" is?
 
@@ -38,6 +38,7 @@ OwnTone's spotify integration is also solid, the user interface is good and thei
 4. And movable speakers like the sonos roam/move, they should be excluded from turning off again if no one is present, they could be moved around for instance. 
 5. As with all edge cases, they should also be easily ignored of course ;-) 
 
+![tune orbit logo](https://casey.berlin/wp-content/uploads/2023/10/tune-orbit-logo.jpeg) 
 
 **Interviewer:** The logo and visual representation of "Tune Orbit" is quite striking. Can you tell us more about it?
 
