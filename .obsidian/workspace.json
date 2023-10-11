@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
+                "file": "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
+                "file": "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +155,10 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "051172a6f8f2e51a",
+  "active": "a470c7b85ac08211",
   "lastOpenFiles": [
     "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
-    "Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
+    "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
     "posts/All things ChatGPT.md",
     "pages/Standard setup for mac.md",
     "posts/AI use cases for GPT and more.md",
