@@ -2,7 +2,7 @@ This all began with my passion for music and my interest in technology. It's jus
 
 **Interviewer:** Today, we're joined by the Casey of the innovative home automation system, "Tune Orbit." First off, can you give our readers a brief introduction to what "Tune Orbit" is?
 
-**Casey:** Absolutely! "Tune Orbit" is a home automation system I developed that 'follows' me around my house and plays music in whichever room I'm in. It's like having your personal DJ that knows exactly where you are.
+**Casey:** Absolutely! "Tune Orbit" is a home automation system I developed that 'follows' us around the house and plays music in whichever room we're in. It's like having your personal DJ that knows exactly where you are.
 
 **Interviewer:** That sounds fantastic! What inspired you to create such a system?
 
