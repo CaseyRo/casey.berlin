@@ -1,4 +1,4 @@
-It took me a while to figure out how to work with the Raspberry Pi. Especially when doing (and trying to remember) harder terminal commands. Let’s take a look at getting YouTube video’s downloaded for later use, using _only_ a Raspberry Pi. (and watching on a device of your choosing, iOS/mac in my case)
+It took me a while to figure out how to work with the Raspberry Pi. Especially when doing (and trying to remember) harder terminal commands. Let’s take a look at getting YouTube videos downloaded for later use, using _only_ a Raspberry Pi. (and watching on a device of your choosing, iOS/mac/appleTV in my case)
 
 ## What You Need to Get Started
 
