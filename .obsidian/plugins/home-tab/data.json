@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "posts/work/Untitled.md",
+      "timestamp": 1697460284162
+    },
+    {
       "filepath": "posts/youtube-dl-and-the-rpi.md",
       "timestamp": 1697460267275
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "pages/Standard setup for mac.md",
       "timestamp": 1697029706726
-    },
-    {
-      "filepath": "posts/AI use cases for GPT and more.md",
-      "timestamp": 1695204575143
     }
   ],
   "starredFileStore": [],

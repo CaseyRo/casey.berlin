@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/youtube-dl-and-the-rpi.md",
+                "file": "posts/work/empathic interviews.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/youtube-dl-and-the-rpi.md",
+                "file": "posts/work/empathic interviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,9 @@
   },
   "active": "051172a6f8f2e51a",
   "lastOpenFiles": [
+    "posts/youtube-dl-and-the-rpi.md",
+    "posts/work/empathic interviews.md",
+    "posts/work",
     "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
     "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
     "posts/All things ChatGPT.md",
@@ -180,8 +183,6 @@
     "posts/machine learning dallE stable fusion etc.md",
     "posts/Becoming a better multitasker.md",
     "posts/About those two years of solitary confimenent.md",
-    "posts/A quick (raspberry) pi recovery.md",
-    "posts/99 things I tried to stay healthy.md",
-    "posts/youtube-dl-and-the-rpi.md"
+    "posts/A quick (raspberry) pi recovery.md"
   ]
 }
