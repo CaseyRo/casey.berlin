@@ -10,4 +10,5 @@ I think interviews in 2023, also considering working remote, all come down to th
 **Some questions I like to ask:**
 
 1. I hate suprises. What is something you can imagine trhat could go wrong right now, so that I'm not surprised when that happens? (Simon Sinek)
-2. You are stranded on an island by your own and you can only pick three people to join you there. Who would it be?
+2. What drives you absolutely mad?
+3. You are stranded on an island by your own and you can only pick three people to join you there. Who would it be?
