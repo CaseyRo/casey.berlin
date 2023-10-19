@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
+      "timestamp": 1697705375684
+    },
+    {
       "filepath": "posts/work/empathic interviews.md",
       "timestamp": 1697705365328
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "posts/All things ChatGPT.md",
       "timestamp": 1697029707263
-    },
-    {
-      "filepath": "pages/Standard setup for mac.md",
-      "timestamp": 1697029706726
     }
   ],
   "starredFileStore": [],
