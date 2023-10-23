@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3f9c1afe0de6652",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +154,7 @@
       "obsidian-grammarly-plugin:Enable Grammarly": false
     }
   },
-  "active": "051172a6f8f2e51a",
+  "active": "c3f9c1afe0de6652",
   "lastOpenFiles": [
     "posts/work/empathic interviews.md",
     "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
