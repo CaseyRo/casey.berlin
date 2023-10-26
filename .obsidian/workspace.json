@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c3f9c1afe0de6652",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,16 +140,17 @@
       "markdown-importer:Open format converter": false,
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-grammarly-plugin:Enable Grammarly": false
+      "obsidian-grammarly-plugin:Enable Grammarly": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "c3f9c1afe0de6652",
+  "active": "051172a6f8f2e51a",
   "lastOpenFiles": [
+    "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
     "posts/work/empathic interviews.md",
     "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
     "posts/youtube-dl-and-the-rpi.md",
     "posts/work",
-    "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
     "posts/All things ChatGPT.md",
     "pages/Standard setup for mac.md",
     "posts/AI use cases for GPT and more.md",
