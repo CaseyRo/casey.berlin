@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a59853ea5e53ed7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +155,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "051172a6f8f2e51a",
+  "active": "0a59853ea5e53ed7",
   "lastOpenFiles": [
     "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
     "posts/work/empathic interviews.md",
