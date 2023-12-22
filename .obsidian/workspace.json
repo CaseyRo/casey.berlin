@@ -23,14 +23,15 @@
             "id": "0a59853ea5e53ed7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "posts/A journey into midjourney (image generation).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tune orbi",
+                "query": "midjourney",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,8 +156,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0a59853ea5e53ed7",
+  "active": "051172a6f8f2e51a",
   "lastOpenFiles": [
+    "posts/A journey into midjourney (image generation).md",
     "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
     "posts/work/empathic interviews.md",
     "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
@@ -177,7 +179,6 @@
     "[.md",
     "pages/contact.md",
     "pages/resume.md",
-    "posts/A journey into midjourney (image generation).md",
     "posts/Solar energy on the roof of our shed.md",
     "posts/Micromobility is the future..md",
     "posts/machine learning dallE stable fusion etc.md",
