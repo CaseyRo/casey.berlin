@@ -216,7 +216,34 @@ the results are quite stunning:
 
 ![chatgpt 4 prompting midjourney v5 example 8](https://casey.berlin/wp-content/uploads/2023/04/chatgpt-4-prompting-midjourney-v5-example-8.jpeg)
 
-## midjourney v4/v5 Conclusion
+## midjourney V6
+**please note this is still the alpha version in use**
+By the end of December 2023, midjourney introduced the alpha version of V6. It's very impressive, _stunning_ to say the least! Let's show you a few of my previous examples in this new iteration of midjourney so you (hopefully) see what I see as well.
+
+Let's start with the bridge example of V5 that I used previously and see what happens:
+
+```markdown
+a group of people being in venice in the 17th century, taking a picture on top of a bridge, selfie style, enjoying themselves, men and women combined watercolor painting van gogh style --no phone --s 1000
+```
+
+![Venice 17th Century Group](https://casey.berlin/wp-content/uploads/2024/01/Venice-17th-Century-Group.jpeg) 
+
+this is pretty awesome right? The examples still need a bit of work, but I really like how the secon and third are looking right now. 
+
+The model is still in the works, and it shows - there are quite a few artifacts, but the results are so much nicer and better looking, with a lot less 'prompting' to be done, see the following:
+
+```markdown
+a first person perspective from a cyberpunk city in 2222, late in the evening in neon lights, lots of people on the street photorealistic --s 1000
+```
+
+![First Person Cyberpunk City](https://casey.berlin/wp-content/uploads/2024/01/First-Person-Cyberpunk-City.jpeg) 
+
+The results are simply way more photorealistic, it displays the imagination a bit more and it feels more 'real' if you catch my drift.
+
+Now let's use the example of our dog that we used before to consider image 'reading' instead. You remember her from the V5 right?
+
+
+## midjourney v4/v5/v6 Conclusion
 
 My idea of 'image manipulation' isn't the critical thought behind it – midjourney is good in generating things, not adapting stuff you might have in your head.
 
