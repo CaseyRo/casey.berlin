@@ -292,18 +292,32 @@ I was really stunned when I started using chatGPT with MJ v5 to create extensive
 A female influencer from the 1930's
 ```
 
+![Female influencer 1930s full body](https://casey.berlin/wp-content/uploads/2024/01/Female-influencer-1930s-full-body.jpeg) 
+
+![Female influencer 1930s full body part 2](https://casey.berlin/wp-content/uploads/2024/01/Female-influencer-1930s-full-body-part-2.jpeg) 
+
+One exceptional feature of V6 is the ability to 'vary' mild or strong based on one of the images generated. Let's do a strong variation on the 4th image for instance:
+
+![female strong variation MJ](https://casey.berlin/wp-content/uploads/2024/01/female-strong-variation-MJ.jpeg) 
+
+
 ```markdown
 A red haired viking getting ready for action
 ```
 
+![Red Haired viking](https://casey.berlin/wp-content/uploads/2024/01/Red-Haired-viking.jpeg) 
+
 ```markdown
 A red haired cyberpunk guy wearing really awkward glasses
 ```
+
+![cyberpunk midjourney dude](https://casey.berlin/wp-content/uploads/2024/01/cyberpunk-midjourney-dude.jpeg) 
+
 ## midjourney v4/v5/v6 Conclusion
 
 My idea of 'image manipulation' isn't the critical thought behind it – midjourney is good in generating things, not adapting stuff you might have in your head.
 
-Using it to improve your wedding pictures or turning things into a logo isn't the right perspective (yet).
+Using it to improve your wedding pictures or turning things into a logo isn't the right way to look at it (yet).
 
 It is there to create new things from already existing ones in their model. Of course, you could train the model, and I've seen successful blends of famous persons known to the model in new environments (which is a deep fake territory, and against the ToS).
 
