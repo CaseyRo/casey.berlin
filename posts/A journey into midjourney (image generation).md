@@ -217,7 +217,7 @@ the results are quite stunning:
 ![chatgpt 4 prompting midjourney v5 example 8](https://casey.berlin/wp-content/uploads/2023/04/chatgpt-4-prompting-midjourney-v5-example-8.jpeg)
 
 ## midjourney V6
-**please note this is still the alpha version in use**
+**please note this is still the alpha version in use** ([release notes](https://mid-journey.ai/midjourney-v6-release/))
 By the end of December 2023, midjourney introduced the alpha version of V6. It's very impressive, _stunning_ to say the least! Let's show you a few of my previous examples in this new iteration of midjourney so you (hopefully) see what I see as well.
 
 Let's start with the bridge example of V5 that I used previously and see what happens:
@@ -242,7 +242,63 @@ The results are simply way more photorealistic, it displays the imagination a bi
 
 Now let's use the example of our dog that we used before to consider image 'reading' instead. You remember her from the V5 right?
 
+```markdown
+cartoon style
+```
 
+![sienMJv6](https://casey.berlin/wp-content/uploads/2024/01/sienMJv6.jpeg) 
+
+even though the result looks more 'realistic', this is not what I wanted. So again we need a bit of finetuning of the prompt:
+
+```markdown
+cartoon style dog --s 250
+```
+
+![Cartoon Style Dog from Midjourney](https://casey.berlin/wp-content/uploads/2024/01/Cartoon-Style-Dog-from-Midjourney.jpeg) 
+
+it's still far away from my 'original' image but I like the outcomes a lot better :-) 
+
+Now for my favourite topic, combining Berlin and Cyberpunk:
+
+```markdown
+Berlin's brandenburger tor in cyberpunk style in 2222, late in the evening. It's raining, there's little people there. --s 1000 --ar 3:2
+```
+
+![Brandenburger Tor Cyberpunk](https://casey.berlin/wp-content/uploads/2024/01/Brandenburger-Tor-Cyberpunk.jpeg) 
+
+Again there's so much more detail, sharpness and realism to the image that I _almost_ believe this is the real Tor in 2222.
+
+another variation brought me this:
+
+![Brandenburger Tor Cyberpunk upscale](https://casey.berlin/wp-content/uploads/2024/01/Brandenburger-Tor-Cyberpunk-upscale.jpeg) 
+
+Let's take a look at what MJ makes out of my own image when I try to make a logo out of it:
+
+```markdown
+as a cartoon logo, futuristic but subtle, imaginative but down to earth. Inquisitive
+```
+
+![CR Cartoon logo](https://casey.berlin/wp-content/uploads/2024/01/CR-Cartoon-logo.jpeg) 
+
+What strikes me is that the images make more sense, there's just less nonesense on there. I choose the style `raw` on it, if I put it back to style `1000` it looks a bit like this:
+
+![CaseyRomkes Cartoon Logo 2](https://casey.berlin/wp-content/uploads/2024/01/CaseyRomkes-Cartoon-Logo-2.jpeg) 
+
+This just doesn't work that well, although I understand where the model gets the ideas from.
+
+I was really stunned when I started using chatGPT with MJ v5 to create extensive prompts for midjourney, but guess what, that's no longer needed! You can create stunning, photorealistic results with very 'basic' prompts:
+
+```markdown
+A female influencer from the 1930's
+```
+
+```markdown
+A red haired viking getting ready for action
+```
+
+```markdown
+A red haired cyberpunk guy wearing really awkward glasses
+```
 ## midjourney v4/v5/v6 Conclusion
 
 My idea of 'image manipulation' isn't the critical thought behind it – midjourney is good in generating things, not adapting stuff you might have in your head.
