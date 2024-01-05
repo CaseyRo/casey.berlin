@@ -49,8 +49,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a491f0e407456b54",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +160,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -174,7 +187,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b43435707d29126c",
+  "active": "a491f0e407456b54",
   "lastOpenFiles": [
     "Pasted image 20240102140339.png",
     "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
