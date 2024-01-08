@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "a0f393c12bfe3493",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "0a59853ea5e53ed7",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +142,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -156,8 +169,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "051172a6f8f2e51a",
+  "active": "a0f393c12bfe3493",
   "lastOpenFiles": [
+    "Pasted image 20240102140339.png",
     "posts/A journey into midjourney (image generation).md",
     "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
     "posts/work/empathic interviews.md",
@@ -183,7 +197,6 @@
     "posts/Micromobility is the future..md",
     "posts/machine learning dallE stable fusion etc.md",
     "posts/Becoming a better multitasker.md",
-    "posts/About those two years of solitary confimenent.md",
-    "posts/A quick (raspberry) pi recovery.md"
+    "posts/About those two years of solitary confimenent.md"
   ]
 }
