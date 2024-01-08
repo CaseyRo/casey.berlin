@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "midjourney",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 243.5
   },
   "right": {
     "id": "1a21cb7a428850bf",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/A journey into midjourney (image generation).md",
+                "file": "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fe2fd1837ea1a693",
+  "active": "e6a0123fb9f8d1cd",
   "lastOpenFiles": [
     "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
     "Pasted image 20240102140339.png",
