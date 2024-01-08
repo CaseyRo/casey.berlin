@@ -13,39 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
+                "file": "posts/Top 2000 lost records.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a59853ea5e53ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/A journey into midjourney (image generation).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b203af013a7c4aa9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fe2fd1837ea1a693",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/A journey into midjourney (image generation).md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -96,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
+                "file": "posts/Top 2000 lost records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,11 +145,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e6a0123fb9f8d1cd",
+  "active": "051172a6f8f2e51a",
   "lastOpenFiles": [
     "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
-    "Pasted image 20240102140339.png",
+    "posts/Top 2000 lost records.md",
     "posts/A journey into midjourney (image generation).md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20240102140339.png",
     "posts/work/empathic interviews.md",
     "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
     "posts/youtube-dl-and-the-rpi.md",
@@ -204,7 +174,6 @@
     "posts/Solar energy on the roof of our shed.md",
     "posts/Micromobility is the future..md",
     "posts/machine learning dallE stable fusion etc.md",
-    "posts/Becoming a better multitasker.md",
-    "posts/About those two years of solitary confimenent.md"
+    "posts/Becoming a better multitasker.md"
   ]
 }
