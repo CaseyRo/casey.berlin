@@ -313,6 +313,15 @@ A red haired cyberpunk guy wearing really awkward glasses
 
 ![cyberpunk midjourney dude](https://casey.berlin/wp-content/uploads/2024/01/cyberpunk-midjourney-dude.jpeg) 
 
+### Some more type testing
+With a new alpha released recently, performance of 'text' has improved somewhat. a
+
+```markdown
+A funky cyberpunk logo for "Casey"
+```
+
+![Casey MJ logo](https://casey.berlin/wp-content/uploads/2024/01/Casey-MJ-logo.jpeg)
+
 ## midjourney v4/v5/v6 Conclusion
 
 My idea of 'image manipulation' isn't the critical thought behind it – midjourney is good in generating things, not adapting stuff you might have in your head.
