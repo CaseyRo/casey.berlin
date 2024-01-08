@@ -24,12 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
-      "timestamp": 1704731624096
+      "filepath": "posts/A journey into midjourney (image generation).md",
+      "timestamp": 1704731638528
     },
     {
-      "filepath": "posts/A journey into midjourney (image generation).md",
-      "timestamp": 1704709480061
+      "filepath": "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
+      "timestamp": 1704731624096
     },
     {
       "filepath": "posts/work/empathic interviews.md",
@@ -38,10 +38,6 @@
     {
       "filepath": "posts/Lighting Up Love - How I Created a Coldplay-Inspired LED Wristband Show for My Wedding.md",
       "timestamp": 1697467101695
-    },
-    {
-      "filepath": "posts/youtube-dl-and-the-rpi.md",
-      "timestamp": 1697460267275
     }
   ],
   "starredFileStore": [],
