@@ -16,6 +16,8 @@ Het proces waar wij voor hebben gekozen:
 	2. We hebben overwogen platen van ná 2015 te negeren in de lijst, maar we hebben ze toch laten staan. Pareltjes als Mercy van muse of Sorry van Justin Bieber (grapje) mogen er ook gewoon bij zijn.
 2. de lijst is nu nog simpel gesorteerd op 'van A naar Z', op artiest (en daarna de titel). We hebben ook een ranking gemaakt van 'mist lost', naar 'meest lost' record, daarvoor publiceren we later meer lijsten.
 
+![music blog](https://casey.berlin/wp-content/uploads/2024/01/music-blog.jpeg) 
+
 ### Voor de techneuten
 1. De lijst staat dus in een google sheet, elke track zoeken we vervolgens op in spotify. (gelukkig niet met de hand)
 2. Het zoeken van deze platen is dmv Postman geautomatiseerd. Het eerste resultaat wat spotify ons geeft gebruiken we als trackID.
