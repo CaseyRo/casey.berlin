@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New business coach - my own customGPT.md",
+                "file": "posts/New business coach - my own customGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New business coach - my own customGPT.md",
+                "file": "posts/New business coach - my own customGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,10 +158,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a46929005dc8a0a1",
+  "active": "a470c7b85ac08211",
   "lastOpenFiles": [
     "posts/Top 2000 lost records.md",
-    "New business coach - my own customGPT.md",
+    "posts/New business coach - my own customGPT.md",
     "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
     "posts/A journey into midjourney (image generation).md",
     "conflict-files-obsidian-git.md",
