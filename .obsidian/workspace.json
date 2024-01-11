@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a46929005dc8a0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New business coach customGPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Top 2000 lost records.md",
+                "file": "New business coach customGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,10 +158,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "051172a6f8f2e51a",
+  "active": "a46929005dc8a0a1",
   "lastOpenFiles": [
-    "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
     "posts/Top 2000 lost records.md",
+    "New business coach customGPT.md",
+    "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
     "posts/A journey into midjourney (image generation).md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240102140339.png",
@@ -173,7 +187,6 @@
     "pages/resume.md",
     "posts/Solar energy on the roof of our shed.md",
     "posts/Micromobility is the future..md",
-    "posts/machine learning dallE stable fusion etc.md",
-    "posts/Becoming a better multitasker.md"
+    "posts/machine learning dallE stable fusion etc.md"
   ]
 }
