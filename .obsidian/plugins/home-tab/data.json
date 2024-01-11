@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Untitled.md",
+      "filepath": "posts/My Apple Vision (Pro).md",
+      "timestamp": 1704966127068
+    },
+    {
+      "filepath": "posts/New business coach - my own customGPT.md",
       "timestamp": 1704961722152
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "posts/A journey into midjourney (image generation).md",
       "timestamp": 1704731638528
-    },
-    {
-      "filepath": "posts/work/empathic interviews.md",
-      "timestamp": 1697705365328
     }
   ],
   "starredFileStore": [],
