@@ -83,6 +83,9 @@ What would a regular 'day-to-day' look like for me when I would include vision? 
 > Using a Mac, you are in a physical place. There is a display in front of you in that place, and on that display are application windows. Using VisionOS, there are just application windows in the physical place in which you are
 
 
+* djay designing for visionOS (DJ app) --> https://developer.apple.com/news/?id=q0cq9dv9
+
+> In the end, this incredible use of technology serves a very simple purpose: interacting with the music you love. Morsy — a musician himself — points to a piano he keeps in his office. “That piano has had the same interface for hundreds of years,” he says. “That’s what we’re trying to reach, that sweet spot between complexity and ease of use. With _djay_ on Vision Pro, it’s less about, ‘Let’s give people bells and whistles,’ and more, ‘Let’s let them have this experience.’”
 
 
 ## Current conclusion (11.1.24)

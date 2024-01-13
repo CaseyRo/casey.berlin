@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vision",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/My Apple Vision (Pro).md",
+                "file": "posts/Top 2000 lost records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,8 +158,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a46929005dc8a0a1",
+  "active": "051172a6f8f2e51a",
   "lastOpenFiles": [
+    "posts/My Apple Vision (Pro).md",
+    "pages/how.md",
     "posts/New business coach - my own customGPT.md",
     "posts/Top 2000 lost records.md",
     "posts/Behind the Scenes of \"Tune Orbit\" An Interview with Its Creator.md",
@@ -176,7 +178,6 @@
     "Dealing with mental health (and depression).md",
     "Personal development and.md",
     "posts/The battle of keeping work 'hybrid' (or not).md",
-    "posts/My Apple Vision (Pro).md",
     "posts/Improving (yourself) 1% every day.md",
     "posts/My journey at diconium, 1172 days in.md",
     "posts/(Multi purpose) Electric Vehicles.md",
@@ -186,7 +187,6 @@
     "pages/contact.md",
     "pages/resume.md",
     "posts/Solar energy on the roof of our shed.md",
-    "posts/Micromobility is the future..md",
-    "posts/machine learning dallE stable fusion etc.md"
+    "posts/Micromobility is the future..md"
   ]
 }
