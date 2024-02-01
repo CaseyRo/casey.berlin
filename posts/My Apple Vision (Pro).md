@@ -1,4 +1,6 @@
-I've been asked by a few people what I think about the upcoming Apple Vision or talking about it in Apple's marketing words: "The first steps into spatial computing". Imagine a world where your apps live in your space, transforming your environment into an infinite canvas. With spatial videos and photos, relive cherished moments in 3D, and turn any room into a personal theatre. Curious about the potential of this game-changing technology? Let us take a comprehensive look at the future of spatial computing.
+I've been asked by a few people what I think about the upcoming Apple Vision or talking about it in Apple's marketing words: "The first steps into spatial computing". 
+
+I imagine a world where your content (apps, photos, [music](https://www.linkedin.com/posts/gregmadison_metaquest3-madewithunity-spatialcomputing-ugcPost-7158561762248683520-GGQS/)) have a place around you, adding digital assets to your personal surroundings without bothering anyone else. Apps can take all the room around you without anyone noticing, photos can be enjoyed as personal memories and movies watched as intended. Fascinating!
 
 Before we dive in, if you haven't seen Apple's keynote yet about it, check out what The Verge posted to get you up to speed:
 
@@ -9,11 +11,23 @@ In case you are interested in how Apple presented it in marketing 'speak', check
 
 [![Watch the video](https://img.youtube.com/vi/TX9qSaGXFyg/hqdefault.jpg)](https://youtu.be/TX9qSaGXFyg)
 
-## General thoughts
-1. The battery life is a problem, but this limitation is quickly solved with enough power bricks and spare batteries until the next generation(s) of glasses demand less and less. As confirmed by Apple, 2D 'movies' can be watched for about 2,5 hours, anything else will keep the battery going for about 2 hours.
-2. Motion sickness will be an issue, even though Apple said it will not.
-3. First impressions are it's not as marketing tells us it is. There is some 'blackness' in the corners.
-4. ~~There is no killer app yet, but we'll get there with the attention it got at WWDC~~. The killer app is the UX itself. Everything combined makes it frictionless, easy to use and understandable. Just as the iPhone did for Smartphones, Vision is doing for 'spatial computing' (read: AR/VR)
+## Great reviews to watch
+
+The verge made a phenomenal review that you should really watch to understand the 'first iteration' of AVP (Apple Vision Pro): 
+
+[![Watch the video](https://img.youtube.com/vi/hdwaWxY11jQ/hqdefault.jpg)](https://youtu.be/hdwaWxY11jQ)
+
+And one freeze frame I caught from [Joanna Sterns' review](https://www.youtube.com/watch?v=8xI10SFgzQ8):
+
+![joanna stern cooking apple vision pro](https://casey.berlin/wp-content/uploads/2024/02/joanna-stern-cooking-apple-vision-pro.jpeg) 
+
+The use case is of course very limited, but being able to put a timer on top of a cooking pot really *stirred the pot* on the socials when it was first shown!
+
+## General thoughts after (hands off) reviews:
+1. The battery life is a problem, but this limitation is quickly solved with enough power bricks and spare batteries until the next generation(s) of glasses demand less and less. As confirmed by Apple, 2D 'movies' can be watched for about 2,5 hours, anything else will keep the battery going for about 2 hours. *it seems this is a floor, not a ceiling, average use brings it up to 3 hours*
+2. ~~Motion sickness will be an issue, even though Apple said it will not~~. *I haven't seen any mention here of motion sickness except for the verge mentioning it when you transition too much and want to things too quickly, especially when moving around..*
+3. First impressions are it's not as marketing tells us it is. There is some 'blackness' in the corners. *reviews confirm that the FOV is only about 90 degrees, you're looking through binoculars*
+4. ~~There is no killer app yet, but we'll get there with the attention it got at WWDC~~. The killer app is the UX itself. Everything combined makes it frictionless, easy to use and understandable. Just as the iPhone did for Smartphones, Vision is doing for 'spatial computing' (read: AR/VR) - *I still agree on my opinion here, but I'd like to see what our 'average persons' will tell us after they experience it.*
 5. Gestures are kept simple and easy. See below, and you can add custom ones yourself
 
 ![basic vision pro gestures](https://casey.berlin/wp-content/uploads/2023/06/basic-vision-pro-gestures.jpeg) 
@@ -21,9 +35,9 @@ In case you are interested in how Apple presented it in marketing 'speak', check
 
 ## My professional context
 
-The vision pro enables more opportunities and possibilities to work 'on the go', regardless of where you are.
+The vision pro enables more opportunities and possibilities to work 'on the go', regardless of where you are. A bit of travel like I do on a train for 4-5 hours or even on a plane would be a great place to use the AVP, even though it is pretty large.
 
-Right now, I am typing this on a way too heavy 16" intel macbook Pro, and having to converse with chatGPT to find some fitting images is all window management. That will be gone, you'll have a lot of screen estate with spatial computing. And those pesky colleagues that keep on watching your screen? They're gone. 
+Right now, I am typing this on ~~a way too heavy 16" intel macbook Pro~~ M2 max macbook pro 14", which I fell in love with, but having to converse with chatGPT to find some fitting images is still window management. That will be gone, you'll have a lot of screen estate with spatial computing. And those pesky colleagues that keep on watching your screen? They're gone. 
 
 And let's make a positive example out of that, having to do work with confidential information is no longer a problem since that only exists in your headset (and activating or putting it on needs your 'pupil ID' to be recognised)
 

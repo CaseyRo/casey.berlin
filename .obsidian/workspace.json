@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,8 +141,8 @@
       "markdown-importer:Open format converter": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-grammarly-plugin:Enable Grammarly": false,
-      "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "051172a6f8f2e51a",
