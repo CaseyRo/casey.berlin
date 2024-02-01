@@ -56,7 +56,9 @@ On the plus side, the vision Pro could be an extension of my personal being – 
 
 Being back home, I'd be happy to ignore the big screen in the living room to watch a show I only like or have a little gaming session after work, even using cloud providers like Xbox or GeForce now for some 'real' games. I could turn a small desk or kitchen table into a productive environment. Still, I'm more interested in how it can enable garden planning, a DIY project or assist me in repairing things that don't take place in an office setting.
 
-Since I still love F1 and football, I would see statistics, live timing and more than one screen when watching sports. Not annoying my spouse is a big benefit!
+![short cut buttons AVP](https://casey.berlin/wp-content/uploads/2024/02/short-cut-buttons-AVP.jpeg) 
+
+A simple interaction such as this one is a great example of a 'layer' of interactivity living around you. I still love F1 and football, I would see statistics, live timing and more than one screen when watching sports. We could even still watch it both on the same screen (passthrough is there) but have added statistics that I personally find more interesting.
 
 Where other headsets have found a fitness niche, Apple is not at that point *yet*. I wouldn't want to wear any more gadgets I already do during training, and they need to be solid when throwing around weights or going all out in a rowing session. Vision Pro is fragile. *Vision fitness* will be much better for this – I can imagine a rayban meta form factor with Apple Tech would be great to deal with this.
 
