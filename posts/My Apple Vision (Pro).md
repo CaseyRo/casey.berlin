@@ -46,6 +46,11 @@ Since I still love F1 and football, I would see statistics, live timing and more
 
 Where other headsets have found a fitness niche, Apple is not at that point *yet*. I wouldn't want to wear any more gadgets I already do during training, and they need to be solid when throwing around weights or going all out in a rowing session. Vision Pro is fragile. *Vision fitness* will be much better for this – I can imagine a rayban meta form factor with Apple Tech would be great to deal with this.
 
+## Killer feature, sign language
+What if apple vision would be able to enable the following for everyone of us?
+
+https://www.youtube.com/watch?v=TZvI9wgCQsU
+
 ## A day with Vision Pro
 What would a regular 'day-to-day' look like for me when I would include vision? [Some blogs consider this will never be the case](https://www.laptopmag.com/features/theres-no-way-in-hell-anyone-is-using-the-apple-vision-pro-for-a-full-days-work) due to nausea, problems with eyesight and disconnection from the real world, but I would like to challenge that assumption. 
 
