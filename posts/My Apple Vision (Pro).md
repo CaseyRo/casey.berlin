@@ -120,5 +120,5 @@ Do I see risks? ✅ Of course - developing interesting applications will take a 
 
 Digitally interacting with the physical world needs to feel empowering and effortless. If this doesn't work as expected, people will stop using it. There is no longer a screen in your hand, creating technical limitations. That change in paradigm needs a lot of thinking and adoption. The younger generation will just use this technology if it's always been there, give them these tools to find out how they can work with it and learn from them.
 
-*The one more thing* that gave me the feeling we've finally arrived in the spatial future is the thought Apple put into *informing* the world around you about your virtual awareness. You are in the 'virtual world' *and* the real world. Displaying your eyes (or hiding them) is simple and powerful. I loved that detail.
+*The one more thing* that gave me the feeling we've finally arrived in the spatial future is the thought Apple put into *informing* the world around you about your virtual awareness. You are in the 'virtual world' *and* the real world. Displaying your eyes (or hiding them) is simple and powerful. I loved that detail. *even though the reviews agreed the gimmick value is much bigger than the real value.*
 
