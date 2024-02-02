@@ -54,7 +54,12 @@ Being back home, I'd be happy to ignore the big screen in the living room to wat
 
 ![short cut buttons AVP](https://casey.berlin/wp-content/uploads/2024/02/short-cut-buttons-AVP.jpeg) 
 
-A simple interaction such as the one above is a great example of a 'layer' of interactivity living around you. I still love F1 and football, I would see statistics, live timing and more than one screen when watching sports. We could even still watch it both on the same screen (passthrough is there) but have added statistics that I personally find more interesting.
+A simple interaction such as the one above is a great example of a 'layer' of interactivity living around you. I still love F1 (see below, that concept didn't take long to become reality!) and football, I would see statistics, live timing and more than one screen when watching sports. We could even still watch it both on the same screen (passthrough is there) but have added statistics that I personally find more interesting.
+
+https://youtube.com/shorts/-vIP_1WFQu4
+
+[![Watch the video](https://img.youtube.com/vi/-vIP_1WFQu4/hqdefault.jpg)](https://youtu.be/-vIP_1WFQu4)
+
 
 Where other headsets have found a fitness niche, Apple is not at that point *yet*. I wouldn't want to wear any more gadgets I already do during training, and they need to be solid when throwing around weights or going all out in a rowing session. Vision Pro is fragile. *Vision fitness* will be much better for this – I can imagine a rayban meta form factor with Apple Tech would be great to deal with this.
 
