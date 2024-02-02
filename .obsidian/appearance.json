@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Molecule",
+  "cssTheme": "Flexoki",
   "translucency": false,
   "interfaceFontFamily": "Helvetica",
   "monospaceFontFamily": "Andale Mono",
-  "theme": "moonstone",
+  "theme": "system",
   "accentColor": ""
 }
