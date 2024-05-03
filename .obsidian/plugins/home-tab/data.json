@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "posts/Untitled.md",
+      "timestamp": 1714747669638
+    },
+    {
+      "filepath": "pages/raspberry PI 101.md",
+      "timestamp": 1714328097897
+    },
+    {
+      "filepath": "posts/A quick (raspberry) pi recovery.md",
+      "timestamp": 1713682263094
+    },
+    {
+      "filepath": "posts/Influencers are the new web banner.md",
+      "timestamp": 1713682254786
+    },
+    {
       "filepath": "posts/My Apple Vision (Pro).md",
-      "timestamp": 1707208773815
-    },
-    {
-      "filepath": "posts/Top 2000 lost records.md",
-      "timestamp": 1705142175081
-    },
-    {
-      "filepath": "pages/how.md",
-      "timestamp": 1705142098173
+      "timestamp": 1707743612972
     }
   ],
   "starredFileStore": [],

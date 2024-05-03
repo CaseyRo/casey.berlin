@@ -1,0 +1,5 @@
+- newer generations have developed 'banner blindnesss' as we had them before
+- we spot 'fakeness' quite quickly
+- grey area influencers are in danger, they get by making little money but still will be there 'forever', attached to below average brands with their content going around forever
+- new brands don't want 'dirty influencers'
+- 
