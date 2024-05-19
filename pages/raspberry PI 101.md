@@ -197,6 +197,19 @@ This makes sure byobu is also enabled by default. I love to use it to be able to
 Take a look here if you're bored:
 https://www.youtube.com/watch?v=NawuGmcvKus
 
+Last but not least, some other tools. Read inline:
+
+```bash
+# install micro, in my idea a much better text editor
+$ apt-get install micro
+# stow, for managing dotfiles
+$ apt-get install stow
+# python3. Does that need introductions?
+$ apt-get install python3
+# pip - the python package manager 
+$ apt-get install python3-pip
+```
+
 #### 2.2.2 - Webinstall.dev
 
 I recently found [webinstall.dev](https://webinstall.dev) which has a few really great ideas about (platform agnostic) installation of several tools. It also doesn't need any admin permissions (although you can) which is fantastic.
@@ -216,6 +229,41 @@ curl -sS https://webi.sh/gh | sh &&
 curl -sS https://webi.sh/serviceman | sh &&
 #synthing, sycing a lot of my stuff, especially my dotfiles
 curl -sS https://webi.sh/syncthing | sh
+```
+
+#### 2.2.2.1 - Starting services with serviceman
+
+```bash
+serviceman add syncthing --name="syncthing"
+```
+
+More are obvious possible, but haven't had any clear other use cases here yet. Most 'regular' jobs are still done with cron/crontab.
+
+#### 2.2.3 - Python packages that are must haves
+
+```bash
+pip install -U hyfetch
+```
+
+#### 2.2.4 - Other packages that are nice to have
+
+Bashtop
+
+```bash
+git clone https://github.com/aristocratos/bashtop.git
+cd bashtop
+sudo make install
+```
+
+Webmin
+```bash
+curl -o setup-repos.sh https://raw.githubusercontent.com/webmin/webmin/master/setup-repos.sh
+$ sh setup-repos.sh
+```
+
+Zoxide
+```bash
+curl -sSfL https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | sh
 ```
 
 
