@@ -148,6 +148,77 @@ Host *
     AddKeysToAgent	yes
 ```
 
+### 2.2 Let's get comfortable in the terminal shall we?
+
+**Please note, anything mentioned with $ means it should be installed as _root_.**
+
+Let's make sure we get all the most recent updates now.
+
+```bash
+$ apt-get update && apt-get upgrade
+```
+
+And once that's done, things can go any direction now. My current (2024'ish) setup consists of the following parts.
+
+#### 2.2.1 - terminal tools to get going.
+
+ZSH + ohmyzsh
+
+```
+$ apt-install zsh
+```
+
+ZSH is a great(er) terminal standard bash, long story but of course, go and google about that.
+
+Let's make it the default shell:
+```
+chsh -s $(which zsh)
+```
+
+And setup oh-my-zsh
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+It's lovely!
+
+Yeah and then there's nothing left that tells you where you are in your shell. Which pretty much is the idea!
+
+![ohmyzsh](https://casey.berlin/wp-content/uploads/2024/05/ohmyzsh.jpeg) 
+
+Now let's add a 'window manager' / session manager to the setup as well, in my case this is `byobu`.
+
+```bash
+$ apt-get install byobu && byobu-enable
+```
+
+This makes sure byobu is also enabled by default. I love to use it to be able to keep sessions running in the background, but also to be able to use multiple windows in one screen, etc. etc.
+
+Take a look here if you're bored:
+https://www.youtube.com/watch?v=NawuGmcvKus
+
+#### 2.2.2 - Webinstall.dev
+
+I recently found [webinstall.dev](https://webinstall.dev) which has a few really great ideas about (platform agnostic) installation of several tools. It also doesn't need any admin permissions (although you can) which is fantastic.
+
+I use webinstall to install:
+
+```bash
+#webi itself
+curl -sS https://webi.sh/webi | sh && 
+#nerd font
+curl -sS https://webi.sh/nerdfont | sh && 
+#bat (a better cat)
+curl -sS https://webi.sh/bat | sh &&
+#github cli
+curl -sS https://webi.sh/gh | sh && 
+#serviceman, for running things as service
+curl -sS https://webi.sh/serviceman | sh &&
+#synthing, sycing a lot of my stuff, especially my dotfiles
+curl -sS https://webi.sh/syncthing | sh
+```
+
+
 ### 2.2. Managing USB Drives
 
 I formatted my 10 TB drive into a few pieces;
