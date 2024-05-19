@@ -177,7 +177,11 @@ chsh -s $(which zsh)
 
 And setup oh-my-zsh
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" &&
+# and add some plugins
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions &&
+# and another through pacman
+pacman 
 ```
 
 It's lovely!
@@ -208,6 +212,8 @@ $ apt-get install stow
 $ apt-get install python3
 # pip - the python package manager 
 $ apt-get install python3-pip
+# pacman - another package manager for ZSH plugins
+$ apt-get install pacman
 ```
 
 #### 2.2.2 - Webinstall.dev
@@ -243,6 +249,13 @@ More are obvious possible, but haven't had any clear other use cases here yet. M
 
 ```bash
 pip install -U hyfetch
+```
+#### 2.2.4 - Stowing dotfiles with gnu stow
+
+```bash
+# make sure the dotfiles are synced first!
+# and in case you get errors, delete the 'local' dotfile you want to replace with the synced data.
+stow --target=/home/caseyromkes gitconfig
 ```
 
 #### 2.2.4 - Other packages that are nice to have
