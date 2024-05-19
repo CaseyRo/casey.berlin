@@ -596,13 +596,9 @@ https://youtube.com/watch?v=-CfnXOlYiz
 	sudo apt-get install rcconf
 	```
 
-2. [Byobu][23] --\> Great bit of terminal kit to be able to keep on running tasks after closing your SSH session and manage multiple windows, sessions, and splits.
+2. Set your timezone, hostname etc. → `sudo rasp-config` mostly, but I came to this because of [this article][24].
 
-![Byobu showing it’s splitscreen prowess][image-4]
-
-3. Set your timezone, hostname etc. → `sudo rasp-config` mostly, but I came to this because of [this article][24].
-
-4. [Great read through on making your PI a bit tougher][25]
+3. [Great read through on making your PI a bit tougher][25]
 
 ### 3.1. On Using Docker
 
