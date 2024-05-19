@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/EURO 2024 ICS - icalender file, with specials!.md",
-                "mode": "source",
+                "file": "posts/A quick (raspberry) pi recovery.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/EURO 2024 ICS - icalender file, with specials!.md",
+                "file": "posts/A quick (raspberry) pi recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,8 @@
   },
   "active": "4277ac1fbf2c8b61",
   "lastOpenFiles": [
-    "pages/raspberry PI 101.md",
     "posts/EURO 2024 ICS - icalender file, with specials!.md",
+    "pages/raspberry PI 101.md",
     "posts/A quick (raspberry) pi recovery.md",
     "posts/Influencers are the new web banner.md",
     "posts/My Apple Vision (Pro).md",
