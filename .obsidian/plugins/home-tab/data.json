@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "posts/from instagram to apple notes - a complicated overengineerd set of siri shortcuts.md",
+      "timestamp": 1716974174642
+    },
+    {
       "filepath": "pages/raspberry PI 101.md",
-      "timestamp": 1716292712445
+      "timestamp": 1716974172664
     },
     {
       "filepath": "pages/Standard setup for mac.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "posts/youtube-dl-and-the-rpi.md",
       "timestamp": 1716125738806
-    },
-    {
-      "filepath": "posts/A quick (raspberry) pi recovery.md",
-      "timestamp": 1716125708509
     }
   ],
   "starredFileStore": [],

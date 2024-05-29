@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/raspberry PI 101.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0501c44f7375ad0f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ca4b19ea8004f38c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/raspberry PI 101.md",
+                "file": "posts/from instagram to apple notes - a complicated overengineerd set of siri shortcuts.md",
                 "mode": "preview",
                 "source": false
               }
@@ -83,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 452.5,
-    "collapsed": true
+    "width": 452.5
   },
   "right": {
     "id": "1a21cb7a428850bf",
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/raspberry PI 101.md",
+                "file": "posts/from instagram to apple notes - a complicated overengineerd set of siri shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,14 +143,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ca4b19ea8004f38c",
+  "active": "4277ac1fbf2c8b61",
   "lastOpenFiles": [
+    "pages/raspberry PI 101.md",
+    "posts/from instagram to apple notes - a complicated overengineerd set of siri shortcuts.md",
     "pages/Standard setup for mac.md",
     "posts/What work(s)ation and what not.md",
     "posts/youtube-dl-and-the-rpi.md",
     "posts/A quick (raspberry) pi recovery.md",
     "posts/EURO 2024 ICS - icalender file, with specials!.md",
-    "pages/raspberry PI 101.md",
     "posts/Influencers are the new web banner.md",
     "posts/My Apple Vision (Pro).md",
     "posts/Dealing with mental health (and depression).md",
@@ -191,7 +172,6 @@
     "Personal development and.md",
     "posts/The battle of keeping work 'hybrid' (or not).md",
     "posts/Improving (yourself) 1% every day.md",
-    "posts/My journey at diconium, 1172 days in.md",
-    "posts/(Multi purpose) Electric Vehicles.md"
+    "posts/My journey at diconium, 1172 days in.md"
   ]
 }
