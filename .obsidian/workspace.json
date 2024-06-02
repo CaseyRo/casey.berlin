@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "efd9d8452790763d",
+        "id": "dccc5492281f587d",
         "type": "tabs",
         "children": [
           {
-            "id": "4277ac1fbf2c8b61",
+            "id": "6d8facee207b54f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/from instagram to apple notes - a complicated overengineerd set of siri shortcuts.md",
-                "mode": "preview",
+                "file": "pages/raspberry PI 101.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/from instagram to apple notes - a complicated overengineerd set of siri shortcuts.md",
+                "file": "pages/raspberry PI 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +143,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4277ac1fbf2c8b61",
+  "active": "6d8facee207b54f9",
   "lastOpenFiles": [
+    "image-1.md",
     "pages/raspberry PI 101.md",
     "posts/from instagram to apple notes - a complicated overengineerd set of siri shortcuts.md",
     "pages/Standard setup for mac.md",
@@ -171,7 +172,6 @@
     "Dealing with mental health (and depression).md",
     "Personal development and.md",
     "posts/The battle of keeping work 'hybrid' (or not).md",
-    "posts/Improving (yourself) 1% every day.md",
-    "posts/My journey at diconium, 1172 days in.md"
+    "posts/Improving (yourself) 1% every day.md"
   ]
 }
